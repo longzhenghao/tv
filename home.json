@@ -1,1 +1,2525 @@
-﻿{"status":0,"ui_type":{"unitary":true,"name":"left_nav"},"blocks":[{"ui_type":{"unitary":true,"name":"block_list"},"blocks":[{"ui_type":{"unitary":false,"ratio":1.33,"name":"block_grid_user","columns":6},"ver":1473064356,"ad":{"enable":false},"title":"\u4e2a\u4eba\u4e2d\u5fc3","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CCD7006714C0500809ED99","md5":"93e7e7ae08cfc4910681e1e5d523329f"}},"items":[{"ui_type":{"unitary":true,"name":"display_item","pos":{"y":0,"x":0,"w":1,"h":2}},"ver":1473064356,"ad":{"enable":false},"title":"\u4e0a\u6b21\u89c2\u770b","images":{"poster":{"url":"http://r2.ykimg.com/0510000057CD0EEA6714C0501B01DC0D","md5":"1965d1427156da3c8bdd80081be3fb34"}},"id":8},{"ui_type":{"unitary":true,"name":"display_item","pos":{"y":0,"x":1,"w":1,"h":1}},"ver":1473064356,"ad":{"enable":false},"title":"\u6700\u8fd1\u89c2\u770b","images":{"poster":{"url":"http://r3.ykimg.com/0510000057CD0F0B6714C05058051A4A","md5":"eaa5b92a4b72851f99dad906137827b9"}},"id":9},{"ui_type":{"unitary":true,"name":"display_item","pos":{"y":1,"x":1,"w":1,"h":1}},"ver":1473064356,"ad":{"enable":false},"title":"\u6211\u7684\u5e94\u7528","images":{"poster":{"url":"http://r4.ykimg.com/0510000057CD0EF96714C050400C0CE1","md5":"763bc095d1d19a5ffe87be7f92c226d7"}},"id":10},{"ui_type":{"unitary":true,"name":"display_item","pos":{"y":0,"x":2,"w":1,"h":2}},"ver":1473064356,"ad":{"enable":false},"title":"\u5e74\u8f7b\u65f6\u5149","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CD0F166714C05087019C61","md5":"09e845d65f3780e357f12074f555f5ba"}},"id":11},{"ui_type":{"unitary":true,"name":"display_item","pos":{"y":0,"x":3,"w":1,"h":2}},"ver":1473064356,"ad":{"enable":false},"title":"\u8702\u9e1f\u7279\u5de5","images":{"poster":{"url":"http://r4.ykimg.com/0510000057CD0F296714C050AC0556FF","md5":"95c3793e2573e485545ff9b6f7058bed"}},"id":13},{"ui_type":{"unitary":true,"name":"display_item","pos":{"y":0,"x":4,"w":1,"h":2}},"ver":1473064356,"ad":{"enable":false},"title":"\u8c0d\u5f71\u91cd\u91cd","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CD0F386714C04F97015DAC","md5":"1ce268c75f8b3db5247c2f98b2e1b04c"}},"id":14},{"ui_type":{"unitary":true,"name":"display_item","pos":{"y":0,"x":5,"w":1,"h":2}},"ver":1473064356,"ad":{"enable":false},"title":"\u7535\u89c6\u5bb6","images":{"poster":{"url":"http://r4.ykimg.com/0510000057CD0F426714C04FB20115BE","md5":"9ff2d30b17de8fc75163faff99c18afc"}},"id":15}],"id":7},{"ui_type":{"unitary":true,"ratio":4.0,"name":"block_grid_hot","columns":2},"ver":1473066077,"ad":{"enable":false},"title":"\u70ed\u95e8\u8bdd\u9898\u770b\u770b\u770b","items":[{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473066077,"ad":{"enable":false},"title":"\u76f4\u51fb\u8001\u516c","images":{"poster":{"url":"http://r2.ykimg.com/0510000057CD16936714C04FF70F141F","md5":"75d75d2df1003fc348420d1ea761802b"},"left_bottom_corner":{"url":"http://r4.ykimg.com/0510000057CD26D46714C04FD20A1835","md5":"03e76eed1ef7b8f4947b9451179191a0"}},"id":17},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u7cbe\u5f69\u770b\u70b9","images":{"poster":{"url":"http://r4.ykimg.com/0510000057CD17166714C04FDC0628CE","md5":"ee63b0a11cb1e39331d5ce11d38fceec"},"right_bottom_corner":{"url":"http://r1.ykimg.com/0510000057CD26F86714C0502E07E8DD","md5":"04a0f0dc49e691e80ce7501ee95d2235"}},"id":18}],"id":16},{"ui_type":{"unitary":true,"ratio":2.0,"name":"block_grid_button","columns":3},"ver":1473064356,"ad":{"enable":false},"title":"\u5f71\u4eba\u63a8\u8350","items":[{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u5965\u65af\u5361\u6700\u4f731","images":{"poster":{"url":"http://r2.ykimg.com/0510000057CCE3B56714C0506909A507","md5":"10c6ebd0505228e9b1c417d5edcf9375"}},"id":46},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u5965\u65af\u5361\u6700\u4f732","images":{"poster":{"url":"http://r2.ykimg.com/0510000057CCE3D06714C050A30EB42C","md5":"ee41c782a6a9597a2ec3733a75f48410"}},"id":47},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u5965\u65af\u5361\u6700\u4f733","images":{"poster":{"url":"http://r3.ykimg.com/0510000057CCE3EA6714C04FAA08F5C4","md5":"dbf9899c731d0cffc735dc1d4233e35b"}},"id":48}],"id":45},{"ui_type":{"unitary":true,"ratio":4.0,"name":"block_grid_carousel","columns":1},"ver":1473064356,"ad":{"enable":false},"title":"\u8f6e\u64ad","images":{"poster":{"url":"http://r2.ykimg.com/0510000057CCDD1B6714C05046013743","md5":"0d9b103ca10dca9d724de0003e8a22a4"}},"items":[{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u8f6e\u64ad\u5185\u5bb9","images":{"poster":{"url":"http://r4.ykimg.com/0510000057CD16786714C04FC708563E","md5":"27c33e5974d9007b5bb96e6d26c6418b"}},"id":49}],"id":37},{"ui_type":{"unitary":true,"ratio":2.0,"name":"block_grid_classic","columns":2},"ver":1473065273,"ad":{"enable":false},"title":"\u4e13\u9898\u63a8\u8350","items":[{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u7ecf\u5178\u7cfb\u52171","images":{"poster":{"url":"http://r3.ykimg.com/0510000057CCDC0F6714C050700B60DE","md5":"dbf9899c731d0cffc735dc1d4233e35b"}},"id":35},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u7ecf\u5178\u7cfb\u52172","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CCDC736714C0500F0DB5B1","md5":"10c6ebd0505228e9b1c417d5edcf9375"}},"id":36}],"id":34},{"ui_type":{"unitary":true,"ratio":1.0,"name":"block_grid_star","columns":6},"ver":1473064356,"ad":{"enable":false},"title":"\u660e\u661f\u63a8\u8350","items":[{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u6768\u5e42","images":{"poster":{"url":"http://r3.ykimg.com/0510000057CD0FB26714C050A80D17DC","md5":"68dd49024d70c352bc132954c3199a00"}},"id":33},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u5218\u8bd7\u8bd7","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CD0FA96714C050910A8E88","md5":"9ff2d30b17de8fc75163faff99c18afc"}},"id":32},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u6881\u671d\u4f1f","images":{"poster":{"url":"http://r3.ykimg.com/0510000057CD0F746714C0502006F470","md5":"f649c02d0549992752ced622edf10814"}},"id":28},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u5218\u5fb7\u534e","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CD0F816714C0503B0A9C96","md5":"64f92887a00e0369e76321f1eb2d7b6e"}},"id":29},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u5f20\u5b66\u53cb","images":{"poster":{"url":"http://r3.ykimg.com/0510000057CD0F8E6714C0505A0A5585","md5":"2b064293ac930d8174e798eb9761ebff"}},"id":30},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u6210\u9f99","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CD0F9A6714C05066038AFF","md5":"c5641765c087043ddc937ac5938c98d2"}},"id":31}],"id":27},{"ui_type":{"unitary":false,"ratio":1.33,"name":"block_grid_hot","columns":6},"ver":1473064356,"ad":{"enable":false},"title":"\u70ed\u64ad","items":[{"ui_type":{"unitary":true,"name":"display_item","pos":{"y":2,"x":0,"w":1,"h":2}},"ver":1473064356,"ad":{"enable":false},"title":"\u5fae\u5fae\u4e00\u7b11\u503e\u57ce","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CD10356714C05091021144","md5":"2c0cc8e94f2b200dbd3d14f2353ea810"}},"id":21},{"ui_type":{"unitary":true,"name":"display_item","pos":{"y":2,"x":1,"w":1,"h":2}},"ver":1473064356,"ad":{"enable":false},"title":"\u9ebb\u8fa3\u53d8\u5f62\u8bb0","images":{"poster":{"url":"http://r2.ykimg.com/0510000057CD10436714C050AA08C89A","md5":"5e152ca7c46da5079db676a647330d14"}},"id":22},{"ui_type":{"unitary":true,"name":"display_item","pos":{"y":2,"x":2,"w":1,"h":2}},"ver":1473064356,"ad":{"enable":false},"title":"\u5341\u5b97\u7f6a","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CD10736714C04FE00CF490","md5":"1ffbd9886afbe7dc3d0a69949c6cd415"}},"id":23},{"ui_type":{"unitary":true,"name":"display_item","pos":{"y":2,"x":3,"w":1,"h":2}},"ver":1473064356,"ad":{"enable":false},"title":"\u7ed3\u5a5a\u4e3a\u4ec0\u4e48","images":{"poster":{"url":"http://r2.ykimg.com/0510000057CD10516714C04F9105782C","md5":"2d6726f9e5185d23aa576fad5251ddf5"}},"id":24},{"ui_type":{"unitary":true,"name":"display_item","pos":{"y":2,"x":4,"w":1,"h":2}},"ver":1473064356,"ad":{"enable":false},"title":"\u5e73\u51e1\u7684\u4e16\u754c","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CD10876714C050070E89F0","md5":"93e7e7ae08cfc4910681e1e5d523329f"}},"id":25},{"ui_type":{"unitary":true,"name":"display_item","pos":{"y":2,"x":5,"w":1,"h":2}},"ver":1473064356,"ad":{"enable":false},"title":"\u4ed9\u5251\u5947\u4fa0\u4f20","images":{"poster":{"url":"http://r4.ykimg.com/0510000057CD10936714C050240523A7","md5":"724574f93ac4fef0ba96c3d5b7188ed6"}},"id":26}],"id":19},{"ui_type":{"unitary":true,"ratio":1.33,"name":"block_grid_button","columns":6},"ver":1473064356,"ad":{"enable":false},"title":"\u66f4\u591a\u5206\u7c7b","items":[{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u9662\u7ebf","images":{"poster":{"url":"http://r4.ykimg.com/0510000057CCDE5B6714C050820D3061","md5":"cad44cfd2d289c18d4c8fa5e4ef66610"}},"id":39},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u5fb7\u4e91\u793e","images":{"poster":{"url":"http://r3.ykimg.com/0510000057CCDF896714C0509B0A4A18","md5":"6da1297e4e74215dda57825a75737395"}},"id":40},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u52a8\u753b","images":{"poster":{"url":"http://r2.ykimg.com/0510000057CCDFB66714C04FCD0CC8D3","md5":"aebb243c7f8a317ab9435cd0c9a71c1c"}},"id":41},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u559c\u5267","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CCDFC76714C04FEC0A38C3","md5":"d00d08dd632d517a34ac872285627ba0"}},"id":42},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u52a8\u4f5c\u79d1\u5e7b","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CCDFF26714C050570C451A","md5":"7bd40529600f2767c50d1ac71f81999d"}},"id":43},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u6d6a\u6f2b","images":{"poster":{"url":"http://r2.ykimg.com/0510000057CCE0416714C04F840114C9","md5":"763bc095d1d19a5ffe87be7f92c226d7"}},"id":44}],"id":38},{"ui_type":{"unitary":true,"name":"block_grid_live","columns":4},"ver":1473064356,"ad":{"enable":false},"title":"\u76f4\u64ad\u7cfb\u5217","items":[{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u76f4\u64ad1","images":{"poster":{"url":"http://r2.ykimg.com/0510000057CD1E386714C0503C09AD1A","md5":"9ff2d30b17de8fc75163faff99c18afc"}},"id":51},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u76f4\u64ad2","images":{"poster":{"url":"http://r3.ykimg.com/0510000057CD1E786714C04FA603C06A","md5":"09e845d65f3780e357f12074f555f5ba"}},"id":52},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u76f4\u64ad3","images":{"poster":{"url":"http://r3.ykimg.com/0510000057CD1E546714C05092077CA0","md5":"68dd49024d70c352bc132954c3199a00"}},"id":53}],"id":50},{"ui_type":{"unitary":true,"ratio":2.0,"name":"block_grid_top","columns":2},"ver":1473064356,"ad":{"enable":false},"title":"\u6392\u884c\u699c","items":[{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u6392\u884c\u699c1","images":{"poster":{"url":"http://r2.ykimg.com/0510000057CD24456714C05000016F8C","md5":"dbf9899c731d0cffc735dc1d4233e35b"}},"id":55},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u6392\u884c\u699c2","images":{"poster":{"url":"http://r3.ykimg.com/0510000057CD24586714C050270AD20A","md5":"ee41c782a6a9597a2ec3733a75f48410"}},"id":56}],"id":54}],"ad":{"enable":false},"title":"\u7cbe\u9009","images":{"poster":{"url":"http://r4.ykimg.com/http://r2.ykimg.com/051000005565394D6714C0156C09D0A7","md5":"864e093f581820c8826373394d1d3061"}},"ver":1473066077,"id":2},{"ui_type":{"unitary":true,"name":"block_list"},"blocks":[{"ui_type":{"unitary":false,"ratio":1.33,"name":"block_grid_hot","columns":6},"ver":1473064356,"ad":{"enable":false},"title":"\u70ed\u64ad","items":[{"ui_type":{"unitary":true,"name":"display_item","pos":{"y":2,"x":0,"w":1,"h":2}},"ver":1473064356,"ad":{"enable":false},"title":"\u5fae\u5fae\u4e00\u7b11\u503e\u57ce","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CD10356714C05091021144","md5":"2c0cc8e94f2b200dbd3d14f2353ea810"}},"id":21},{"ui_type":{"unitary":true,"name":"display_item","pos":{"y":2,"x":1,"w":1,"h":2}},"ver":1473064356,"ad":{"enable":false},"title":"\u9ebb\u8fa3\u53d8\u5f62\u8bb0","images":{"poster":{"url":"http://r2.ykimg.com/0510000057CD10436714C050AA08C89A","md5":"5e152ca7c46da5079db676a647330d14"}},"id":22},{"ui_type":{"unitary":true,"name":"display_item","pos":{"y":2,"x":2,"w":1,"h":2}},"ver":1473064356,"ad":{"enable":false},"title":"\u5341\u5b97\u7f6a","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CD10736714C04FE00CF490","md5":"1ffbd9886afbe7dc3d0a69949c6cd415"}},"id":23},{"ui_type":{"unitary":true,"name":"display_item","pos":{"y":2,"x":3,"w":1,"h":2}},"ver":1473064356,"ad":{"enable":false},"title":"\u7ed3\u5a5a\u4e3a\u4ec0\u4e48","images":{"poster":{"url":"http://r2.ykimg.com/0510000057CD10516714C04F9105782C","md5":"2d6726f9e5185d23aa576fad5251ddf5"}},"id":24},{"ui_type":{"unitary":true,"name":"display_item","pos":{"y":2,"x":4,"w":1,"h":2}},"ver":1473064356,"ad":{"enable":false},"title":"\u5e73\u51e1\u7684\u4e16\u754c","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CD10876714C050070E89F0","md5":"93e7e7ae08cfc4910681e1e5d523329f"}},"id":25},{"ui_type":{"unitary":true,"name":"display_item","pos":{"y":2,"x":5,"w":1,"h":2}},"ver":1473064356,"ad":{"enable":false},"title":"\u4ed9\u5251\u5947\u4fa0\u4f20","images":{"poster":{"url":"http://r4.ykimg.com/0510000057CD10936714C050240523A7","md5":"724574f93ac4fef0ba96c3d5b7188ed6"}},"id":26}],"id":19},{"ui_type":{"unitary":true,"ratio":2.0,"name":"block_grid_classic","columns":2},"ver":1473065273,"ad":{"enable":false},"title":"\u4e13\u9898\u63a8\u8350","items":[{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u7ecf\u5178\u7cfb\u52171","images":{"poster":{"url":"http://r3.ykimg.com/0510000057CCDC0F6714C050700B60DE","md5":"dbf9899c731d0cffc735dc1d4233e35b"}},"id":35},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u7ecf\u5178\u7cfb\u52172","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CCDC736714C0500F0DB5B1","md5":"10c6ebd0505228e9b1c417d5edcf9375"}},"id":36}],"id":34},{"ui_type":{"unitary":true,"ratio":4.0,"name":"block_grid_carousel","columns":1},"ver":1473064356,"ad":{"enable":false},"title":"\u8f6e\u64ad","images":{"poster":{"url":"http://r2.ykimg.com/0510000057CCDD1B6714C05046013743","md5":"0d9b103ca10dca9d724de0003e8a22a4"}},"items":[{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u8f6e\u64ad\u5185\u5bb9","images":{"poster":{"url":"http://r4.ykimg.com/0510000057CD16786714C04FC708563E","md5":"27c33e5974d9007b5bb96e6d26c6418b"}},"id":49}],"id":37},{"ui_type":{"unitary":true,"ratio":1.33,"name":"block_grid_button","columns":6},"ver":1473064356,"ad":{"enable":false},"title":"\u66f4\u591a\u5206\u7c7b","items":[{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u9662\u7ebf","images":{"poster":{"url":"http://r4.ykimg.com/0510000057CCDE5B6714C050820D3061","md5":"cad44cfd2d289c18d4c8fa5e4ef66610"}},"id":39},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u5fb7\u4e91\u793e","images":{"poster":{"url":"http://r3.ykimg.com/0510000057CCDF896714C0509B0A4A18","md5":"6da1297e4e74215dda57825a75737395"}},"id":40},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u52a8\u753b","images":{"poster":{"url":"http://r2.ykimg.com/0510000057CCDFB66714C04FCD0CC8D3","md5":"aebb243c7f8a317ab9435cd0c9a71c1c"}},"id":41},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u559c\u5267","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CCDFC76714C04FEC0A38C3","md5":"d00d08dd632d517a34ac872285627ba0"}},"id":42},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u52a8\u4f5c\u79d1\u5e7b","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CCDFF26714C050570C451A","md5":"7bd40529600f2767c50d1ac71f81999d"}},"id":43},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u6d6a\u6f2b","images":{"poster":{"url":"http://r2.ykimg.com/0510000057CCE0416714C04F840114C9","md5":"763bc095d1d19a5ffe87be7f92c226d7"}},"id":44}],"id":38},{"ui_type":{"unitary":true,"ratio":2.0,"name":"block_grid_button","columns":3},"ver":1473064356,"ad":{"enable":false},"title":"\u5f71\u4eba\u63a8\u8350","items":[{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u5965\u65af\u5361\u6700\u4f731","images":{"poster":{"url":"http://r2.ykimg.com/0510000057CCE3B56714C0506909A507","md5":"10c6ebd0505228e9b1c417d5edcf9375"}},"id":46},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u5965\u65af\u5361\u6700\u4f732","images":{"poster":{"url":"http://r2.ykimg.com/0510000057CCE3D06714C050A30EB42C","md5":"ee41c782a6a9597a2ec3733a75f48410"}},"id":47},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u5965\u65af\u5361\u6700\u4f733","images":{"poster":{"url":"http://r3.ykimg.com/0510000057CCE3EA6714C04FAA08F5C4","md5":"dbf9899c731d0cffc735dc1d4233e35b"}},"id":48}],"id":45},{"ui_type":{"unitary":true,"ratio":1.0,"name":"block_grid_star","columns":6},"ver":1473064356,"ad":{"enable":false},"title":"\u660e\u661f\u63a8\u8350","items":[{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u6768\u5e42","images":{"poster":{"url":"http://r3.ykimg.com/0510000057CD0FB26714C050A80D17DC","md5":"68dd49024d70c352bc132954c3199a00"}},"id":33},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u5218\u8bd7\u8bd7","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CD0FA96714C050910A8E88","md5":"9ff2d30b17de8fc75163faff99c18afc"}},"id":32},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u6881\u671d\u4f1f","images":{"poster":{"url":"http://r3.ykimg.com/0510000057CD0F746714C0502006F470","md5":"f649c02d0549992752ced622edf10814"}},"id":28},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u5218\u5fb7\u534e","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CD0F816714C0503B0A9C96","md5":"64f92887a00e0369e76321f1eb2d7b6e"}},"id":29},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u5f20\u5b66\u53cb","images":{"poster":{"url":"http://r3.ykimg.com/0510000057CD0F8E6714C0505A0A5585","md5":"2b064293ac930d8174e798eb9761ebff"}},"id":30},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u6210\u9f99","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CD0F9A6714C05066038AFF","md5":"c5641765c087043ddc937ac5938c98d2"}},"id":31}],"id":27}],"ad":{"enable":false},"title":"\u7535\u5f71","images":{"poster":{"url":"http://r2.ykimg.com/http://r1.ykimg.com/050E0000549E156767379F6A6C006341","md5":"1ffbd9886afbe7dc3d0a69949c6cd415"}},"ver":1473065273,"id":3},{"ui_type":{"unitary":true,"name":"block_list"},"blocks":[{"ui_type":{"unitary":false,"ratio":1.33,"name":"block_grid_hot","columns":6},"ver":1473064356,"ad":{"enable":false},"title":"\u70ed\u64ad","items":[{"ui_type":{"unitary":true,"name":"display_item","pos":{"y":2,"x":0,"w":1,"h":2}},"ver":1473064356,"ad":{"enable":false},"title":"\u5fae\u5fae\u4e00\u7b11\u503e\u57ce","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CD10356714C05091021144","md5":"2c0cc8e94f2b200dbd3d14f2353ea810"}},"id":21},{"ui_type":{"unitary":true,"name":"display_item","pos":{"y":2,"x":1,"w":1,"h":2}},"ver":1473064356,"ad":{"enable":false},"title":"\u9ebb\u8fa3\u53d8\u5f62\u8bb0","images":{"poster":{"url":"http://r2.ykimg.com/0510000057CD10436714C050AA08C89A","md5":"5e152ca7c46da5079db676a647330d14"}},"id":22},{"ui_type":{"unitary":true,"name":"display_item","pos":{"y":2,"x":2,"w":1,"h":2}},"ver":1473064356,"ad":{"enable":false},"title":"\u5341\u5b97\u7f6a","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CD10736714C04FE00CF490","md5":"1ffbd9886afbe7dc3d0a69949c6cd415"}},"id":23},{"ui_type":{"unitary":true,"name":"display_item","pos":{"y":2,"x":3,"w":1,"h":2}},"ver":1473064356,"ad":{"enable":false},"title":"\u7ed3\u5a5a\u4e3a\u4ec0\u4e48","images":{"poster":{"url":"http://r2.ykimg.com/0510000057CD10516714C04F9105782C","md5":"2d6726f9e5185d23aa576fad5251ddf5"}},"id":24},{"ui_type":{"unitary":true,"name":"display_item","pos":{"y":2,"x":4,"w":1,"h":2}},"ver":1473064356,"ad":{"enable":false},"title":"\u5e73\u51e1\u7684\u4e16\u754c","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CD10876714C050070E89F0","md5":"93e7e7ae08cfc4910681e1e5d523329f"}},"id":25},{"ui_type":{"unitary":true,"name":"display_item","pos":{"y":2,"x":5,"w":1,"h":2}},"ver":1473064356,"ad":{"enable":false},"title":"\u4ed9\u5251\u5947\u4fa0\u4f20","images":{"poster":{"url":"http://r4.ykimg.com/0510000057CD10936714C050240523A7","md5":"724574f93ac4fef0ba96c3d5b7188ed6"}},"id":26}],"id":19},{"ui_type":{"unitary":true,"ratio":1.0,"name":"block_grid_star","columns":6},"ver":1473064356,"ad":{"enable":false},"title":"\u660e\u661f\u63a8\u8350","items":[{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u6768\u5e42","images":{"poster":{"url":"http://r3.ykimg.com/0510000057CD0FB26714C050A80D17DC","md5":"68dd49024d70c352bc132954c3199a00"}},"id":33},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u5218\u8bd7\u8bd7","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CD0FA96714C050910A8E88","md5":"9ff2d30b17de8fc75163faff99c18afc"}},"id":32},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u6881\u671d\u4f1f","images":{"poster":{"url":"http://r3.ykimg.com/0510000057CD0F746714C0502006F470","md5":"f649c02d0549992752ced622edf10814"}},"id":28},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u5218\u5fb7\u534e","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CD0F816714C0503B0A9C96","md5":"64f92887a00e0369e76321f1eb2d7b6e"}},"id":29},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u5f20\u5b66\u53cb","images":{"poster":{"url":"http://r3.ykimg.com/0510000057CD0F8E6714C0505A0A5585","md5":"2b064293ac930d8174e798eb9761ebff"}},"id":30},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u6210\u9f99","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CD0F9A6714C05066038AFF","md5":"c5641765c087043ddc937ac5938c98d2"}},"id":31}],"id":27},{"ui_type":{"unitary":true,"ratio":2.0,"name":"block_grid_button","columns":3},"ver":1473064356,"ad":{"enable":false},"title":"\u5f71\u4eba\u63a8\u8350","items":[{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u5965\u65af\u5361\u6700\u4f731","images":{"poster":{"url":"http://r2.ykimg.com/0510000057CCE3B56714C0506909A507","md5":"10c6ebd0505228e9b1c417d5edcf9375"}},"id":46},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u5965\u65af\u5361\u6700\u4f732","images":{"poster":{"url":"http://r2.ykimg.com/0510000057CCE3D06714C050A30EB42C","md5":"ee41c782a6a9597a2ec3733a75f48410"}},"id":47},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u5965\u65af\u5361\u6700\u4f733","images":{"poster":{"url":"http://r3.ykimg.com/0510000057CCE3EA6714C04FAA08F5C4","md5":"dbf9899c731d0cffc735dc1d4233e35b"}},"id":48}],"id":45},{"ui_type":{"unitary":true,"ratio":4.0,"name":"block_grid_carousel","columns":1},"ver":1473064356,"ad":{"enable":false},"title":"\u8f6e\u64ad","images":{"poster":{"url":"http://r2.ykimg.com/0510000057CCDD1B6714C05046013743","md5":"0d9b103ca10dca9d724de0003e8a22a4"}},"items":[{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u8f6e\u64ad\u5185\u5bb9","images":{"poster":{"url":"http://r4.ykimg.com/0510000057CD16786714C04FC708563E","md5":"27c33e5974d9007b5bb96e6d26c6418b"}},"id":49}],"id":37}],"ad":{"enable":false},"title":"\u7535\u89c6\u5267","ver":1473064356,"id":4},{"ui_type":{"unitary":true,"name":"block_list"},"blocks":[{"ui_type":{"unitary":true,"ratio":1.0,"name":"block_grid_star","columns":6},"ver":1473064356,"ad":{"enable":false},"title":"\u660e\u661f\u63a8\u8350","items":[{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u6768\u5e42","images":{"poster":{"url":"http://r3.ykimg.com/0510000057CD0FB26714C050A80D17DC","md5":"68dd49024d70c352bc132954c3199a00"}},"id":33},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u5218\u8bd7\u8bd7","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CD0FA96714C050910A8E88","md5":"9ff2d30b17de8fc75163faff99c18afc"}},"id":32},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u6881\u671d\u4f1f","images":{"poster":{"url":"http://r3.ykimg.com/0510000057CD0F746714C0502006F470","md5":"f649c02d0549992752ced622edf10814"}},"id":28},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u5218\u5fb7\u534e","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CD0F816714C0503B0A9C96","md5":"64f92887a00e0369e76321f1eb2d7b6e"}},"id":29},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u5f20\u5b66\u53cb","images":{"poster":{"url":"http://r3.ykimg.com/0510000057CD0F8E6714C0505A0A5585","md5":"2b064293ac930d8174e798eb9761ebff"}},"id":30},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u6210\u9f99","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CD0F9A6714C05066038AFF","md5":"c5641765c087043ddc937ac5938c98d2"}},"id":31}],"id":27},{"ui_type":{"unitary":true,"ratio":1.33,"name":"block_grid_button","columns":6},"ver":1473064356,"ad":{"enable":false},"title":"\u66f4\u591a\u5206\u7c7b","items":[{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u9662\u7ebf","images":{"poster":{"url":"http://r4.ykimg.com/0510000057CCDE5B6714C050820D3061","md5":"cad44cfd2d289c18d4c8fa5e4ef66610"}},"id":39},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u5fb7\u4e91\u793e","images":{"poster":{"url":"http://r3.ykimg.com/0510000057CCDF896714C0509B0A4A18","md5":"6da1297e4e74215dda57825a75737395"}},"id":40},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u52a8\u753b","images":{"poster":{"url":"http://r2.ykimg.com/0510000057CCDFB66714C04FCD0CC8D3","md5":"aebb243c7f8a317ab9435cd0c9a71c1c"}},"id":41},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u559c\u5267","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CCDFC76714C04FEC0A38C3","md5":"d00d08dd632d517a34ac872285627ba0"}},"id":42},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u52a8\u4f5c\u79d1\u5e7b","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CCDFF26714C050570C451A","md5":"7bd40529600f2767c50d1ac71f81999d"}},"id":43},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u6d6a\u6f2b","images":{"poster":{"url":"http://r2.ykimg.com/0510000057CCE0416714C04F840114C9","md5":"763bc095d1d19a5ffe87be7f92c226d7"}},"id":44}],"id":38},{"ui_type":{"unitary":false,"ratio":1.33,"name":"block_grid_hot","columns":6},"ver":1473064356,"ad":{"enable":false},"title":"\u70ed\u64ad","items":[{"ui_type":{"unitary":true,"name":"display_item","pos":{"y":2,"x":0,"w":1,"h":2}},"ver":1473064356,"ad":{"enable":false},"title":"\u5fae\u5fae\u4e00\u7b11\u503e\u57ce","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CD10356714C05091021144","md5":"2c0cc8e94f2b200dbd3d14f2353ea810"}},"id":21},{"ui_type":{"unitary":true,"name":"display_item","pos":{"y":2,"x":1,"w":1,"h":2}},"ver":1473064356,"ad":{"enable":false},"title":"\u9ebb\u8fa3\u53d8\u5f62\u8bb0","images":{"poster":{"url":"http://r2.ykimg.com/0510000057CD10436714C050AA08C89A","md5":"5e152ca7c46da5079db676a647330d14"}},"id":22},{"ui_type":{"unitary":true,"name":"display_item","pos":{"y":2,"x":2,"w":1,"h":2}},"ver":1473064356,"ad":{"enable":false},"title":"\u5341\u5b97\u7f6a","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CD10736714C04FE00CF490","md5":"1ffbd9886afbe7dc3d0a69949c6cd415"}},"id":23},{"ui_type":{"unitary":true,"name":"display_item","pos":{"y":2,"x":3,"w":1,"h":2}},"ver":1473064356,"ad":{"enable":false},"title":"\u7ed3\u5a5a\u4e3a\u4ec0\u4e48","images":{"poster":{"url":"http://r2.ykimg.com/0510000057CD10516714C04F9105782C","md5":"2d6726f9e5185d23aa576fad5251ddf5"}},"id":24},{"ui_type":{"unitary":true,"name":"display_item","pos":{"y":2,"x":4,"w":1,"h":2}},"ver":1473064356,"ad":{"enable":false},"title":"\u5e73\u51e1\u7684\u4e16\u754c","images":{"poster":{"url":"http://r1.ykimg.com/0510000057CD10876714C050070E89F0","md5":"93e7e7ae08cfc4910681e1e5d523329f"}},"id":25},{"ui_type":{"unitary":true,"name":"display_item","pos":{"y":2,"x":5,"w":1,"h":2}},"ver":1473064356,"ad":{"enable":false},"title":"\u4ed9\u5251\u5947\u4fa0\u4f20","images":{"poster":{"url":"http://r4.ykimg.com/0510000057CD10936714C050240523A7","md5":"724574f93ac4fef0ba96c3d5b7188ed6"}},"id":26}],"id":19},{"ui_type":{"unitary":true,"ratio":2.0,"name":"block_grid_button","columns":3},"ver":1473064356,"ad":{"enable":false},"title":"\u5f71\u4eba\u63a8\u8350","items":[{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u5965\u65af\u5361\u6700\u4f731","images":{"poster":{"url":"http://r2.ykimg.com/0510000057CCE3B56714C0506909A507","md5":"10c6ebd0505228e9b1c417d5edcf9375"}},"id":46},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u5965\u65af\u5361\u6700\u4f732","images":{"poster":{"url":"http://r2.ykimg.com/0510000057CCE3D06714C050A30EB42C","md5":"ee41c782a6a9597a2ec3733a75f48410"}},"id":47},{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u5965\u65af\u5361\u6700\u4f733","images":{"poster":{"url":"http://r3.ykimg.com/0510000057CCE3EA6714C04FAA08F5C4","md5":"dbf9899c731d0cffc735dc1d4233e35b"}},"id":48}],"id":45},{"ui_type":{"unitary":true,"ratio":4.0,"name":"block_grid_carousel","columns":1},"ver":1473064356,"ad":{"enable":false},"title":"\u8f6e\u64ad","images":{"poster":{"url":"http://r2.ykimg.com/0510000057CCDD1B6714C05046013743","md5":"0d9b103ca10dca9d724de0003e8a22a4"}},"items":[{"ui_type":{"unitary":true,"name":"display_item"},"ver":1473064356,"ad":{"enable":false},"title":"\u8f6e\u64ad\u5185\u5bb9","images":{"poster":{"url":"http://r4.ykimg.com/0510000057CD16786714C04FC708563E","md5":"27c33e5974d9007b5bb96e6d26c6418b"}},"id":49}],"id":37}],"ad":{"enable":false},"title":"\u7efc\u827a","ver":1473064356,"id":5},{"ui_type":{"unitary":true,"name":"block_list"},"blocks":[],"ad":{"enable":false},"title":"\u5c11\u513f","images":{"poster":{"url":"http://r1.ykimg.com/http://r4.ykimg.com/051000005695BA736714C05C120F0F71","md5":"1965d1427156da3c8bdd80081be3fb34"}},"ver":1473064356,"id":6}],"ad":{"enable":false},"title":"\u5165\u53e3","ver":1473066077,"id":1}
+﻿{
+status: 0,
+ui_type: {
+unitary: true,
+name: "left_nav"
+},
+blocks: [
+{
+ui_type: {
+unitary: true,
+name: "block_list"
+},
+blocks: [
+{
+ui_type: {
+unitary: false,
+ratio: 1.33,
+name: "block_grid_user",
+columns: 6
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "个人中心",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CCD7006714C0500809ED99",
+md5: "93e7e7ae08cfc4910681e1e5d523329f"
+}
+},
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 2
+}
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "上次观看",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CD0EEA6714C0501B01DC0D",
+md5: "1965d1427156da3c8bdd80081be3fb34"
+}
+},
+id: 8
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "最近观看",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057CD0F0B6714C05058051A4A",
+md5: "eaa5b92a4b72851f99dad906137827b9"
+}
+},
+id: 9
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 1,
+w: 1,
+h: 1
+}
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "我的应用",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057CD0EF96714C050400C0CE1",
+md5: "763bc095d1d19a5ffe87be7f92c226d7"
+}
+},
+id: 10
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 2
+}
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "年轻时光",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CD0F166714C05087019C61",
+md5: "09e845d65f3780e357f12074f555f5ba"
+}
+},
+id: 11
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 1,
+h: 2
+}
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "蜂鸟特工",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057CD0F296714C050AC0556FF",
+md5: "95c3793e2573e485545ff9b6f7058bed"
+}
+},
+id: 13
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 1,
+h: 2
+}
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "谍影重重",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CD0F386714C04F97015DAC",
+md5: "1ce268c75f8b3db5247c2f98b2e1b04c"
+}
+},
+id: 14
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 5,
+w: 1,
+h: 2
+}
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "电视家",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057CD0F426714C04FB20115BE",
+md5: "9ff2d30b17de8fc75163faff99c18afc"
+}
+},
+id: 15
+}
+],
+id: 7
+},
+{
+ui_type: {
+unitary: true,
+ratio: 4,
+name: "block_grid_hot",
+columns: 2
+},
+ver: 1473066077,
+ad: {
+enable: false
+},
+title: "热门话题看看看",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473066077,
+ad: {
+enable: false
+},
+title: "直击老公",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CD16936714C04FF70F141F",
+md5: "75d75d2df1003fc348420d1ea761802b"
+},
+left_bottom_corner: {
+url: "http://r4.ykimg.com/0510000057CD26D46714C04FD20A1835",
+md5: "03e76eed1ef7b8f4947b9451179191a0"
+}
+},
+id: 17
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "精彩看点",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057CD17166714C04FDC0628CE",
+md5: "ee63b0a11cb1e39331d5ce11d38fceec"
+},
+right_bottom_corner: {
+url: "http://r1.ykimg.com/0510000057CD26F86714C0502E07E8DD",
+md5: "04a0f0dc49e691e80ce7501ee95d2235"
+}
+},
+id: 18
+}
+],
+id: 16
+},
+{
+ui_type: {
+unitary: true,
+ratio: 2,
+name: "block_grid_button",
+columns: 3
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "影人推荐",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "奥斯卡最佳1",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CCE3B56714C0506909A507",
+md5: "10c6ebd0505228e9b1c417d5edcf9375"
+}
+},
+id: 46
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "奥斯卡最佳2",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CCE3D06714C050A30EB42C",
+md5: "ee41c782a6a9597a2ec3733a75f48410"
+}
+},
+id: 47
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "奥斯卡最佳3",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057CCE3EA6714C04FAA08F5C4",
+md5: "dbf9899c731d0cffc735dc1d4233e35b"
+}
+},
+id: 48
+}
+],
+id: 45
+},
+{
+ui_type: {
+unitary: true,
+ratio: 4,
+name: "block_grid_carousel",
+columns: 1
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "轮播",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CCDD1B6714C05046013743",
+md5: "0d9b103ca10dca9d724de0003e8a22a4"
+}
+},
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "轮播内容",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057CD16786714C04FC708563E",
+md5: "27c33e5974d9007b5bb96e6d26c6418b"
+}
+},
+id: 49
+}
+],
+id: 37
+},
+{
+ui_type: {
+unitary: true,
+ratio: 2,
+name: "block_grid_classic",
+columns: 2
+},
+ver: 1473065273,
+ad: {
+enable: false
+},
+title: "专题推荐",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "经典系列1",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057CCDC0F6714C050700B60DE",
+md5: "dbf9899c731d0cffc735dc1d4233e35b"
+}
+},
+id: 35
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "经典系列2",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CCDC736714C0500F0DB5B1",
+md5: "10c6ebd0505228e9b1c417d5edcf9375"
+}
+},
+id: 36
+}
+],
+id: 34
+},
+{
+ui_type: {
+unitary: true,
+ratio: 1,
+name: "block_grid_star",
+columns: 6
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "明星推荐",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "杨幂",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057CD0FB26714C050A80D17DC",
+md5: "68dd49024d70c352bc132954c3199a00"
+}
+},
+id: 33
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "刘诗诗",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CD0FA96714C050910A8E88",
+md5: "9ff2d30b17de8fc75163faff99c18afc"
+}
+},
+id: 32
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "梁朝伟",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057CD0F746714C0502006F470",
+md5: "f649c02d0549992752ced622edf10814"
+}
+},
+id: 28
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "刘德华",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CD0F816714C0503B0A9C96",
+md5: "64f92887a00e0369e76321f1eb2d7b6e"
+}
+},
+id: 29
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "张学友",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057CD0F8E6714C0505A0A5585",
+md5: "2b064293ac930d8174e798eb9761ebff"
+}
+},
+id: 30
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "成龙",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CD0F9A6714C05066038AFF",
+md5: "c5641765c087043ddc937ac5938c98d2"
+}
+},
+id: 31
+}
+],
+id: 27
+},
+{
+ui_type: {
+unitary: false,
+ratio: 1.33,
+name: "block_grid_hot",
+columns: 6
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "热播",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 2,
+x: 0,
+w: 1,
+h: 2
+}
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "微微一笑倾城",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CD10356714C05091021144",
+md5: "2c0cc8e94f2b200dbd3d14f2353ea810"
+}
+},
+id: 21
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 2,
+x: 1,
+w: 1,
+h: 2
+}
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "麻辣变形记",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CD10436714C050AA08C89A",
+md5: "5e152ca7c46da5079db676a647330d14"
+}
+},
+id: 22
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 2,
+x: 2,
+w: 1,
+h: 2
+}
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "十宗罪",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CD10736714C04FE00CF490",
+md5: "1ffbd9886afbe7dc3d0a69949c6cd415"
+}
+},
+id: 23
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 2,
+x: 3,
+w: 1,
+h: 2
+}
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "结婚为什么",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CD10516714C04F9105782C",
+md5: "2d6726f9e5185d23aa576fad5251ddf5"
+}
+},
+id: 24
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 2,
+x: 4,
+w: 1,
+h: 2
+}
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "平凡的世界",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CD10876714C050070E89F0",
+md5: "93e7e7ae08cfc4910681e1e5d523329f"
+}
+},
+id: 25
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 2,
+x: 5,
+w: 1,
+h: 2
+}
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "仙剑奇侠传",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057CD10936714C050240523A7",
+md5: "724574f93ac4fef0ba96c3d5b7188ed6"
+}
+},
+id: 26
+}
+],
+id: 19
+},
+{
+ui_type: {
+unitary: true,
+ratio: 1.33,
+name: "block_grid_button",
+columns: 6
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "更多分类",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "院线",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057CCDE5B6714C050820D3061",
+md5: "cad44cfd2d289c18d4c8fa5e4ef66610"
+}
+},
+id: 39
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "德云社",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057CCDF896714C0509B0A4A18",
+md5: "6da1297e4e74215dda57825a75737395"
+}
+},
+id: 40
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "动画",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CCDFB66714C04FCD0CC8D3",
+md5: "aebb243c7f8a317ab9435cd0c9a71c1c"
+}
+},
+id: 41
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "喜剧",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CCDFC76714C04FEC0A38C3",
+md5: "d00d08dd632d517a34ac872285627ba0"
+}
+},
+id: 42
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "动作科幻",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CCDFF26714C050570C451A",
+md5: "7bd40529600f2767c50d1ac71f81999d"
+}
+},
+id: 43
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "浪漫",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CCE0416714C04F840114C9",
+md5: "763bc095d1d19a5ffe87be7f92c226d7"
+}
+},
+id: 44
+}
+],
+id: 38
+},
+{
+ui_type: {
+unitary: true,
+name: "block_grid_live",
+columns: 4
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "直播系列",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "直播1",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CD1E386714C0503C09AD1A",
+md5: "9ff2d30b17de8fc75163faff99c18afc"
+}
+},
+id: 51
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "直播2",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057CD1E786714C04FA603C06A",
+md5: "09e845d65f3780e357f12074f555f5ba"
+}
+},
+id: 52
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "直播3",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057CD1E546714C05092077CA0",
+md5: "68dd49024d70c352bc132954c3199a00"
+}
+},
+id: 53
+}
+],
+id: 50
+},
+{
+ui_type: {
+unitary: true,
+ratio: 2,
+name: "block_grid_top",
+columns: 2
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "排行榜",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "排行榜1",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CD24456714C05000016F8C",
+md5: "dbf9899c731d0cffc735dc1d4233e35b"
+}
+},
+id: 55
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "排行榜2",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057CD24586714C050270AD20A",
+md5: "ee41c782a6a9597a2ec3733a75f48410"
+}
+},
+id: 56
+}
+],
+id: 54
+}
+],
+ad: {
+enable: false
+},
+title: "精选",
+images: {
+poster: {
+url: "http://r4.ykimg.com/http://r2.ykimg.com/051000005565394D6714C0156C09D0A7",
+md5: "864e093f581820c8826373394d1d3061"
+}
+},
+ver: 1473066077,
+id: 2
+},
+{
+ui_type: {
+unitary: true,
+name: "block_list"
+},
+blocks: [
+{
+ui_type: {
+unitary: false,
+ratio: 1.33,
+name: "block_grid_hot",
+columns: 6
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "热播",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 2,
+x: 0,
+w: 1,
+h: 2
+}
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "微微一笑倾城",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CD10356714C05091021144",
+md5: "2c0cc8e94f2b200dbd3d14f2353ea810"
+}
+},
+id: 21
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 2,
+x: 1,
+w: 1,
+h: 2
+}
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "麻辣变形记",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CD10436714C050AA08C89A",
+md5: "5e152ca7c46da5079db676a647330d14"
+}
+},
+id: 22
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 2,
+x: 2,
+w: 1,
+h: 2
+}
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "十宗罪",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CD10736714C04FE00CF490",
+md5: "1ffbd9886afbe7dc3d0a69949c6cd415"
+}
+},
+id: 23
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 2,
+x: 3,
+w: 1,
+h: 2
+}
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "结婚为什么",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CD10516714C04F9105782C",
+md5: "2d6726f9e5185d23aa576fad5251ddf5"
+}
+},
+id: 24
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 2,
+x: 4,
+w: 1,
+h: 2
+}
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "平凡的世界",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CD10876714C050070E89F0",
+md5: "93e7e7ae08cfc4910681e1e5d523329f"
+}
+},
+id: 25
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 2,
+x: 5,
+w: 1,
+h: 2
+}
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "仙剑奇侠传",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057CD10936714C050240523A7",
+md5: "724574f93ac4fef0ba96c3d5b7188ed6"
+}
+},
+id: 26
+}
+],
+id: 19
+},
+{
+ui_type: {
+unitary: true,
+ratio: 2,
+name: "block_grid_classic",
+columns: 2
+},
+ver: 1473065273,
+ad: {
+enable: false
+},
+title: "专题推荐",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "经典系列1",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057CCDC0F6714C050700B60DE",
+md5: "dbf9899c731d0cffc735dc1d4233e35b"
+}
+},
+id: 35
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "经典系列2",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CCDC736714C0500F0DB5B1",
+md5: "10c6ebd0505228e9b1c417d5edcf9375"
+}
+},
+id: 36
+}
+],
+id: 34
+},
+{
+ui_type: {
+unitary: true,
+ratio: 4,
+name: "block_grid_carousel",
+columns: 1
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "轮播",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CCDD1B6714C05046013743",
+md5: "0d9b103ca10dca9d724de0003e8a22a4"
+}
+},
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "轮播内容",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057CD16786714C04FC708563E",
+md5: "27c33e5974d9007b5bb96e6d26c6418b"
+}
+},
+id: 49
+}
+],
+id: 37
+},
+{
+ui_type: {
+unitary: true,
+ratio: 1.33,
+name: "block_grid_button",
+columns: 6
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "更多分类",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "院线",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057CCDE5B6714C050820D3061",
+md5: "cad44cfd2d289c18d4c8fa5e4ef66610"
+}
+},
+id: 39
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "德云社",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057CCDF896714C0509B0A4A18",
+md5: "6da1297e4e74215dda57825a75737395"
+}
+},
+id: 40
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "动画",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CCDFB66714C04FCD0CC8D3",
+md5: "aebb243c7f8a317ab9435cd0c9a71c1c"
+}
+},
+id: 41
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "喜剧",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CCDFC76714C04FEC0A38C3",
+md5: "d00d08dd632d517a34ac872285627ba0"
+}
+},
+id: 42
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "动作科幻",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CCDFF26714C050570C451A",
+md5: "7bd40529600f2767c50d1ac71f81999d"
+}
+},
+id: 43
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "浪漫",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CCE0416714C04F840114C9",
+md5: "763bc095d1d19a5ffe87be7f92c226d7"
+}
+},
+id: 44
+}
+],
+id: 38
+},
+{
+ui_type: {
+unitary: true,
+ratio: 2,
+name: "block_grid_button",
+columns: 3
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "影人推荐",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "奥斯卡最佳1",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CCE3B56714C0506909A507",
+md5: "10c6ebd0505228e9b1c417d5edcf9375"
+}
+},
+id: 46
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "奥斯卡最佳2",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CCE3D06714C050A30EB42C",
+md5: "ee41c782a6a9597a2ec3733a75f48410"
+}
+},
+id: 47
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "奥斯卡最佳3",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057CCE3EA6714C04FAA08F5C4",
+md5: "dbf9899c731d0cffc735dc1d4233e35b"
+}
+},
+id: 48
+}
+],
+id: 45
+},
+{
+ui_type: {
+unitary: true,
+ratio: 1,
+name: "block_grid_star",
+columns: 6
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "明星推荐",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "杨幂",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057CD0FB26714C050A80D17DC",
+md5: "68dd49024d70c352bc132954c3199a00"
+}
+},
+id: 33
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "刘诗诗",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CD0FA96714C050910A8E88",
+md5: "9ff2d30b17de8fc75163faff99c18afc"
+}
+},
+id: 32
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "梁朝伟",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057CD0F746714C0502006F470",
+md5: "f649c02d0549992752ced622edf10814"
+}
+},
+id: 28
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "刘德华",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CD0F816714C0503B0A9C96",
+md5: "64f92887a00e0369e76321f1eb2d7b6e"
+}
+},
+id: 29
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "张学友",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057CD0F8E6714C0505A0A5585",
+md5: "2b064293ac930d8174e798eb9761ebff"
+}
+},
+id: 30
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "成龙",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CD0F9A6714C05066038AFF",
+md5: "c5641765c087043ddc937ac5938c98d2"
+}
+},
+id: 31
+}
+],
+id: 27
+}
+],
+ad: {
+enable: false
+},
+title: "电影",
+images: {
+poster: {
+url: "http://r2.ykimg.com/http://r1.ykimg.com/050E0000549E156767379F6A6C006341",
+md5: "1ffbd9886afbe7dc3d0a69949c6cd415"
+}
+},
+ver: 1473065273,
+id: 3
+},
+{
+ui_type: {
+unitary: true,
+name: "block_list"
+},
+blocks: [
+{
+ui_type: {
+unitary: false,
+ratio: 1.33,
+name: "block_grid_hot",
+columns: 6
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "热播",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 2,
+x: 0,
+w: 1,
+h: 2
+}
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "微微一笑倾城",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CD10356714C05091021144",
+md5: "2c0cc8e94f2b200dbd3d14f2353ea810"
+}
+},
+id: 21
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 2,
+x: 1,
+w: 1,
+h: 2
+}
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "麻辣变形记",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CD10436714C050AA08C89A",
+md5: "5e152ca7c46da5079db676a647330d14"
+}
+},
+id: 22
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 2,
+x: 2,
+w: 1,
+h: 2
+}
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "十宗罪",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CD10736714C04FE00CF490",
+md5: "1ffbd9886afbe7dc3d0a69949c6cd415"
+}
+},
+id: 23
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 2,
+x: 3,
+w: 1,
+h: 2
+}
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "结婚为什么",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CD10516714C04F9105782C",
+md5: "2d6726f9e5185d23aa576fad5251ddf5"
+}
+},
+id: 24
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 2,
+x: 4,
+w: 1,
+h: 2
+}
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "平凡的世界",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CD10876714C050070E89F0",
+md5: "93e7e7ae08cfc4910681e1e5d523329f"
+}
+},
+id: 25
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 2,
+x: 5,
+w: 1,
+h: 2
+}
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "仙剑奇侠传",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057CD10936714C050240523A7",
+md5: "724574f93ac4fef0ba96c3d5b7188ed6"
+}
+},
+id: 26
+}
+],
+id: 19
+},
+{
+ui_type: {
+unitary: true,
+ratio: 1,
+name: "block_grid_star",
+columns: 6
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "明星推荐",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "杨幂",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057CD0FB26714C050A80D17DC",
+md5: "68dd49024d70c352bc132954c3199a00"
+}
+},
+id: 33
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "刘诗诗",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CD0FA96714C050910A8E88",
+md5: "9ff2d30b17de8fc75163faff99c18afc"
+}
+},
+id: 32
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "梁朝伟",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057CD0F746714C0502006F470",
+md5: "f649c02d0549992752ced622edf10814"
+}
+},
+id: 28
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "刘德华",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CD0F816714C0503B0A9C96",
+md5: "64f92887a00e0369e76321f1eb2d7b6e"
+}
+},
+id: 29
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "张学友",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057CD0F8E6714C0505A0A5585",
+md5: "2b064293ac930d8174e798eb9761ebff"
+}
+},
+id: 30
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "成龙",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CD0F9A6714C05066038AFF",
+md5: "c5641765c087043ddc937ac5938c98d2"
+}
+},
+id: 31
+}
+],
+id: 27
+},
+{
+ui_type: {
+unitary: true,
+ratio: 2,
+name: "block_grid_button",
+columns: 3
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "影人推荐",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "奥斯卡最佳1",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CCE3B56714C0506909A507",
+md5: "10c6ebd0505228e9b1c417d5edcf9375"
+}
+},
+id: 46
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "奥斯卡最佳2",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CCE3D06714C050A30EB42C",
+md5: "ee41c782a6a9597a2ec3733a75f48410"
+}
+},
+id: 47
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "奥斯卡最佳3",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057CCE3EA6714C04FAA08F5C4",
+md5: "dbf9899c731d0cffc735dc1d4233e35b"
+}
+},
+id: 48
+}
+],
+id: 45
+},
+{
+ui_type: {
+unitary: true,
+ratio: 4,
+name: "block_grid_carousel",
+columns: 1
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "轮播",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CCDD1B6714C05046013743",
+md5: "0d9b103ca10dca9d724de0003e8a22a4"
+}
+},
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "轮播内容",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057CD16786714C04FC708563E",
+md5: "27c33e5974d9007b5bb96e6d26c6418b"
+}
+},
+id: 49
+}
+],
+id: 37
+}
+],
+ad: {
+enable: false
+},
+title: "电视剧",
+ver: 1473064356,
+id: 4
+},
+{
+ui_type: {
+unitary: true,
+name: "block_list"
+},
+blocks: [
+{
+ui_type: {
+unitary: true,
+ratio: 1,
+name: "block_grid_star",
+columns: 6
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "明星推荐",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "杨幂",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057CD0FB26714C050A80D17DC",
+md5: "68dd49024d70c352bc132954c3199a00"
+}
+},
+id: 33
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "刘诗诗",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CD0FA96714C050910A8E88",
+md5: "9ff2d30b17de8fc75163faff99c18afc"
+}
+},
+id: 32
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "梁朝伟",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057CD0F746714C0502006F470",
+md5: "f649c02d0549992752ced622edf10814"
+}
+},
+id: 28
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "刘德华",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CD0F816714C0503B0A9C96",
+md5: "64f92887a00e0369e76321f1eb2d7b6e"
+}
+},
+id: 29
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "张学友",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057CD0F8E6714C0505A0A5585",
+md5: "2b064293ac930d8174e798eb9761ebff"
+}
+},
+id: 30
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "成龙",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CD0F9A6714C05066038AFF",
+md5: "c5641765c087043ddc937ac5938c98d2"
+}
+},
+id: 31
+}
+],
+id: 27
+},
+{
+ui_type: {
+unitary: true,
+ratio: 1.33,
+name: "block_grid_button",
+columns: 6
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "更多分类",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "院线",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057CCDE5B6714C050820D3061",
+md5: "cad44cfd2d289c18d4c8fa5e4ef66610"
+}
+},
+id: 39
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "德云社",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057CCDF896714C0509B0A4A18",
+md5: "6da1297e4e74215dda57825a75737395"
+}
+},
+id: 40
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "动画",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CCDFB66714C04FCD0CC8D3",
+md5: "aebb243c7f8a317ab9435cd0c9a71c1c"
+}
+},
+id: 41
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "喜剧",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CCDFC76714C04FEC0A38C3",
+md5: "d00d08dd632d517a34ac872285627ba0"
+}
+},
+id: 42
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "动作科幻",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CCDFF26714C050570C451A",
+md5: "7bd40529600f2767c50d1ac71f81999d"
+}
+},
+id: 43
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "浪漫",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CCE0416714C04F840114C9",
+md5: "763bc095d1d19a5ffe87be7f92c226d7"
+}
+},
+id: 44
+}
+],
+id: 38
+},
+{
+ui_type: {
+unitary: false,
+ratio: 1.33,
+name: "block_grid_hot",
+columns: 6
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "热播",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 2,
+x: 0,
+w: 1,
+h: 2
+}
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "微微一笑倾城",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CD10356714C05091021144",
+md5: "2c0cc8e94f2b200dbd3d14f2353ea810"
+}
+},
+id: 21
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 2,
+x: 1,
+w: 1,
+h: 2
+}
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "麻辣变形记",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CD10436714C050AA08C89A",
+md5: "5e152ca7c46da5079db676a647330d14"
+}
+},
+id: 22
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 2,
+x: 2,
+w: 1,
+h: 2
+}
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "十宗罪",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CD10736714C04FE00CF490",
+md5: "1ffbd9886afbe7dc3d0a69949c6cd415"
+}
+},
+id: 23
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 2,
+x: 3,
+w: 1,
+h: 2
+}
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "结婚为什么",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CD10516714C04F9105782C",
+md5: "2d6726f9e5185d23aa576fad5251ddf5"
+}
+},
+id: 24
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 2,
+x: 4,
+w: 1,
+h: 2
+}
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "平凡的世界",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057CD10876714C050070E89F0",
+md5: "93e7e7ae08cfc4910681e1e5d523329f"
+}
+},
+id: 25
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 2,
+x: 5,
+w: 1,
+h: 2
+}
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "仙剑奇侠传",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057CD10936714C050240523A7",
+md5: "724574f93ac4fef0ba96c3d5b7188ed6"
+}
+},
+id: 26
+}
+],
+id: 19
+},
+{
+ui_type: {
+unitary: true,
+ratio: 2,
+name: "block_grid_button",
+columns: 3
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "影人推荐",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "奥斯卡最佳1",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CCE3B56714C0506909A507",
+md5: "10c6ebd0505228e9b1c417d5edcf9375"
+}
+},
+id: 46
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "奥斯卡最佳2",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CCE3D06714C050A30EB42C",
+md5: "ee41c782a6a9597a2ec3733a75f48410"
+}
+},
+id: 47
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "奥斯卡最佳3",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057CCE3EA6714C04FAA08F5C4",
+md5: "dbf9899c731d0cffc735dc1d4233e35b"
+}
+},
+id: 48
+}
+],
+id: 45
+},
+{
+ui_type: {
+unitary: true,
+ratio: 4,
+name: "block_grid_carousel",
+columns: 1
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "轮播",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057CCDD1B6714C05046013743",
+md5: "0d9b103ca10dca9d724de0003e8a22a4"
+}
+},
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1473064356,
+ad: {
+enable: false
+},
+title: "轮播内容",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057CD16786714C04FC708563E",
+md5: "27c33e5974d9007b5bb96e6d26c6418b"
+}
+},
+id: 49
+}
+],
+id: 37
+}
+],
+ad: {
+enable: false
+},
+title: "综艺",
+ver: 1473064356,
+id: 5
+},
+{
+ui_type: {
+unitary: true,
+name: "block_list"
+},
+blocks: [ ],
+ad: {
+enable: false
+},
+title: "少儿",
+images: {
+poster: {
+url: "http://r1.ykimg.com/http://r4.ykimg.com/051000005695BA736714C05C120F0F71",
+md5: "1965d1427156da3c8bdd80081be3fb34"
+}
+},
+ver: 1473064356,
+id: 6
+}
+],
+ad: {
+enable: false
+},
+title: "入口",
+ver: 1473066077,
+id: 1
+}
