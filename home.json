@@ -1995,7 +1995,7 @@ enable: false
 title: "杨幂",
 images: {
 poster: {
-url: "http://r3.ykimg.com/0510000057CD0FB26714C050A80D17DC",
+icon: "http://r3.ykimg.com/0510000057CD0FB26714C050A80D17DC",
 md5: "68dd49024d70c352bc132954c3199a00"
 }
 },
@@ -2013,7 +2013,7 @@ enable: false
 title: "刘诗诗",
 images: {
 poster: {
-url: "http://r1.ykimg.com/0510000057CD0FA96714C050910A8E88",
+icon: "http://r1.ykimg.com/0510000057CD0FA96714C050910A8E88",
 md5: "9ff2d30b17de8fc75163faff99c18afc"
 }
 },
@@ -2031,7 +2031,7 @@ enable: false
 title: "梁朝伟",
 images: {
 poster: {
-url: "http://r3.ykimg.com/0510000057CD0F746714C0502006F470",
+icon: "http://r3.ykimg.com/0510000057CD0F746714C0502006F470",
 md5: "f649c02d0549992752ced622edf10814"
 }
 },
@@ -2049,7 +2049,7 @@ enable: false
 title: "刘德华",
 images: {
 poster: {
-url: "http://r1.ykimg.com/0510000057CD0F816714C0503B0A9C96",
+icon: "http://r1.ykimg.com/0510000057CD0F816714C0503B0A9C96",
 md5: "64f92887a00e0369e76321f1eb2d7b6e"
 }
 },
@@ -2067,7 +2067,7 @@ enable: false
 title: "张学友",
 images: {
 poster: {
-url: "http://r3.ykimg.com/0510000057CD0F8E6714C0505A0A5585",
+icon: "http://r3.ykimg.com/0510000057CD0F8E6714C0505A0A5585",
 md5: "2b064293ac930d8174e798eb9761ebff"
 }
 },
@@ -2085,7 +2085,7 @@ enable: false
 title: "成龙",
 images: {
 poster: {
-url: "http://r1.ykimg.com/0510000057CD0F9A6714C05066038AFF",
+icon: "http://r1.ykimg.com/0510000057CD0F9A6714C05066038AFF",
 md5: "c5641765c087043ddc937ac5938c98d2"
 }
 },
