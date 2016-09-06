@@ -425,9 +425,9 @@ id: 34
 {
 ui_type: {
 unitary: true,
-ratio: 1,
+ratio: 2,
 name: "block_grid_star",
-columns: 6
+columns: 3
 },
 ver: 1473064356,
 ad: {
@@ -445,9 +445,11 @@ ad: {
 enable: false
 },
 title: "杨幂",
+"desc": "中国优秀女演员",
 images: {
 poster: {
 url: "http://r3.ykimg.com/0510000057CD0FB26714C050A80D17DC",
+icon: "http://r3.ykimg.com/0510000057CD0FB26714C050A80D17DC",
 md5: "68dd49024d70c352bc132954c3199a00"
 }
 },
@@ -463,9 +465,11 @@ ad: {
 enable: false
 },
 title: "刘诗诗",
+"desc": "中国优秀女演员",
 images: {
 poster: {
 url: "http://r1.ykimg.com/0510000057CD0FA96714C050910A8E88",
+icon: "http://r1.ykimg.com/0510000057CD0FA96714C050910A8E88",
 md5: "9ff2d30b17de8fc75163faff99c18afc"
 }
 },
@@ -481,9 +485,11 @@ ad: {
 enable: false
 },
 title: "梁朝伟",
+"desc": "中国香港顶级男演员",
 images: {
 poster: {
 url: "http://r3.ykimg.com/0510000057CD0F746714C0502006F470",
+icon: "http://r3.ykimg.com/0510000057CD0F746714C0502006F470",
 md5: "f649c02d0549992752ced622edf10814"
 }
 },
@@ -499,9 +505,11 @@ ad: {
 enable: false
 },
 title: "刘德华",
+"desc": "中国香港顶级男演员",
 images: {
 poster: {
 url: "http://r1.ykimg.com/0510000057CD0F816714C0503B0A9C96",
+icon: "http://r1.ykimg.com/0510000057CD0F816714C0503B0A9C96",
 md5: "64f92887a00e0369e76321f1eb2d7b6e"
 }
 },
@@ -517,9 +525,11 @@ ad: {
 enable: false
 },
 title: "张学友",
+"desc": "中国香港顶级男歌手",
 images: {
 poster: {
 url: "http://r3.ykimg.com/0510000057CD0F8E6714C0505A0A5585",
+icon: "http://r3.ykimg.com/0510000057CD0F8E6714C0505A0A5585",
 md5: "2b064293ac930d8174e798eb9761ebff"
 }
 },
@@ -535,9 +545,11 @@ ad: {
 enable: false
 },
 title: "成龙",
+"desc": "中国香港顶级男歌手",
 images: {
 poster: {
 url: "http://r1.ykimg.com/0510000057CD0F9A6714C05066038AFF",
+icon: "http://r1.ykimg.com/0510000057CD0F9A6714C05066038AFF",
 md5: "c5641765c087043ddc937ac5938c98d2"
 }
 },
@@ -1420,9 +1432,9 @@ id: 45
 {
 ui_type: {
 unitary: true,
-ratio: 2,
+ratio: 1,
 name: "block_grid_star",
-columns: 3
+columns: 6
 },
 ver: 1473064356,
 ad: {
@@ -1440,7 +1452,7 @@ ad: {
 enable: false
 },
 title: "杨幂",
-"desc": "女演员",
+"desc": "中国优秀女演员",
 images: {
 poster: {
 url: "http://r3.ykimg.com/0510000057CD0FB26714C050A80D17DC",
@@ -1460,7 +1472,7 @@ ad: {
 enable: false
 },
 title: "刘诗诗",
-"desc": "女演员",
+"desc": "中国优秀女演员",
 images: {
 poster: {
 url: "http://r1.ykimg.com/0510000057CD0FA96714C050910A8E88",
@@ -1480,7 +1492,7 @@ ad: {
 enable: false
 },
 title: "梁朝伟",
-"desc": "男演员",
+"desc": "中国香港顶级男演员",
 images: {
 poster: {
 url: "http://r3.ykimg.com/0510000057CD0F746714C0502006F470",
@@ -1500,7 +1512,7 @@ ad: {
 enable: false
 },
 title: "刘德华",
-"desc": "男歌手",
+"desc": "中国香港顶级男歌手",
 images: {
 poster: {
 url: "http://r1.ykimg.com/0510000057CD0F816714C0503B0A9C96",
@@ -1520,7 +1532,7 @@ ad: {
 enable: false
 },
 title: "张学友",
-"desc": "男歌手",
+"desc": "中国香港顶级男歌手",
 images: {
 poster: {
 url: "http://r3.ykimg.com/0510000057CD0F8E6714C0505A0A5585",
@@ -1540,7 +1552,7 @@ ad: {
 enable: false
 },
 title: "成龙",
-"desc": "男演员",
+"desc": "中国香港顶级男演员",
 images: {
 poster: {
 url: "http://r1.ykimg.com/0510000057CD0F9A6714C05066038AFF",
