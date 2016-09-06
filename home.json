@@ -1,5 +1,4 @@
-﻿{
-status: 0,
+﻿{status: 0,
 ui_type: {
 unitary: true,
 name: "left_nav"
@@ -2533,5 +2532,4 @@ enable: false
 },
 title: "入口",
 ver: 1473066077,
-id: 1
-}
+id: 1}
