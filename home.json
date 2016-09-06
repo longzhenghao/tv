@@ -1421,9 +1421,9 @@ id: 45
 {
 ui_type: {
 unitary: true,
-ratio: 1,
+ratio: 2,
 name: "block_grid_star",
-columns: 6
+columns: 3
 },
 ver: 1473064356,
 ad: {
