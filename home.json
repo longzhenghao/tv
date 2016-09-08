@@ -39,12 +39,12 @@ ver: 1473245912,
 target: {
 schema: "yktv"
 },
-title: "",
+title: "上次观看",
 hint: {
 right: "",
 left: ""
 },
-sub_title: "",
+sub_title: "刺客聂隐娘",
 images: {
 poster: {
 url: "http://r2.ykimg.com/0510000057CE6A116714C0640C0DB0DB",
