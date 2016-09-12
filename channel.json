@@ -4,6 +4,8 @@
   ui_type: {
     name: "single_page"
   }, 
+  title: "欧美大片",
+  sub_title: "欧美大片",
   blocks: [
     {
       status: 0, 

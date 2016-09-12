@@ -4,6 +4,8 @@
   ui_type: {
     name: "single_page"
   }, 
+  title: "内地剧",
+  sub_title: "内地剧",
   blocks: [
     {
       status: 0, 
