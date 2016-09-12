@@ -702,7 +702,7 @@ entity: "channel"
           ui_type: {
             unitary: true, 
             ratio: 0.6667, 
-            name: "block_grid", 
+            name: "block_list", 
             columns: 6
           }, 
           id: "CD/357"
@@ -1086,7 +1086,7 @@ entity: "channel"
           ui_type: {
             unitary: true, 
             ratio: 0.6667, 
-            name: "block_grid", 
+            name: "block_list", 
             columns: 6
           }, 
           id: "CD/371"
