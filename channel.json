@@ -33,7 +33,7 @@
                 pos: {
                   y: 0, 
                   x: 0, 
-                  w: 2, 
+                  w: 1, 
                   h: 1
                 }
               }, 
@@ -72,8 +72,8 @@
                 name: "display_item", 
                 pos: {
                   y: 0, 
-                  x: 2, 
-                  w: 2, 
+                  x: 1, 
+                  w: 1, 
                   h: 1
                 }
               }, 
@@ -101,13 +101,53 @@
               ad: {
                 enable: false
               }
+            }, 
+            {
+              stat: {
+                id: 331671, 
+                tp: "album"
+              }, 
+              target: {
+                entity: "v:album", 
+                params: {
+                  android_component: "com.ktcp.tvvideo", 
+                  android_intent: "tenvideo2://?action=1&cover_id=ftst3o1rq7snhcu&pull_from=101503#Intent;action=com.tencent.qqlivetv.open;launchFlags=0x10000000;package=com.ktcp.tvvideo;end", 
+                  android_version_code: 1240
+                }, 
+                schema: "yktv"
+              }, 
+              ui_type: {
+                style: "movie", 
+                name: "display_item", 
+                pos: {
+                  y: 0, 
+                  x: 2, 
+                  w: 1, 
+                  h: 1
+                }
+              }, 
+              images: {
+                poster: {
+                  url: "http://image.cdn.pandora.xiaomi.com/mitv/10007/1/57a8a2c9d2e2a3c783b4f861048179aa.jpg", 
+                  md5: "57a8a2c9d2e2a3c783b4f861048179aa"
+                }, 
+                background: {
+                  url: "http://image.cdn.pandora.xiaomi.com/mitv/10007/1/2ee220a29e5cbd82a57c0ecd0a1dc540.jpg", 
+                  md5: "2ee220a29e5cbd82a57c0ecd0a1dc540"
+                }
+              }, 
+              ns: "video", 
+              id: "V/331671", 
+              ad: {
+                enable: false
+              }
             }
           ], 
           ui_type: {
             unitary: true, 
-            ratio: 2, 
+            ratio: 1.4667, 
             name: "block_grid_button", 
-            columns: 2
+            columns: 3
           }, 
           id: "CD/14"
         }, 
