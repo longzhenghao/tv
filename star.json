@@ -1,10 +1,10 @@
 {
-  status: 0, 
-  ui_type: {
-    name: "single_page"
-  }, 
-  ver: 1473406894, 
-starinfo: {
+status: 0,
+ui_type: {
+name: "single_page"
+},
+ver: 1473406894,
+  starinfo: {
     anime_count: "0", 
     background_img: "http://r4.ykimg.com/0515000055DAAE7167BC3C63380A60F8", 
     birthday: "1982-04-17", 
@@ -21,380 +21,992 @@ starinfo: {
     personid: "16334", 
     personname: "李准基"
   }, 
-  blocks: [
-    {
-      ui_type: {
-        name: "block_list"
-      }, 
-      blocks: [
-        {
-          ui_type: {
-		unitary: true,
-		name: "block_grid_classic_h"
-          }, 
-          items: [
-            {
-              stat: {
-                id: 65829, 
-                tp: "list"
-              }, 
-              target: {
-                url: "tv/v3/show/detail?id=9c4eb7da931211e5be16", 
-                entity: "detail:show", 
-                schema: "yktv"
-              }, 
-              showid: "e46186b0f71711e5a080", 
-              videoid: "XMTY0MzY4ODQ4MA==", 
-              subjectid: "xxxx", 
-              starid: "xxxx", 
-              img_v: "xxxx.jpg", 
-              img_h: "xxxx.jpg", 
-              showname: "xxxxxx", 
-              title: "《青云志》凡瑶琪初见片段抢先看 优酷暑假独播", 
-              ui_type: {
-                name: "display_item", 
-                pos: {
-                  y: 0, 
-                  x: 0, 
-                  w: 1, 
-                  h: 1
-                }
-              }, 
-              images: {
-                poster: {
-                  url: "http://r3.cp31.ott.cibntv.net/05160000576B75F667BC3C136B06E4E7", 
-                  md5: "a75d696bcc8070c2bb7ce1325a158065"
-                }
-              }, 
-              ns: "video", 
-              id: "YK/65829"
-            },
-	                {
-              stat: {
-                id: 65829, 
-                tp: "list"
-              }, 
-              target: {
-                url: "tv/v3/show/detail?id=9c4eb7da931211e5be16", 
-                entity: "detail:show", 
-                schema: "yktv"
-              }, 
-              showid: "cc034b68962411de83b1", 
-              videoid: "XMTMyMzc0MTg0NA==", 
-              subjectid: "xxxx", 
-              starid: "xxxx", 
-              img_v: "xxxx.jpg", 
-              img_h: "xxxx.jpg", 
-              showname: "xxxxxx", 
-              title: "偷天换日", 
-              ui_type: {
-                name: "display_item", 
-                pos: {
-                  y: 0, 
-                  x: 0, 
-                  w: 1, 
-                  h: 1
-                }
-              }, 
-              images: {
-                poster: {
-                  url: "http://r1.cp31.ott.cibntv.net/0516000055D6953067BC3C04EC04701E", 
-                  md5: "a75d696bcc8070c2bb7ce1325a158065"
-                }
-              }, 
-              ns: "video", 
-              id: "YK/65829"
-            },
-	                {
-              stat: {
-                id: 65829, 
-                tp: "list"
-              }, 
-              target: {
-                url: "tv/v3/show/detail?id=9c4eb7da931211e5be16", 
-                entity: "detail:show", 
-                schema: "yktv"
-              }, 
-              showid: "c48ef13a47a311e4a080", 
-              videoid: "XODUzMTY2MDk2", 
-              subjectid: "xxxx", 
-              starid: "xxxx", 
-              img_v: "xxxx.jpg", 
-              img_h: "xxxx.jpg", 
-              showname: "xxxxxx", 
-              title: "玉川区役所 OF THE DEAD", 
-              ui_type: {
-                name: "display_item", 
-                pos: {
-                  y: 0, 
-                  x: 0, 
-                  w: 1, 
-                  h: 1
-                }
-              }, 
-              images: {
-                poster: {
-                  url: "http://r2.cp31.ott.cibntv.net/051600005434952467379F184A04A832", 
-                  md5: "a75d696bcc8070c2bb7ce1325a158065"
-                }
-              }, 
-              ns: "video", 
-              id: "YK/65829"
-            },
-	                {
-              stat: {
-                id: 65829, 
-                tp: "list"
-              }, 
-              target: {
-                url: "tv/v3/show/detail?id=9c4eb7da931211e5be16", 
-                entity: "detail:show", 
-                schema: "yktv"
-              }, 
-              showid: "814ddd08cf4111e38b3f", 
-              videoid: "XMTMzNzA4MDU5Mg==", 
-              subjectid: "xxxx", 
-              starid: "xxxx", 
-              img_v: "xxxx.jpg", 
-              img_h: "xxxx.jpg", 
-              showname: "xxxxxx", 
-              title: "捉妖记", 
-              ui_type: {
-                name: "display_item", 
-                pos: {
-                  y: 0, 
-                  x: 0, 
-                  w: 1, 
-                  h: 1
-                }
-              }, 
-              images: {
-                poster: {
-                  url: "http://r1.cp31.ott.cibntv.net/05160000558B6C4767BC3C4279080058", 
-                  md5: "a75d696bcc8070c2bb7ce1325a158065"
-                }
-              }, 
-              ns: "video", 
-              id: "YK/65829"
-            },
-	                {
-              stat: {
-                id: 65829, 
-                tp: "list"
-              }, 
-              target: {
-                url: "tv/v3/show/detail?id=9c4eb7da931211e5be16", 
-                entity: "detail:show", 
-                schema: "yktv"
-              }, 
-              showid: "7f2d6ab4420311e3a705", 
-              videoid: "XMTQ5MDgyNDIyMA==", 
-              subjectid: "xxxx", 
-              starid: "xxxx", 
-              img_v: "xxxx.jpg", 
-              img_h: "xxxx.jpg", 
-              showname: "xxxxxx", 
-              title: "通灵神探", 
-              ui_type: {
-                name: "display_item", 
-                pos: {
-                  y: 0, 
-                  x: 0, 
-                  w: 1, 
-                  h: 1
-                }
-              }, 
-              images: {
-                poster: {
-                  url: "http://r2.cp31.ott.cibntv.net/050C00005680A9EC67BC3C0694016E0F", 
-                  md5: "a75d696bcc8070c2bb7ce1325a158065"
-                }
-              }, 
-              ns: "video", 
-              id: "YK/65829"
-            },{
-              stat: {
-                id: 65829, 
-                tp: "list"
-              }, 
-              target: {
-                url: "tv/v3/show/detail?id=9c4eb7da931211e5be16", 
-                entity: "detail:show", 
-                schema: "yktv"
-              }, 
-              showid: "e46186b0f71711e5a080", 
-              videoid: "XMTY0MzY4ODQ4MA==", 
-              subjectid: "xxxx", 
-              starid: "xxxx", 
-              img_v: "xxxx.jpg", 
-              img_h: "xxxx.jpg", 
-              showname: "xxxxxx", 
-              title: "《青云志》凡瑶琪初见片段抢先看 优酷暑假独播", 
-              ui_type: {
-                name: "display_item", 
-                pos: {
-                  y: 0, 
-                  x: 0, 
-                  w: 1, 
-                  h: 1
-                }
-              }, 
-              images: {
-                poster: {
-                  url: "http://r3.cp31.ott.cibntv.net/05160000576B75F667BC3C136B06E4E7", 
-                  md5: "a75d696bcc8070c2bb7ce1325a158065"
-                }
-              }, 
-              ns: "video", 
-              id: "YK/65829"
-            },
-	                {
-              stat: {
-                id: 65829, 
-                tp: "list"
-              }, 
-              target: {
-                url: "tv/v3/show/detail?id=9c4eb7da931211e5be16", 
-                entity: "detail:show", 
-                schema: "yktv"
-              }, 
-              showid: "cc034b68962411de83b1", 
-              videoid: "XMTMyMzc0MTg0NA==", 
-              subjectid: "xxxx", 
-              starid: "xxxx", 
-              img_v: "xxxx.jpg", 
-              img_h: "xxxx.jpg", 
-              showname: "xxxxxx", 
-              title: "偷天换日", 
-              ui_type: {
-                name: "display_item", 
-                pos: {
-                  y: 0, 
-                  x: 0, 
-                  w: 1, 
-                  h: 1
-                }
-              }, 
-              images: {
-                poster: {
-                  url: "http://r1.cp31.ott.cibntv.net/0516000055D6953067BC3C04EC04701E", 
-                  md5: "a75d696bcc8070c2bb7ce1325a158065"
-                }
-              }, 
-              ns: "video", 
-              id: "YK/65829"
-            },
-	                {
-              stat: {
-                id: 65829, 
-                tp: "list"
-              }, 
-              target: {
-                url: "tv/v3/show/detail?id=9c4eb7da931211e5be16", 
-                entity: "detail:show", 
-                schema: "yktv"
-              }, 
-              showid: "c48ef13a47a311e4a080", 
-              videoid: "XODUzMTY2MDk2", 
-              subjectid: "xxxx", 
-              starid: "xxxx", 
-              img_v: "xxxx.jpg", 
-              img_h: "xxxx.jpg", 
-              showname: "xxxxxx", 
-              title: "玉川区役所 OF THE DEAD", 
-              ui_type: {
-                name: "display_item", 
-                pos: {
-                  y: 0, 
-                  x: 0, 
-                  w: 1, 
-                  h: 1
-                }
-              }, 
-              images: {
-                poster: {
-                  url: "http://r2.cp31.ott.cibntv.net/051600005434952467379F184A04A832", 
-                  md5: "a75d696bcc8070c2bb7ce1325a158065"
-                }
-              }, 
-              ns: "video", 
-              id: "YK/65829"
-            },
-	                {
-              stat: {
-                id: 65829, 
-                tp: "list"
-              }, 
-              target: {
-                url: "tv/v3/show/detail?id=9c4eb7da931211e5be16", 
-                entity: "detail:show", 
-                schema: "yktv"
-              }, 
-              showid: "814ddd08cf4111e38b3f", 
-              videoid: "XMTMzNzA4MDU5Mg==", 
-              subjectid: "xxxx", 
-              starid: "xxxx", 
-              img_v: "xxxx.jpg", 
-              img_h: "xxxx.jpg", 
-              showname: "xxxxxx", 
-              title: "捉妖记", 
-              ui_type: {
-                name: "display_item", 
-                pos: {
-                  y: 0, 
-                  x: 0, 
-                  w: 1, 
-                  h: 1
-                }
-              }, 
-              images: {
-                poster: {
-                  url: "http://r1.cp31.ott.cibntv.net/05160000558B6C4767BC3C4279080058", 
-                  md5: "a75d696bcc8070c2bb7ce1325a158065"
-                }
-              }, 
-              ns: "video", 
-              id: "YK/65829"
-            },
-	                {
-              stat: {
-                id: 65829, 
-                tp: "list"
-              }, 
-              target: {
-                url: "tv/v3/show/detail?id=9c4eb7da931211e5be16", 
-                entity: "detail:show", 
-                schema: "yktv"
-              }, 
-              showid: "7f2d6ab4420311e3a705", 
-              videoid: "XMTQ5MDgyNDIyMA==", 
-              subjectid: "xxxx", 
-              starid: "xxxx", 
-              img_v: "xxxx.jpg", 
-              img_h: "xxxx.jpg", 
-              showname: "xxxxxx", 
-              title: "通灵神探", 
-              ui_type: {
-                name: "display_item", 
-                pos: {
-                  y: 0, 
-                  x: 0, 
-                  w: 1, 
-                  h: 1
-                }
-              }, 
-              images: {
-                poster: {
-                  url: "http://r2.cp31.ott.cibntv.net/050C00005680A9EC67BC3C0694016E0F", 
-                  md5: "a75d696bcc8070c2bb7ce1325a158065"
-                }
-              }, 
-              ns: "video", 
-              id: "YK/65829"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+blocks: [
+{
+ui_type: {
+name: "block_list"
+},
+blocks: [
+{
+ui_type: {
+unitary: true,
+name: "block_grid_clips"
+},
+title: "片花",
+items: [
+{
+stat: {
+id: 65829,
+tp: "list"
+},
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "片花片花",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "ML/65829"
+},
+{
+stat: {
+id: 65829,
+tp: "list"
+},
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "片花片花",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "ML/65829"
+},
+{
+stat: {
+id: 65829,
+tp: "list"
+},
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "片花片花",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "ML/65829"
+},
+{
+stat: {
+id: 65829,
+tp: "list"
+},
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "片花片花",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "ML/65829"
+},
+{
+stat: {
+id: 65829,
+tp: "list"
+},
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "片花片花",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "ML/65829"
+},
+{
+stat: {
+id: 65829,
+tp: "list"
+},
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "片花片花",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "ML/65829"
+},
+{
+stat: {
+id: 65829,
+tp: "list"
+},
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "片花片花",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "ML/65829"
+},
+{
+stat: {
+id: 65829,
+tp: "list"
+},
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "片花片花",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "ML/65829"
+},
+{
+stat: {
+id: 65829,
+tp: "list"
+},
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "片花片花",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "ML/65829"
+},
+{
+stat: {
+id: 65829,
+tp: "list"
+},
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "片花片花",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "ML/65829"
+},
+{
+stat: {
+id: 65829,
+tp: "list"
+},
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "片花片花",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "ML/65829"
+},
+{
+stat: {
+id: 65829,
+tp: "list"
+},
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "片花片花",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "ML/65829"
+},
+{
+stat: {
+id: 65829,
+tp: "list"
+},
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "片花片花",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "ML/65829"
+},
+{
+stat: {
+id: 65829,
+tp: "list"
+},
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "片花片花",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "ML/65829"
+},
+{
+stat: {
+id: 65829,
+tp: "list"
+},
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "片花片花",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "ML/65829"
+}
+]
+},
+{
+ui_type: {
+unitary: true,
+name: "block_grid_star_h"
+},
+stat: {
+id: 65829,
+tp: "list"
+},
+title: "演员",
+items: [
+{
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "胡歌",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "YK/65829"
+},
+{
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "胡歌",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "YK/65829"
+},
+{
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "胡歌",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "YK/65829"
+},
+{
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "胡歌",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "YK/65829"
+},
+{
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "胡歌",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "YK/65829"
+},
+{
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "胡歌",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "YK/65829"
+},
+{
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "胡歌",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "YK/65829"
+},
+{
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "胡歌",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "YK/65829"
+},
+{
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "胡歌",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "YK/65829"
+},
+{
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "胡歌",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "YK/65829"
+},
+{
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "胡歌",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "YK/65829"
+},
+{
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "胡歌",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "YK/65829"
+},
+{
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "胡歌",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "YK/65829"
+},
+{
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "胡歌",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "YK/65829"
+},
+{
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "胡歌",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "YK/65829"
+},
+{
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "胡歌",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "YK/65829"
+},
+{
+target: {
+url: "/tv/lean/yk?id=65829",
+entity: "v:list",
+schema: "yktv"
+},
+title: "胡歌",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01aujQLDoh9/EJqgKYdBxdcz7V.jpg",
+md5: "a75d696bcc8070c2bb7ce1325a158065"
+}
+},
+ns: "video",
+id: "YK/65829"
+}
+]
+},
+{
+ui_type: {
+unitary: true,
+name: "block_grid_hot",
+columns: 3
+},
+items: [
+{
+stat: {
+id: 66265,
+tp: "milist"
+},
+target: {
+url: "/tv/lean/ml?id=66265",
+entity: "v:milist",
+schema: "mitv"
+},
+title: "御宅动漫族，速来领取福利",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01hokpkeGVy/6ylY0VQWEdgFS8.jpg",
+md5: "5e107980116b0d5acd0b09e5b71ef277"
+}
+},
+ns: "video",
+id: "ML/66265"
+},
+{
+stat: {
+id: 66233,
+tp: "milist"
+},
+target: {
+url: "/tv/lean/ml?id=66233",
+entity: "v:milist",
+schema: "mitv"
+},
+title: "动漫里深入人心的中二少年",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01ku0kDhu8G/9Efgz6OOwraYmk.jpg",
+md5: "229e5832fdb5118e6fbb230964a3e574"
+}
+},
+ns: "video",
+id: "ML/66233"
+},
+{
+stat: {
+id: 66467,
+tp: "milist"
+},
+target: {
+url: "/tv/lean/ml?id=66467",
+entity: "v:milist",
+schema: "mitv"
+},
+title: "动漫里强大又帅气的女主角",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 1
+}
+},
+images: {
+poster: {
+url: "http://image.box.xiaomi.com/mfsv2/download/s010/p01IHnPC02rX/stGaMavpXU0wGy.jpg",
+md5: "7ae79e317abf3a402fc510c4ef1671a1"
+}
+},
+ns: "video",
+id: "ML/66467"
+}
+],
+title: "喜欢这部片子的人也喜欢..."
+}
+]
+}
+]
 }
