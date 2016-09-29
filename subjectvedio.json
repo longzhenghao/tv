@@ -45,7 +45,7 @@ id: "YK/4"
 ],
 ui_type: {
 unitary: true,
-name: "block_grid_subject_vedio",
+name: "block_grid_classic",
 ratio:1.41
 }
 },
@@ -83,7 +83,7 @@ id: "YK/5"
 ],
 ui_type: {
 unitary: true,
-name: "block_grid_subject_vedio",
+name: "block_grid_classic",
 ratio:1.41
 }
 },
@@ -121,7 +121,7 @@ id: "YK/6"
 ],
 ui_type: {
 unitary: true,
-name: "block_grid_subject_vedio",
+name: "block_grid_classic",
 ratio:1.41
 }
 },
@@ -159,7 +159,7 @@ id: "YK/8"
 ],
 ui_type: {
 unitary: true,
-name: "block_grid_subject_vedio",
+name: "block_grid_classic",
 ratio:1.41
 }
 },
@@ -197,7 +197,7 @@ id: "YK/9"
 ],
 ui_type: {
 unitary: true,
-name: "block_grid_subject_vedio",
+name: "block_grid_classic",
 ratio:1.41
 }
 },
@@ -235,7 +235,7 @@ id: "YK/10"
 ],
 ui_type: {
 unitary: true,
-name: "block_grid_subject_vedio",
+name: "block_grid_classic",
 ratio:1.41
 }
 },
@@ -273,7 +273,7 @@ id: "YK/12"
 ],
 ui_type: {
 unitary: true,
-name: "block_grid_subject_vedio",
+name: "block_grid_classic",
 ratio:1.41
 }
 },
@@ -311,7 +311,7 @@ id: "YK/12"
 ],
 ui_type: {
 unitary: true,
-name: "block_grid_subject_vedio",
+name: "block_grid_classic",
 ratio:1.41
 }
 }
