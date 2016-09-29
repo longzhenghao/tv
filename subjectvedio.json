@@ -1,396 +1,333 @@
 {
-  status: 0, 
-  ui_type: {
-    name: "single_page"
-  }, 
-  ver: 1473406894, 
-  subjectinfo: {
-    cover_img: "http://r1.cp31.ott.cibntv.net/0510000057D4230C6714C07E9D08D461", 
-    desc: "草庙村少年张小凡，在经历全村尽灭的惨案后，被青云门收归门下。为报答师门恩情，张小凡勤学苦炼，却因自身驽钝，一无所成。陷入迷茫与孤独境遇中的他，幸有鬼王之女碧瑶和好友林惊羽从旁安慰陪伴，渡过了人生最彷徨的阶段。 　　一次次的坎坷磨难中张小凡逐渐成长，而与碧瑶的感情，也在患难与共中日渐深厚。然而，鬼王为复活兽神并颠覆青云，设下连环阴谋。张小凡悍然迎敌，就在命悬一刻之即，碧瑶舍身为他挡下致命的一剑，重伤昏迷，张小凡带着沉睡的碧瑶流浪世间。鬼王死心不息，卷土重来，最终，张小凡以强大的勇气和信念，挫败鬼王，消弭了正反两派纠葛千年的过节，完成了少年时与碧瑶、林惊羽一众同伴们的约定。在少年们的共同努力之下，终换得山河锦绣如画，沃土千里绵延", 
-    background_img: "http://r2.cp31.ott.cibntv.net/0510000057D428096714C021EE050F77", 
-    title: "秦时明月", 
-    display_fields: [
-"2015-05-29",
-"大陆",
-"剧情/武侠/神话"
+status: 0,
+ver: 1475053759,
+ui_type: {
+name: "single_page"
+},
+blocks: [
+{
+ui_type: {
+name: "block_list"
+},
+blocks: [
+{
+items: [
+{
+stat: {
+id: 4,
+tp: "list"
+},
+target: {
+url: "tv/v3/show/detail?id=3e14b3da159311e69c81",
+entity: "detail:show",
+schema: "yktv"
+},
+title: "解密 TV版",
+sub_title: "自闭少年破译天书密码",
+showid: "3e14b3da159311e69c81",
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/050D00005767AAB267BC3C137009C39B"
+}
+},
+ns: "Show",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+id: "YK/4"
+}
 ],
-    sub_title: "更新到12集"
-
-  }, 
-  blocks: [
-    {
-      ui_type: {
-        name: "block_list"
-      }, 
-      blocks: [
-        {
-          ui_type: {
-		unitary: true,
-		name: "block_grid_classic_h"
-          }, 
-          items: [
-            {
-              stat: {
-                id: 65829, 
-                tp: "list"
-              }, 
-              target: {
-                url: "tv/v3/show/detail?id=9c4eb7da931211e5be16", 
-                entity: "detail:show", 
-                schema: "yktv"
-              }, 
-              showid: "e46186b0f71711e5a080", 
-              videoid: "XMTY0MzY4ODQ4MA==", 
-              subjectid: "xxxx", 
-              starid: "xxxx", 
-              img_v: "xxxx.jpg", 
-              img_h: "xxxx.jpg", 
-              showname: "xxxxxx", 
-              title: "《青云志》凡瑶琪初见片段抢先看 优酷暑假独播", 
-              ui_type: {
-                name: "display_item", 
-                pos: {
-                  y: 0, 
-                  x: 0, 
-                  w: 1, 
-                  h: 1
-                }
-              }, 
-              images: {
-                poster: {
-                  url: "http://r3.cp31.ott.cibntv.net/05160000576B75F667BC3C136B06E4E7", 
-                  md5: "a75d696bcc8070c2bb7ce1325a158065"
-                }
-              }, 
-              ns: "video", 
-              id: "YK/65829"
-            },
-	                {
-              stat: {
-                id: 65829, 
-                tp: "list"
-              }, 
-              target: {
-                url: "tv/v3/show/detail?id=9c4eb7da931211e5be16", 
-                entity: "detail:show", 
-                schema: "yktv"
-              }, 
-              showid: "cc034b68962411de83b1", 
-              videoid: "XMTMyMzc0MTg0NA==", 
-              subjectid: "xxxx", 
-              starid: "xxxx", 
-              img_v: "xxxx.jpg", 
-              img_h: "xxxx.jpg", 
-              showname: "xxxxxx", 
-              title: "偷天换日", 
-              ui_type: {
-                name: "display_item", 
-                pos: {
-                  y: 0, 
-                  x: 0, 
-                  w: 1, 
-                  h: 1
-                }
-              }, 
-              images: {
-                poster: {
-                  url: "http://r1.cp31.ott.cibntv.net/0516000055D6953067BC3C04EC04701E", 
-                  md5: "a75d696bcc8070c2bb7ce1325a158065"
-                }
-              }, 
-              ns: "video", 
-              id: "YK/65829"
-            },
-	                {
-              stat: {
-                id: 65829, 
-                tp: "list"
-              }, 
-              target: {
-                url: "tv/v3/show/detail?id=9c4eb7da931211e5be16", 
-                entity: "detail:show", 
-                schema: "yktv"
-              }, 
-              showid: "c48ef13a47a311e4a080", 
-              videoid: "XODUzMTY2MDk2", 
-              subjectid: "xxxx", 
-              starid: "xxxx", 
-              img_v: "xxxx.jpg", 
-              img_h: "xxxx.jpg", 
-              showname: "xxxxxx", 
-              title: "玉川区役所 OF THE DEAD", 
-              ui_type: {
-                name: "display_item", 
-                pos: {
-                  y: 0, 
-                  x: 0, 
-                  w: 1, 
-                  h: 1
-                }
-              }, 
-              images: {
-                poster: {
-                  url: "http://r2.cp31.ott.cibntv.net/051600005434952467379F184A04A832", 
-                  md5: "a75d696bcc8070c2bb7ce1325a158065"
-                }
-              }, 
-              ns: "video", 
-              id: "YK/65829"
-            },
-	                {
-              stat: {
-                id: 65829, 
-                tp: "list"
-              }, 
-              target: {
-                url: "tv/v3/show/detail?id=9c4eb7da931211e5be16", 
-                entity: "detail:show", 
-                schema: "yktv"
-              }, 
-              showid: "814ddd08cf4111e38b3f", 
-              videoid: "XMTMzNzA4MDU5Mg==", 
-              subjectid: "xxxx", 
-              starid: "xxxx", 
-              img_v: "xxxx.jpg", 
-              img_h: "xxxx.jpg", 
-              showname: "xxxxxx", 
-              title: "捉妖记", 
-              ui_type: {
-                name: "display_item", 
-                pos: {
-                  y: 0, 
-                  x: 0, 
-                  w: 1, 
-                  h: 1
-                }
-              }, 
-              images: {
-                poster: {
-                  url: "http://r1.cp31.ott.cibntv.net/05160000558B6C4767BC3C4279080058", 
-                  md5: "a75d696bcc8070c2bb7ce1325a158065"
-                }
-              }, 
-              ns: "video", 
-              id: "YK/65829"
-            },
-	                {
-              stat: {
-                id: 65829, 
-                tp: "list"
-              }, 
-              target: {
-                url: "tv/v3/show/detail?id=9c4eb7da931211e5be16", 
-                entity: "detail:show", 
-                schema: "yktv"
-              }, 
-              showid: "7f2d6ab4420311e3a705", 
-              videoid: "XMTQ5MDgyNDIyMA==", 
-              subjectid: "xxxx", 
-              starid: "xxxx", 
-              img_v: "xxxx.jpg", 
-              img_h: "xxxx.jpg", 
-              showname: "xxxxxx", 
-              title: "通灵神探", 
-              ui_type: {
-                name: "display_item", 
-                pos: {
-                  y: 0, 
-                  x: 0, 
-                  w: 1, 
-                  h: 1
-                }
-              }, 
-              images: {
-                poster: {
-                  url: "http://r2.cp31.ott.cibntv.net/050C00005680A9EC67BC3C0694016E0F", 
-                  md5: "a75d696bcc8070c2bb7ce1325a158065"
-                }
-              }, 
-              ns: "video", 
-              id: "YK/65829"
-            },{
-              stat: {
-                id: 65829, 
-                tp: "list"
-              }, 
-              target: {
-                url: "tv/v3/show/detail?id=9c4eb7da931211e5be16", 
-                entity: "detail:show", 
-                schema: "yktv"
-              }, 
-              showid: "e46186b0f71711e5a080", 
-              videoid: "XMTY0MzY4ODQ4MA==", 
-              subjectid: "xxxx", 
-              starid: "xxxx", 
-              img_v: "xxxx.jpg", 
-              img_h: "xxxx.jpg", 
-              showname: "xxxxxx", 
-              title: "《青云志》凡瑶琪初见片段抢先看 优酷暑假独播", 
-              ui_type: {
-                name: "display_item", 
-                pos: {
-                  y: 0, 
-                  x: 0, 
-                  w: 1, 
-                  h: 1
-                }
-              }, 
-              images: {
-                poster: {
-                  url: "http://r3.cp31.ott.cibntv.net/05160000576B75F667BC3C136B06E4E7", 
-                  md5: "a75d696bcc8070c2bb7ce1325a158065"
-                }
-              }, 
-              ns: "video", 
-              id: "YK/65829"
-            },
-	                {
-              stat: {
-                id: 65829, 
-                tp: "list"
-              }, 
-              target: {
-                url: "tv/v3/show/detail?id=9c4eb7da931211e5be16", 
-                entity: "detail:show", 
-                schema: "yktv"
-              }, 
-              showid: "cc034b68962411de83b1", 
-              videoid: "XMTMyMzc0MTg0NA==", 
-              subjectid: "xxxx", 
-              starid: "xxxx", 
-              img_v: "xxxx.jpg", 
-              img_h: "xxxx.jpg", 
-              showname: "xxxxxx", 
-              title: "偷天换日", 
-              ui_type: {
-                name: "display_item", 
-                pos: {
-                  y: 0, 
-                  x: 0, 
-                  w: 1, 
-                  h: 1
-                }
-              }, 
-              images: {
-                poster: {
-                  url: "http://r1.cp31.ott.cibntv.net/0516000055D6953067BC3C04EC04701E", 
-                  md5: "a75d696bcc8070c2bb7ce1325a158065"
-                }
-              }, 
-              ns: "video", 
-              id: "YK/65829"
-            },
-	                {
-              stat: {
-                id: 65829, 
-                tp: "list"
-              }, 
-              target: {
-                url: "tv/v3/show/detail?id=9c4eb7da931211e5be16", 
-                entity: "detail:show", 
-                schema: "yktv"
-              }, 
-              showid: "c48ef13a47a311e4a080", 
-              videoid: "XODUzMTY2MDk2", 
-              subjectid: "xxxx", 
-              starid: "xxxx", 
-              img_v: "xxxx.jpg", 
-              img_h: "xxxx.jpg", 
-              showname: "xxxxxx", 
-              title: "玉川区役所 OF THE DEAD", 
-              ui_type: {
-                name: "display_item", 
-                pos: {
-                  y: 0, 
-                  x: 0, 
-                  w: 1, 
-                  h: 1
-                }
-              }, 
-              images: {
-                poster: {
-                  url: "http://r2.cp31.ott.cibntv.net/051600005434952467379F184A04A832", 
-                  md5: "a75d696bcc8070c2bb7ce1325a158065"
-                }
-              }, 
-              ns: "video", 
-              id: "YK/65829"
-            },
-	                {
-              stat: {
-                id: 65829, 
-                tp: "list"
-              }, 
-              target: {
-                url: "tv/v3/show/detail?id=9c4eb7da931211e5be16", 
-                entity: "detail:show", 
-                schema: "yktv"
-              }, 
-              showid: "814ddd08cf4111e38b3f", 
-              videoid: "XMTMzNzA4MDU5Mg==", 
-              subjectid: "xxxx", 
-              starid: "xxxx", 
-              img_v: "xxxx.jpg", 
-              img_h: "xxxx.jpg", 
-              showname: "xxxxxx", 
-              title: "捉妖记", 
-              ui_type: {
-                name: "display_item", 
-                pos: {
-                  y: 0, 
-                  x: 0, 
-                  w: 1, 
-                  h: 1
-                }
-              }, 
-              images: {
-                poster: {
-                  url: "http://r1.cp31.ott.cibntv.net/05160000558B6C4767BC3C4279080058", 
-                  md5: "a75d696bcc8070c2bb7ce1325a158065"
-                }
-              }, 
-              ns: "video", 
-              id: "YK/65829"
-            },
-	                {
-              stat: {
-                id: 65829, 
-                tp: "list"
-              }, 
-              target: {
-                url: "tv/v3/show/detail?id=9c4eb7da931211e5be16", 
-                entity: "detail:show", 
-                schema: "yktv"
-              }, 
-              showid: "7f2d6ab4420311e3a705", 
-              videoid: "XMTQ5MDgyNDIyMA==", 
-              subjectid: "xxxx", 
-              starid: "xxxx", 
-              img_v: "xxxx.jpg", 
-              img_h: "xxxx.jpg", 
-              showname: "xxxxxx", 
-              title: "通灵神探", 
-              ui_type: {
-                name: "display_item", 
-                pos: {
-                  y: 0, 
-                  x: 0, 
-                  w: 1, 
-                  h: 1
-                }
-              }, 
-              images: {
-                poster: {
-                  url: "http://r2.cp31.ott.cibntv.net/050C00005680A9EC67BC3C0694016E0F", 
-                  md5: "a75d696bcc8070c2bb7ce1325a158065"
-                }
-              }, 
-              ns: "video", 
-              id: "YK/65829"
-            }
-          ]
-        }
-      ]
-    }
-  ]
+ui_type: {
+unitary: true,
+name: "block_grid_subject_vedio",
+ratio:1.41
+}
+},
+{
+items: [
+{
+stat: {
+id: 5,
+tp: "list"
+},
+target: {
+url: "tv/v3/video/detail?id=XMTYxNDk0ODk4MA==",
+entity: "detail:video",
+schema: "yktv"
+},
+title: "解密 01",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+videoid: "XMTYxNDk0ODk4MA==",
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/054204085768E0F96A0A4704E83122DC"
+}
+},
+ns: "Video",
+id: "YK/5"
+}
+],
+ui_type: {
+unitary: true,
+name: "block_grid_subject_vedio",
+ratio:1.41
+}
+},
+{
+items: [
+{
+stat: {
+id: 6,
+tp: "list"
+},
+target: {
+url: "tv/v3/video/detail?id=XMTcyOTU3NDE4NA==",
+entity: "detail:video",
+schema: "yktv"
+},
+title: "识汝不识丁 10",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+videoid: "XMTcyOTU3NDE4NA==",
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/0542040857DE74C46A0A4304DB9A2653"
+}
+},
+ns: "Video",
+id: "YK/6"
+}
+],
+ui_type: {
+unitary: true,
+name: "block_grid_subject_vedio",
+ratio:1.41
+}
+},
+{
+items: [
+{
+stat: {
+id: 8,
+tp: "list"
+},
+target: {
+url: "tv/v3/video/detail?id=XMTcyMjk3MjkwNA==",
+entity: "detail:video",
+schema: "yktv"
+},
+title: "识汝不识丁 04",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+videoid: "XMTcyMjk3MjkwNA==",
+images: {
+poster: {
+url: "http://r3.cp31.ott.cibntv.net/0542040857D686836A0A41047528621F"
+}
+},
+ns: "Video",
+id: "YK/8"
+}
+],
+ui_type: {
+unitary: true,
+name: "block_grid_subject_vedio",
+ratio:1.41
+}
+},
+{
+items: [
+{
+stat: {
+id: 9,
+tp: "list"
+},
+target: {
+url: "tv/v3/video/detail?id=XMTcyMjk4MTE3Ng==",
+entity: "detail:video",
+schema: "yktv"
+},
+title: "识汝不识丁 05",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+videoid: "XMTcyMjk4MTE3Ng==",
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/0542040857D689766A0A4F051B88F1DB"
+}
+},
+ns: "Video",
+id: "YK/9"
+}
+],
+ui_type: {
+unitary: true,
+name: "block_grid_subject_vedio",
+ratio:1.41
+}
+},
+{
+items: [
+{
+stat: {
+id: 10,
+tp: "list"
+},
+target: {
+url: "tv/v3/video/detail?id=XMTcyOTQ4NzUyMA==",
+entity: "detail:video",
+schema: "yktv"
+},
+title: "识汝不识丁 06",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+videoid: "XMTcyOTQ4NzUyMA==",
+images: {
+poster: {
+url: "http://r2.cp31.ott.cibntv.net/0542040857DE61136A0A4104718072EE"
+}
+},
+ns: "Video",
+id: "YK/10"
+}
+],
+ui_type: {
+unitary: true,
+name: "block_grid_subject_vedio",
+ratio:1.41
+}
+},
+{
+items: [
+{
+stat: {
+id: 12,
+tp: "list"
+},
+target: {
+url: "tv/v3/video/detail?id=XMTcyOTUzMTE4OA==",
+entity: "detail:video",
+schema: "yktv"
+},
+title: "识汝不识丁 08",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+videoid: "XMTcyOTUzMTE4OA==",
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/0542040857DE6A156A0A48045FB4356E"
+}
+},
+ns: "Video",
+id: "YK/12"
+}
+],
+ui_type: {
+unitary: true,
+name: "block_grid_subject_vedio",
+ratio:1.41
+}
+},
+{
+items: [
+{
+stat: {
+id: 12,
+tp: "list"
+},
+target: {
+url: "tv/v3/video/detail?id=XMTcyOTUzMTE4OA==",
+entity: "detail:video",
+schema: "yktv"
+},
+title: "识汝不识丁 08",
+ui_type: {
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+videoid: "XMTcyOTUzMTE4OA==",
+images: {
+poster: {
+url: "http://r1.cp31.ott.cibntv.net/0542040857DE6A156A0A48045FB4356E"
+}
+},
+ns: "Video",
+id: "YK/12"
+}
+],
+ui_type: {
+unitary: true,
+name: "block_grid_subject_vedio",
+ratio:1.41
+}
+}
+]
+}
+],
+subjectinfo: {
+display_fields: [
+"2016-09-28",
+"综艺"
+],
+background_img: "http://r2.cp31.ott.cibntv.net/0510000057E225136714C06B850B94A8",
+title: "播放专题",
+cover_img: "http://r3.cp31.ott.cibntv.net/0510000057E225316714C06BD80C3B8C",
+sub_title: "这是播放专题",
+img_h: "http://r2.cp31.ott.cibntv.net/0510000057E225316714C06BD80C3B8C",
+desc: "笔记本的发展，早已结束了烧CPU、烧显卡的野蛮式发展生态。厂商想方设法在多个角度全方位提升消费者的使用体验。从前些年的超极本强调轻薄续航，再到后来的二合一变形本多变体验。现在屏幕的体验成为了最新的趋势。显示屏幕是决定笔电的消费者使用体验满意度的核心部件，IPS、TN屏幕面对不同群体需求表现出巨大的差异。"
+}
 }
