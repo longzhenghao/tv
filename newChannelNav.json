@@ -41,6 +41,7 @@
             },
             "sub_title":"",
             "filter":"showcategory:综艺|ob:4",
+	    "src":"tv/v3/component/list?id=394",
             "blocks":[
             ],
             "id":394,
@@ -1493,6 +1494,7 @@
             },
             "sub_title":"",
             "filter":"showcategory:综艺|variety_genre:真人秀|ob:4",
+	    "src":"tv/v3/component/list?id=383",
             "blocks":[
             ],
             "id":383,
