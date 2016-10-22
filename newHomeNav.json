@@ -3848,16 +3848,7 @@ url: "http://r4.ykimg.com/0510000057FDD42E6714C0051D034E4C",
 md5: "c8a8857a82d171dd33a477fcc9420f0f"
 }
 },
-blocks: [],
-hint: {
-right: "",
-center: "",
-left: ""
-},
-sub_title: "",
-filter: "showcategory:电视剧|area:韩国|tv_genre:言情|ob:4",
-id: 264
-}
+blocks: [
 ],
 id: 4,
 ad: {
