@@ -1,0 +1,13748 @@
+{
+status: 0,
+ui_type: {
+unitary: true,
+name: "left_nav"
+},
+ver: 1477104857,
+ad: {
+enable: false
+},
+title: "首页导航",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+blocks: [
+{
+src: "tv/v3/component/list?id=118",
+ui_type: {
+unitary: false,
+name: "block_list"
+},
+ver: 1476967126,
+target: {
+url: "tv/v3/search",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "search"
+},
+title: "搜索",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+focused_icon: {
+url: "http://r3.ykimg.com/05100000580041F66714C06D6A0DB7EE",
+md5: "63f3da8b14d36da73b98140a0fba4220"
+},
+normal_icon: {
+url: "http://r1.ykimg.com/05100000580041F06714C06D51001DAC",
+md5: "e1ef57219d00e46d326adeb89ac58851"
+}
+},
+blocks: [
+{
+ui_type: {
+unitary: true,
+name: "block_grid_search_box"
+},
+ver: 1476872177,
+ad: {
+enable: false
+},
+title: "搜索框",
+items: [ ],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 119
+},
+{
+ui_type: {
+unitary: true,
+ratio: 0.67,
+name: "block_grid_classic",
+columns: 6
+},
+ver: 1476872177,
+ad: {
+enable: false
+},
+title: "大家都在搜",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=525036601e3911e6b32f",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "微微一笑",
+hint: {
+right: "",
+center: "",
+left: "99集全"
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057E9EED96714C006C109A908",
+md5: "2c0cc8e94f2b200dbd3d14f2353ea810"
+}
+},
+id: 121,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=e46186b0f71711e5a080",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "青云志",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057EB39696714C036980D636B",
+md5: "a2bf05869824c231ee62892a299d6a15"
+}
+},
+id: 122,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=67d68692e98711e5b522",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "步步惊心:丽",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057E9F8746714C007B9000C71",
+md5: "9115806b31be519fda88bb018f06786c"
+}
+},
+id: 123,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=c553cf20aad811e59e2a",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "麻雀",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057EA0AA06714C006FC09FC14",
+md5: "fc68058ba92606a89e0b42181ed4966d"
+}
+},
+id: 124,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "3a71358cf6e611e59e2a",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "微微一笑电影版",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057EA237A6714C006E0060C17",
+md5: "83568c55056c61011b36743fb59e06c1"
+}
+},
+id: 125,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 5,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=60d26bfcab1a11e3b8b7",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "美国队长3",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057EB413E6714C03690080494",
+md5: "8a1a52283bd1de007dffe9d22a3f165a"
+}
+},
+id: 126,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 120
+},
+{
+ui_type: {
+unitary: true,
+ratio: 0.667,
+name: "block_grid_classic",
+columns: 6
+},
+ver: 1476967126,
+ad: {
+enable: false
+},
+title: "为你推荐",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+ver: 1476967126,
+target: {
+url: "tv/v3/show/detail?id=28d5b8f0bceb11e0bf93",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "王朝的女人·杨贵妃",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E000055B0905F67BC3C07C90D24B1"
+}
+},
+id: 582,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 3,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=e2f1069a5aed11e6b32f",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "穿越吧厨房",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057EA407A6714C0137704E07C",
+md5: "2d80e13efea6b765cd56338350192271"
+}
+},
+id: 98,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 4,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=e3b38316ae0711e5be16",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "金星秀",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057EA40D26714C012F5019CE1",
+md5: "65f11945c2838fe978b1f9ee45306e36"
+}
+},
+id: 99,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 2,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=7712090c9d5a11e5a080",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "Running Man 2016",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057EA3FFB6714C0139002DBD7",
+md5: "028869c07b9deffe097160b38d9a4d73"
+}
+},
+id: 97,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 1,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=f37b44c760f411e6bdbb",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "喜剧总动员",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057EA3EB16714C01332066255",
+md5: "54001d220b2e22c4f07e929e2b1dac80"
+}
+},
+id: 96,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=1b59f42adfa511e5a2a2",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "中国新歌声",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057EA3E836714C012CA082065",
+md5: "ebd46a4b8f8d1f8fa4ca9536b29cda4e"
+}
+},
+id: 95,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 2,
+w: 1,
+h: 1
+}
+},
+ver: 1476966043,
+target: {
+url: "tv/v3/show/detail?id=8fb5018c5bbf11e3b8b7",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "马达加斯加的企鹅",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E0000549E156767379F6A6C006341",
+md5: "1ffbd9886afbe7dc3d0a69949c6cd415"
+}
+},
+id: 23,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=de885f1a607f11e6b16e",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "别那么骄傲",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057FB70526714C030D10793A5",
+md5: "fd07dc0954de138ff3d96f5f7d387800"
+}
+},
+id: 71,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 2,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=c553cf20aad811e59e2a",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "麻雀",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057FB70676714C031090C9D25",
+md5: "271e13449e89ec007f72a3dcabed6935"
+}
+},
+id: 73,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 1,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "v3/common/h265/play?id=XMTU5ODg1MTk3Mg==",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:video"
+},
+title: "梦想合伙人",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057EA23B16714C00756041E8D",
+md5: "f896482726bd7506aa0115b0643080cd"
+}
+},
+id: 22,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 4,
+w: 1,
+h: 1
+}
+},
+data_source: "filter",
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=116",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "任意依恋",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "showcategory:电影|area:美国|ob:4",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057FB70736714C0311E06683F",
+md5: "cb6991c5d008b251550693dc9f40738b"
+}
+},
+id: 75,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=7f6d49d122ee11e69c81",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "识汝不识丁",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057EA2D486714C006EC0973B0",
+md5: "3520a5567cfd54d120de8464e75baa2e"
+}
+},
+id: 92,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 91
+}
+],
+id: 118,
+ad: {
+enable: false
+}
+},
+{
+src: "tv/v3/component/list?id=2",
+ui_type: {
+unitary: true,
+name: "block_list"
+},
+data_source: "manual",
+ver: 1477104857,
+target: {
+url: "tv/v3/component/list?id=118",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "精选",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+meta: {
+more: "/tv/v3/recommend?list_id=1"
+},
+images: {
+focused_icon: {
+url: "http://r3.ykimg.com/05100000580042086714C06D8E065F7D",
+md5: "d014e4bcf1e22c1de086b07cc6380810"
+},
+normal_icon: {
+url: "http://r1.ykimg.com/051000005801DC036714C0764008C7ED",
+md5: "d1e32743d1904d522cc8d46f5d1e06bb"
+}
+},
+blocks: [
+{
+ui_type: {
+unitary: false,
+ratio: 1,
+name: "block_grid_classic",
+columns: 3
+},
+data_source: "manual",
+ver: 1477033621,
+ad: {
+enable: false
+},
+title: "",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 2,
+h: 1
+}
+},
+data_source: "manual",
+ver: 1477033621,
+target: {
+url: "tv/v3/show/detail?id=e46186b0f71711e5a080",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "",
+hint: {
+right: "7.6",
+center: "",
+left: "已更新至第5集"
+},
+sub_title: "柳岩新娘妆难掩好身材",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/051000005809B69E6714C078D508289A",
+md5: "3041a60054e043f2320e140e44caed3e"
+},
+fore: {
+url: "http://r1.ykimg.com/051000005809B6A66714C078DE0DC041",
+md5: "a4546b6b5508d0a198caf0fe84b7eab2"
+}
+},
+id: 205,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 1
+}
+},
+data_source: "manual",
+ver: 1476946921,
+target: {
+url: "tv/v3/show/detail?id=8dba071f74a211e69c81",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000058074B896714C00CF801CFBF",
+md5: "382d8d0349f83ab971a9ddf073ea75ff"
+},
+fore: {
+url: "http://r1.ykimg.com/0510000058074B326714C00D7C01CADD",
+md5: "f0a8a0b347a56dda9f2ac758034290dd"
+}
+},
+id: 206,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 203
+},
+{
+ui_type: {
+unitary: false,
+ratio: 0.846,
+name: "block_grid_user",
+columns: 6
+},
+ver: 1476872926,
+ad: {
+enable: false
+},
+title: "",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item_home_history",
+pos: {
+y: 0,
+x: 0,
+w: 2,
+h: 1
+}
+},
+ver: 1476872926,
+target: {
+url: "tv/v3/show/detail?id=ca2bd56e6f4111e69c81",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000058074AD96714C00CCD023AE6",
+md5: "663b1a76e3fe80d54916037803dcfd98"
+}
+},
+id: 138,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 3,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=a3b10e60bce811e0bf93",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057FCBA516714C06BC80EBC56",
+md5: "d055f2bf62b897c656f978118d5ccb17"
+}
+},
+id: 140,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 1
+}
+},
+ver: 1476872338,
+target: {
+url: "tv/v3/user/info",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "usercenter"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/051000005807488C6714C00DE1004EFB",
+md5: "20de0f500b98e9f3a9cd5a079a36c9a9"
+}
+},
+id: 139,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 134
+},
+{
+ui_type: {
+unitary: false,
+ratio: 0.67,
+name: "block_grid_classic",
+columns: 6
+},
+ver: 1476872177,
+ad: {
+enable: false
+},
+title: "热播大剧",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 2,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=c553cf20aad811e59e2a",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "游戏网恋修成正果",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FB6D266714C03089046F56",
+md5: "38f35b31ebb70a44425b6fb65e8f48d2"
+},
+fore: {
+url: "http://r3.ykimg.com/0510000057ECEB856714C04761027649",
+md5: "b6af3eca92e6f6e56e22431398b8a6c2"
+}
+},
+id: 46,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 2,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=67d68692e98711e5b522",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "小凡天书入体显异样",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057EDEB416714C03E4A029B05",
+md5: "98eb5c96bb1274fe219ebf31322fe4f0"
+},
+fore: {
+url: "http://r4.ykimg.com/0510000057EE42636714C03E3103DDC4",
+md5: "2e097b9ff194d559ce2440d75d134677"
+}
+},
+id: 47,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 2,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=7f6d49d122ee11e69c81",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FB6D346714C0309D0403FB",
+md5: "b2c7d792a9fc3f8e9c441e93db985e44"
+},
+fore: {
+url: "http://r3.ykimg.com/0510000057EE42846714C03E7F07E043",
+md5: "691ac27c13c18e3f4e5b31ded7f91d4d"
+}
+},
+id: 48,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=de885f1a607f11e6b16e",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "别那么骄傲",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057FB70526714C030D10793A5",
+md5: "fd07dc0954de138ff3d96f5f7d387800"
+}
+},
+id: 71,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 1,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=c7837c05852b11e6b9bb",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "大锤来了",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057FDD4BF6714C004F20A8361",
+md5: "e12d296b8f84e537245946213271cd68"
+}
+},
+id: 72,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 2,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=c553cf20aad811e59e2a",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "麻雀",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057FB70676714C031090C9D25",
+md5: "271e13449e89ec007f72a3dcabed6935"
+}
+},
+id: 73,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 3,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=c8193f92458e11e5b5ce",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "幻城",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FB706D6714C031100700DD",
+md5: "35bfbc3e080bfe5906752e3e49ad70fb"
+}
+},
+id: 74,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 4,
+w: 1,
+h: 1
+}
+},
+data_source: "filter",
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=116",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "任意依恋",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "showcategory:电影|area:美国|ob:4",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057FB70736714C0311E06683F",
+md5: "cb6991c5d008b251550693dc9f40738b"
+}
+},
+id: 75,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 5,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=67d68692e98711e5b522",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "步步惊心·丽",
+hint: {
+right: "",
+center: "",
+left: "更新至10集"
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057FB70796714C0311F0D8B73",
+md5: "74a13cbfde8ec57ea5947c91e5a150fe"
+}
+},
+id: 76,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 45
+},
+{
+ui_type: {
+unitary: true,
+ratio: 2.067,
+name: "block_grid_classic",
+columns: 2
+},
+data_source: "manual",
+ver: 1476872177,
+ad: {
+enable: false
+},
+title: "精选大片",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=3a71358cf6e611e59e2a",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FB6D896714C0313B0EC192",
+md5: "ad0113b03acb20ff4df1265264a34aec"
+}
+},
+id: 18,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=6b2fc09c55d011e59e2a",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057FB6D926714C0303807ED29",
+md5: "c1ab9c0b9e2bafd25e1c8cec31eb1b78"
+}
+},
+id: 17,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 16
+},
+{
+ui_type: {
+unitary: false,
+ratio: 0.67,
+name: "block_grid_classic",
+columns: 6
+},
+ver: 1476872177,
+ad: {
+enable: false
+},
+title: "",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 2,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=6aee3be0e9af11e5b32f",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057FB6DAE6714C030400DD15F",
+md5: "222d5454c4f834d0eace82f69f33180d"
+}
+},
+id: 143,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=cc144c2e962411de83b1",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "暴力街区13:终极",
+hint: {
+right: "",
+center: "",
+left: "更新至13集"
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057EDF7CF6714C03F470A3CF2",
+md5: "b24b2a86ef818902ad58ff0935bb8020"
+}
+},
+id: 144,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=3a71358cf6e611e59e2a",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "微微一笑很倾城",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057EA237A6714C006E0060C17",
+md5: "83568c55056c61011b36743fb59e06c1"
+}
+},
+id: 145,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=cc013a94962411de83b1",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "的士速递2",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057EDFE136714C03E49058368",
+md5: "cc6255fc371d54aacc014e74f6fe2878"
+}
+},
+id: 146,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 5,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=2968bae6044611e5a080	",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "封神榜",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057EDFF7A6714C03EA001A229",
+md5: "0875118b9fd96a085598af33689c59a5"
+}
+},
+id: 147,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 142
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+ratio: 0.666666,
+name: "block_grid",
+columns: 6
+},
+ver: 1476952865,
+ad: {
+enable: false
+},
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 3,
+h: 1
+}
+},
+ver: 1476951220,
+target: {
+url: "tv/v3/show/detail?id=8dba071f74a211e69c81",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+hint: {
+left: ""
+},
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057FB6D926714C0303807ED29",
+md5: "c1ab9c0b9e2bafd25e1c8cec31eb1b78"
+}
+},
+id: 462,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 1,
+h: 1
+}
+},
+ver: 1476950637,
+target: {
+url: "tv/v3/show/detail?id=8dba071f74a211e69c81",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/05100000580874C46714C006FA079F54",
+md5: "db44bb289b55722db02ad38af83ac217"
+}
+},
+id: 463,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 1,
+h: 1
+}
+},
+ver: 1476951181,
+target: {
+url: "tv/v3/show/detail?id=8dba071f74a211e69c81",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "爸爸去哪儿 第四季",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/05100000580874C46714C006FA079F54",
+md5: "db44bb289b55722db02ad38af83ac217"
+}
+},
+id: 521,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 5,
+w: 1,
+h: 1
+}
+},
+ver: 1476950755,
+target: {
+url: "tv/v3/show/detail?id=8dba071f74a211e69c81",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/05100000580874C46714C006FA079F54",
+md5: "db44bb289b55722db02ad38af83ac217"
+}
+},
+id: 522,
+ad: {
+enable: false
+}
+}
+],
+id: 461
+},
+{
+ui_type: {
+unitary: false,
+ratio: 0.67,
+name: "block_grid_classic",
+columns: 6
+},
+ver: 1476872177,
+ad: {
+enable: false
+},
+title: "大咖综艺",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 2,
+h: 2
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=f37b44c760f411e6bdbb",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "喜剧总动员",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/05100000580731B96714C00CDB09D716",
+md5: "aa8bd57704695b0f83260a7d2d7484ab"
+}
+},
+id: 149,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=7712090c9d5a11e5a080",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "Running Man 2016",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/05100000580734CB6714C00CB30F253E",
+md5: "373ca36d79165e7ecd4cae197541f3a9"
+}
+},
+id: 150,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=74a63ee1797a11e6b9bb",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "纲丝节相声大会",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057EA41726714C0131A02B404",
+md5: "4dcb290584444ab193722df01640efc1"
+}
+},
+id: 151,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=1b59f42adfa511e5a2a2",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "中国新歌声",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057EA3E836714C012CA082065",
+md5: "ebd46a4b8f8d1f8fa4ca9536b29cda4e"
+}
+},
+id: 152,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 5,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=e2f1069a5aed11e6b32f",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "穿越吧厨房",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057EA407A6714C0137704E07C",
+md5: "2d80e13efea6b765cd56338350192271"
+}
+},
+id: 153,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 1,
+x: 2,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=e3b38316ae0711e5be16",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "金星秀",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057EA40D26714C012F5019CE1",
+md5: "65f11945c2838fe978b1f9ee45306e36"
+}
+},
+id: 154,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 1,
+x: 3,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=7c77d0d248d311e69e2a",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: " 哔哔密探新歌声",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057EE095B6714C03EBC0468D6",
+md5: "7f3ee4fbd830038e959e10ec062c02e6"
+}
+},
+id: 155,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 1,
+x: 4,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=09374e2ed48711e5b522",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "轻松时刻",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057EE0A5E6714C03E630F19D0",
+md5: "8686003072dcaacc1834e14464334b7e"
+}
+},
+id: 156,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 1,
+x: 5,
+w: 1,
+h: 1
+}
+},
+data_source: "filter",
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=829313c0475a11e6b522",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "笑傲江湖",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "showcategory:电视剧|area:大陆|ob:1",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057EE0AC66714C03F3608C6AF",
+md5: "b162b2c78368cedc7d75e1e0a1663d5b"
+}
+},
+id: 157,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 148
+},
+{
+ui_type: {
+unitary: true,
+ratio: 1.4,
+name: "block_grid_live",
+columns: 3
+},
+ver: 1477104857,
+ad: {
+enable: false
+},
+title: "优酷直播",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+data_source: "manual",
+ver: 1477104857,
+target: {
+url: "tv/v3/live/playurl?zid=10494",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:live"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: "正在直播"
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057FB6DE46714C030D30DADDF",
+md5: "e5ddc4b148f7c5e09b4365b5500f0ffb"
+}
+},
+id: 51,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/live/list",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: "即将直播"
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FB6DF56714C030F80255C4",
+md5: "f4cfe2d7d9d9546e1348453fa66871fc"
+}
+},
+id: 52,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/live/list",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: "即将直播"
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057FB6E0C6714C031300E9E16",
+md5: "3c11b87631b635f2669cff6b4495e2d1"
+}
+},
+id: 53,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 50
+},
+{
+ui_type: {
+unitary: true,
+ratio: 2,
+name: "block_grid_star",
+columns: 3
+},
+ver: 1476872177,
+ad: {
+enable: false
+},
+title: "明星推荐",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/star/detail?id=17226",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:star"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FB6E336714C031440101F5",
+md5: "c9d2854971df89a8509284f011b9cbcb"
+},
+right_top_corner: {
+url: "http://r2.ykimg.com/0510000058047EF26714C07CD7018393",
+md5: "63ee3718d8a57189372f774cd09bfab0"
+}
+},
+id: 33,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/star/detail?id=142259",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:star"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FB6E3B6714C0305006BE8F",
+md5: "e4ee2495d920f458204025d031d91a8f"
+}
+},
+id: 32,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/star/detail?id=23405",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:star"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FB6E426714C030630AF81E",
+md5: "9e95d7e31bd6a679dfd629154f38eb09"
+}
+},
+id: 28,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+mid: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 27
+},
+{
+ui_type: {
+unitary: true,
+ratio: 1.4,
+name: "block_grid_top",
+columns: 3
+},
+ver: 1476872177,
+ad: {
+enable: false
+},
+title: "排行榜",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+data_source: "manual",
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=213",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FB6E656714C030A0037609",
+md5: "932feb8bd8109921e95a2d8e16f4788c"
+}
+},
+id: 55,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=214",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FB6E6E6714C030BE06C513",
+md5: "39b9584fcae22d07374a78fa45aee337"
+}
+},
+id: 56,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=215",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057FB6E766714C030D007A795",
+md5: "5e19e6597c48195b6fc3859f43bb7c02"
+}
+},
+id: 77,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+mid: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 54
+},
+{
+ui_type: {
+unitary: true,
+ratio: 1.3,
+name: "block_grid_button",
+columns: 6
+},
+ver: 1476872177,
+ad: {
+enable: false
+},
+title: "",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+data_source: "filter",
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=216",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "showcategory:电影|area:美国|ob:4",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057FB873D6714C030C70E20BC",
+md5: "8b4bbddd698105c0d1b61cd738f98c8f"
+}
+},
+id: 81,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=2",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057EA09F26714C006CA0E9134",
+md5: "1f63f3772b0f63903cb1ed9e329404f0"
+}
+},
+id: 82,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=3",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057EA0A056714C006F0096983",
+md5: "bc184978e5b25c078460dc8a7f4c5462"
+}
+},
+id: 83,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=4",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057EA0A116714C0070A03AC36",
+md5: "4d76dca7e8b814c1f1e6843fd6248403"
+}
+},
+id: 84,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=5",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057EA0A1D6714C00720048448",
+md5: "6b101888cd308a65994a48434c6ff916"
+}
+},
+id: 85,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=6",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057EA0A286714C0073A05DE5D",
+md5: "d9ed8e9db0170ba883d140bf6c3a231b"
+}
+},
+id: 86,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 80
+}
+],
+id: 2,
+ad: {
+enable: false
+}
+},
+{
+src: "tv/v3/component/list?id=87",
+ui_type: {
+unitary: true,
+name: "block_list"
+},
+data_source: "manual",
+ver: 1476971183,
+target: {
+url: "",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "会员",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+meta: {
+more: "/tv/v3/recommend?list_id=11"
+},
+images: {
+focused_icon: {
+url: "http://r2.ykimg.com/05100000580722406714C00DE607E367",
+md5: "92f3bd11d6e63248523d501ac50405ab"
+},
+normal_icon: {
+url: "http://r4.ykimg.com/051000005801CB206714C07725016B54",
+md5: "294310308a3317a8baf6e305fbd69114"
+}
+},
+blocks: [
+{
+ui_type: {
+unitary: false,
+ratio: 0.67,
+name: "block_grid_hot",
+columns: 6
+},
+ver: 1476966043,
+ad: {
+enable: false
+},
+title: "",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 6,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=239283364ee211e5a080",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FB773E6714C031040112F9",
+md5: "69fe1d18a17c6f5605e36e9da370965b"
+},
+background: {
+url: "http://r4.ykimg.com/0510000057FB77456714C0310703535B",
+md5: "ab59ea9604fd15f3ec21b5f1850b20a7"
+},
+fore: {
+url: "http://r1.ykimg.com/0510000057EDE5126714C03E5908F2A6",
+md5: "b3d104c368d935236a2b6a92dfdc5624"
+}
+},
+id: 90,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 2,
+w: 1,
+h: 1
+}
+},
+ver: 1476966043,
+target: {
+url: "tv/v3/show/detail?id=8fb5018c5bbf11e3b8b7",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "马达加斯加的企鹅",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E0000549E156767379F6A6C006341",
+md5: "1ffbd9886afbe7dc3d0a69949c6cd415"
+}
+},
+id: 23,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 1,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "v3/common/h265/play?id=XMTU5ODg1MTk3Mg==",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:video"
+},
+title: "梦想合伙人",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057EA23B16714C00756041E8D",
+md5: "f896482726bd7506aa0115b0643080cd"
+}
+},
+id: 22,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=3a71358cf6e611e59e2a",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "微微一笑很倾城",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057EA237A6714C006E0060C17",
+md5: "83568c55056c61011b36743fb59e06c1"
+}
+},
+id: 21,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 3,
+w: 1,
+h: 1
+}
+},
+ver: 1476965995,
+target: {
+url: "v3/common/h265/play?id=XODkwNzUzNDQ4",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:video"
+},
+title: " 智取威虎山",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057F89CBA6714C018D80079ED",
+md5: "57d4df3799a6cac0a86a46d50f7c3f90"
+}
+},
+id: 24,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 4,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=59f2a9d4044f11e59e2a",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "叶问3",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057F89CE96714C019360861C5",
+md5: "3e98eb8ff1fddc561415cb9ef672627b"
+}
+},
+id: 25,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 5,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=94c723e4768111e3a705",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: " 绝地逃亡",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057F89DEC6714C018DB0ABC88",
+md5: "387bfe480c0d9a6d6283118a324dab9d"
+}
+},
+id: 26,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 19
+},
+{
+ui_type: {
+unitary: true,
+ratio: 1.33,
+name: "block_grid_button",
+columns: 6
+},
+ver: 1476872177,
+ad: {
+enable: false
+},
+title: "",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=229",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057FDB96A6714C0058807DCB4",
+md5: "ac4040e466c55f034bd6803081005f31"
+}
+},
+id: 39,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=230",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057FDB9F76714C0056903C49B",
+md5: "3cdf15bea4f41f4ee75977aff517a6c5"
+}
+},
+id: 40,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=231",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057FDB9446714C005310DAE92",
+md5: "182de483f1407811405d99d554dda415"
+}
+},
+id: 41,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=232",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057FDB94B6714C00548055185",
+md5: "bb8d87b28016391203f44ac63f146df5"
+}
+},
+id: 42,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=380&tab=233",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057FDB9606714C0057D089106",
+md5: "81949d7a7c8f885374453c2edaec17fa"
+}
+},
+id: 43,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=234",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FDB9716714C005A10A44DE",
+md5: "0a5ad77b7a9aabce321c4f21cb803094"
+}
+},
+id: 44,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 38
+},
+{
+ui_type: {
+unitary: true,
+ratio: 2.067,
+name: "block_grid_classic",
+columns: 2
+},
+ver: 1476872177,
+ad: {
+enable: false
+},
+title: "电影专题",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/subject/detail?id=1",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "subject:poster"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057FB77536714C031280A9CE1",
+md5: "98b9fe3e9191ed555848dcf622e07ec3"
+}
+},
+id: 35,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/subject/detail?id=2",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "subject:play"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057FB77596714C0313704E77B",
+md5: "c2ac41531343366e2193f22482ced983"
+}
+},
+id: 36,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 34
+},
+{
+ui_type: {
+unitary: false,
+ratio: 0.67,
+name: "block_grid_classic",
+columns: 6
+},
+ver: 1476872177,
+ad: {
+enable: false
+},
+title: "",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 2,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=6aee3be0e9af11e5b32f",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057FB6DAE6714C030400DD15F",
+md5: "222d5454c4f834d0eace82f69f33180d"
+}
+},
+id: 143,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=cc144c2e962411de83b1",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "暴力街区13:终极",
+hint: {
+right: "",
+center: "",
+left: "更新至13集"
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057EDF7CF6714C03F470A3CF2",
+md5: "b24b2a86ef818902ad58ff0935bb8020"
+}
+},
+id: 144,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=3a71358cf6e611e59e2a",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "微微一笑很倾城",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057EA237A6714C006E0060C17",
+md5: "83568c55056c61011b36743fb59e06c1"
+}
+},
+id: 145,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=cc013a94962411de83b1",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "的士速递2",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057EDFE136714C03E49058368",
+md5: "cc6255fc371d54aacc014e74f6fe2878"
+}
+},
+id: 146,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 5,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=2968bae6044611e5a080	",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "封神榜",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057EDFF7A6714C03EA001A229",
+md5: "0875118b9fd96a085598af33689c59a5"
+}
+},
+id: 147,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 142
+}
+],
+id: 87,
+ad: {
+enable: false
+}
+},
+{
+src: "tv/v3/component/list?id=394",
+ui_type: {
+unitary: true,
+name: "block_list"
+},
+data_source: "manual",
+ver: 1476971202,
+target: {
+url: "",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "电视剧",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+meta: {
+more: "/tv/v3/recommend?list_id=16"
+},
+images: {
+focused_icon: {
+url: "http://r2.ykimg.com/051000005807263A6714C00DBA016398",
+md5: "564a63913d399924b686227179c7f61e"
+},
+normal_icon: {
+url: "http://r3.ykimg.com/051000005801CB466714C076320BCD14",
+md5: "5319a5adf375fcd7aa22d1e89c64a102"
+},
+background: {
+url: "http://r4.ykimg.com/0510000057FDD42E6714C0051D034E4C",
+md5: "c8a8857a82d171dd33a477fcc9420f0f"
+}
+},
+blocks: [],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "showcategory:电视剧|area:韩国|tv_genre:言情|ob:4",
+id: 264
+}
+],
+id: 4,
+ad: {
+enable: false
+}
+},
+{
+src: "tv/v3/component/list?id=3",
+ui_type: {
+unitary: true,
+name: "block_list"
+},
+data_source: "manual",
+ver: 1476971214,
+target: {
+url: "",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "电影",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+meta: {
+more: "/tv/v3/recommend?list_id=17"
+},
+images: {
+focused_icon: {
+url: "http://r3.ykimg.com/05100000580725E86714C00D090A517E",
+md5: "4c83e5db0ae08a453fc21ced15d8fc81"
+},
+normal_icon: {
+url: "http://r4.ykimg.com/0510000057FDD1A86714C004CD0531A8",
+md5: "a29c4de32bdfe1b8e60d821b6b1f3374"
+}
+},
+blocks: [
+{
+ui_type: {
+unitary: false,
+ratio: 0.67,
+name: "block_grid_hot",
+columns: 6
+},
+ver: 1476966043,
+ad: {
+enable: false
+},
+title: "",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 6,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=239283364ee211e5a080",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FB773E6714C031040112F9",
+md5: "69fe1d18a17c6f5605e36e9da370965b"
+},
+background: {
+url: "http://r4.ykimg.com/0510000057FB77456714C0310703535B",
+md5: "ab59ea9604fd15f3ec21b5f1850b20a7"
+},
+fore: {
+url: "http://r1.ykimg.com/0510000057EDE5126714C03E5908F2A6",
+md5: "b3d104c368d935236a2b6a92dfdc5624"
+}
+},
+id: 90,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 2,
+w: 1,
+h: 1
+}
+},
+ver: 1476966043,
+target: {
+url: "tv/v3/show/detail?id=8fb5018c5bbf11e3b8b7",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "马达加斯加的企鹅",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E0000549E156767379F6A6C006341",
+md5: "1ffbd9886afbe7dc3d0a69949c6cd415"
+}
+},
+id: 23,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 1,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "v3/common/h265/play?id=XMTU5ODg1MTk3Mg==",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:video"
+},
+title: "梦想合伙人",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057EA23B16714C00756041E8D",
+md5: "f896482726bd7506aa0115b0643080cd"
+}
+},
+id: 22,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=3a71358cf6e611e59e2a",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "微微一笑很倾城",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057EA237A6714C006E0060C17",
+md5: "83568c55056c61011b36743fb59e06c1"
+}
+},
+id: 21,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 3,
+w: 1,
+h: 1
+}
+},
+ver: 1476965995,
+target: {
+url: "v3/common/h265/play?id=XODkwNzUzNDQ4",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:video"
+},
+title: " 智取威虎山",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057F89CBA6714C018D80079ED",
+md5: "57d4df3799a6cac0a86a46d50f7c3f90"
+}
+},
+id: 24,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 4,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=59f2a9d4044f11e59e2a",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "叶问3",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057F89CE96714C019360861C5",
+md5: "3e98eb8ff1fddc561415cb9ef672627b"
+}
+},
+id: 25,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 5,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=94c723e4768111e3a705",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: " 绝地逃亡",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057F89DEC6714C018DB0ABC88",
+md5: "387bfe480c0d9a6d6283118a324dab9d"
+}
+},
+id: 26,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 19
+},
+{
+ui_type: {
+unitary: true,
+ratio: 1.33,
+name: "block_grid",
+columns: 6
+},
+data_source: "manual",
+ver: 1476872177,
+ad: {
+enable: false
+},
+title: "",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+h: 1,
+w: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=236",
+schema: "yktv",
+entity: "channel"
+},
+title: "",
+hint: {
+left: ""
+},
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FDC9E06714C00554007F71",
+md5: "8077928952f220b8ba86af6f4362234c"
+}
+},
+id: 237,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+h: 1,
+w: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=238",
+schema: "yktv",
+entity: "channel"
+},
+title: "",
+hint: {
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057FDCAAC6714C005AC06ECBD",
+md5: "45ba94b27353d513deb4c76baf5bbfc9"
+}
+},
+id: 239,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+h: 1,
+w: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=240",
+schema: "yktv",
+entity: "channel"
+},
+title: "",
+hint: {
+left: ""
+},
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FDCB286714C0056E045A99",
+md5: "c4f9aaeb34d96774dd8dc5c44e350553"
+}
+},
+id: 241,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=242",
+schema: "yktv",
+entity: "channel"
+},
+title: "",
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057FDCD986714C005010DE242",
+md5: "d4fdc379b08cd3703d9fb57c78fd46b3"
+}
+},
+id: 245,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+h: 1,
+w: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=243",
+schema: "yktv",
+entity: "channel"
+},
+hint: {
+left: ""
+},
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057FDCDF06714C0047F0058CF",
+md5: "82c4210ae9c5cdbd6c0dac0befd310b2"
+}
+},
+id: 246,
+ad: {
+enable: false
+}
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=244",
+schema: "yktv",
+entity: "channel"
+},
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057FDCE296714C004F00F3ECB",
+md5: "f615fab311d557d0e96a1be1aa76cfaa"
+}
+},
+id: 247,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 235
+},
+{
+ui_type: {
+unitary: true,
+ratio: 2,
+name: "block_grid_star",
+columns: 3
+},
+ver: 1476872177,
+ad: {
+enable: false
+},
+title: "明星推荐",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/star/detail?id=17226",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:star"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FB6E336714C031440101F5",
+md5: "c9d2854971df89a8509284f011b9cbcb"
+},
+right_top_corner: {
+url: "http://r2.ykimg.com/0510000058047EF26714C07CD7018393",
+md5: "63ee3718d8a57189372f774cd09bfab0"
+}
+},
+id: 33,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/star/detail?id=142259",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:star"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FB6E3B6714C0305006BE8F",
+md5: "e4ee2495d920f458204025d031d91a8f"
+}
+},
+id: 32,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/star/detail?id=23405",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:star"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FB6E426714C030630AF81E",
+md5: "9e95d7e31bd6a679dfd629154f38eb09"
+}
+},
+id: 28,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+mid: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 27
+},
+{
+ui_type: {
+unitary: true,
+ratio: 2.067,
+name: "block_grid_classic",
+columns: 2
+},
+ver: 1476872177,
+ad: {
+enable: false
+},
+title: "电影专题",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/subject/detail?id=1",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "subject:poster"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057FB77536714C031280A9CE1",
+md5: "98b9fe3e9191ed555848dcf622e07ec3"
+}
+},
+id: 35,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/subject/detail?id=2",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "subject:play"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057FB77596714C0313704E77B",
+md5: "c2ac41531343366e2193f22482ced983"
+}
+},
+id: 36,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 34
+},
+{
+ui_type: {
+unitary: true,
+ratio: 0.667,
+name: "block_grid_classic",
+columns: 6
+},
+ver: 1476967126,
+ad: {
+enable: false
+},
+title: "为你推荐",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+ver: 1476967126,
+target: {
+url: "tv/v3/show/detail?id=28d5b8f0bceb11e0bf93",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "王朝的女人·杨贵妃",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E000055B0905F67BC3C07C90D24B1"
+}
+},
+id: 582,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 3,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=e2f1069a5aed11e6b32f",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "穿越吧厨房",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057EA407A6714C0137704E07C",
+md5: "2d80e13efea6b765cd56338350192271"
+}
+},
+id: 98,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 4,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=e3b38316ae0711e5be16",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "金星秀",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057EA40D26714C012F5019CE1",
+md5: "65f11945c2838fe978b1f9ee45306e36"
+}
+},
+id: 99,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 2,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=7712090c9d5a11e5a080",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "Running Man 2016",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057EA3FFB6714C0139002DBD7",
+md5: "028869c07b9deffe097160b38d9a4d73"
+}
+},
+id: 97,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 1,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=f37b44c760f411e6bdbb",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "喜剧总动员",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057EA3EB16714C01332066255",
+md5: "54001d220b2e22c4f07e929e2b1dac80"
+}
+},
+id: 96,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=1b59f42adfa511e5a2a2",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "中国新歌声",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057EA3E836714C012CA082065",
+md5: "ebd46a4b8f8d1f8fa4ca9536b29cda4e"
+}
+},
+id: 95,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 2,
+w: 1,
+h: 1
+}
+},
+ver: 1476966043,
+target: {
+url: "tv/v3/show/detail?id=8fb5018c5bbf11e3b8b7",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "马达加斯加的企鹅",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E0000549E156767379F6A6C006341",
+md5: "1ffbd9886afbe7dc3d0a69949c6cd415"
+}
+},
+id: 23,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=de885f1a607f11e6b16e",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "别那么骄傲",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057FB70526714C030D10793A5",
+md5: "fd07dc0954de138ff3d96f5f7d387800"
+}
+},
+id: 71,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 2,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=c553cf20aad811e59e2a",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "麻雀",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057FB70676714C031090C9D25",
+md5: "271e13449e89ec007f72a3dcabed6935"
+}
+},
+id: 73,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 1,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "v3/common/h265/play?id=XMTU5ODg1MTk3Mg==",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:video"
+},
+title: "梦想合伙人",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057EA23B16714C00756041E8D",
+md5: "f896482726bd7506aa0115b0643080cd"
+}
+},
+id: 22,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 4,
+w: 1,
+h: 1
+}
+},
+data_source: "filter",
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=116",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "任意依恋",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "showcategory:电影|area:美国|ob:4",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057FB70736714C0311E06683F",
+md5: "cb6991c5d008b251550693dc9f40738b"
+}
+},
+id: 75,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=7f6d49d122ee11e69c81",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "识汝不识丁",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057EA2D486714C006EC0973B0",
+md5: "3520a5567cfd54d120de8464e75baa2e"
+}
+},
+id: 92,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 91
+}
+],
+id: 3,
+ad: {
+enable: false
+}
+},
+{
+src: "tv/v3/component/list?id=5",
+ui_type: {
+unitary: true,
+name: "block_list"
+},
+data_source: "manual",
+ver: 1476971234,
+target: {
+url: "",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "综艺",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+meta: {
+more: "/tv/v3/recommend?list_id=3"
+},
+images: {
+focused_icon: {
+url: "http://r3.ykimg.com/05100000580726826714C00D02004B1C",
+md5: "428b990242c559bfb255e2c90a012962"
+},
+normal_icon: {
+url: "http://r2.ykimg.com/051000005801CB736714C076890922B6",
+md5: "b3ad85e931ee820aabe4315dc8abbfed"
+}
+},
+blocks: [
+{
+ui_type: {
+unitary: false,
+ratio: 0.67,
+name: "block_grid_classic",
+columns: 6
+},
+ver: 1476966974,
+ad: {
+enable: false
+},
+title: "",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 6,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=f7c3e8ccaeee11e5b692",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057FB782C6714C03070074CDA",
+md5: "00571d74b5b152e49787ed1a9bdf3609"
+},
+background: {
+url: "http://r1.ykimg.com/0510000057ECAF8C6714C047D0018E97",
+md5: "5a3e6a97eb79a680bf627af81d343e79"
+},
+fore: {
+url: "http://r1.ykimg.com/0510000057EDE4BC6714C03EDC04A68E",
+md5: "2a7ed142d751fbe113a1434505ee18be"
+}
+},
+id: 94,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=1b59f42adfa511e5a2a2",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "中国新歌声",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057EA3E836714C012CA082065",
+md5: "ebd46a4b8f8d1f8fa4ca9536b29cda4e"
+}
+},
+id: 95,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 1,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=f37b44c760f411e6bdbb",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "喜剧总动员",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057EA3EB16714C01332066255",
+md5: "54001d220b2e22c4f07e929e2b1dac80"
+}
+},
+id: 96,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 2,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=7712090c9d5a11e5a080",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "Running Man 2016",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057EA3FFB6714C0139002DBD7",
+md5: "028869c07b9deffe097160b38d9a4d73"
+}
+},
+id: 97,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 3,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=e2f1069a5aed11e6b32f",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "穿越吧厨房",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057EA407A6714C0137704E07C",
+md5: "2d80e13efea6b765cd56338350192271"
+}
+},
+id: 98,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 4,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=e3b38316ae0711e5be16",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "金星秀",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057EA40D26714C012F5019CE1",
+md5: "65f11945c2838fe978b1f9ee45306e36"
+}
+},
+id: 99,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 1,
+x: 5,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/live/list",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "德云社纲丝节",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057EA41726714C0131A02B404",
+md5: "4dcb290584444ab193722df01640efc1"
+}
+},
+id: 100,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 93
+},
+{
+ui_type: {
+unitary: true,
+ratio: 1.33,
+name: "block_grid_button",
+columns: 6
+},
+ver: 1476872177,
+ad: {
+enable: false
+},
+title: "",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=229",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057FDB96A6714C0058807DCB4",
+md5: "ac4040e466c55f034bd6803081005f31"
+}
+},
+id: 39,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=230",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057FDB9F76714C0056903C49B",
+md5: "3cdf15bea4f41f4ee75977aff517a6c5"
+}
+},
+id: 40,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=231",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057FDB9446714C005310DAE92",
+md5: "182de483f1407811405d99d554dda415"
+}
+},
+id: 41,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=232",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057FDB94B6714C00548055185",
+md5: "bb8d87b28016391203f44ac63f146df5"
+}
+},
+id: 42,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=380&tab=233",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057FDB9606714C0057D089106",
+md5: "81949d7a7c8f885374453c2edaec17fa"
+}
+},
+id: 43,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=234",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FDB9716714C005A10A44DE",
+md5: "0a5ad77b7a9aabce321c4f21cb803094"
+}
+},
+id: 44,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 38
+},
+{
+ui_type: {
+unitary: true,
+ratio: 2.067,
+name: "block_grid_classic",
+columns: 2
+},
+ver: 1476872177,
+ad: {
+enable: false
+},
+title: "欢乐同享",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=df558696b5ed11e5a080",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057FB78396714C030780587CF",
+md5: "2569811d403ee8f1ab90b6bb526852a7"
+}
+},
+id: 113,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+data_source: "manual",
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=f37b44c760f411e6bdbb",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057FB78406714C0307E034C73",
+md5: "4ee2993b18d61f3195fbb17cc5a73835"
+}
+},
+id: 114,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 112
+},
+{
+ui_type: {
+unitary: true,
+ratio: 0.667,
+name: "block_grid",
+columns: 6
+},
+data_source: "filter",
+ver: 1476872177,
+ad: {
+enable: false
+},
+title: "",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=7b6f66148dc611e5b432",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "全娱乐早扒点 2016 8月",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E000057A0111567BC3C44E90C2E6F"
+}
+},
+id: 266
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=5df04006be5711e5b522",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "美女与极品 2016",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E000057CFDACC67BC3C012D04BC3E"
+}
+},
+id: 266
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=e3b38316ae0711e5be16",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "金星秀 2016",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E000056824CBB67BC3C36E10B77B2"
+}
+},
+id: 266
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=d432f9ec588711e6b9bb",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "拜拜啦肉肉 2016",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E000057DF9C8167BC3C43700A5E7F"
+}
+},
+id: 266
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=e2f1069a5aed11e6b32f",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "穿越吧厨房 2016",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E000057C9518A67BC3C10AC08FD00"
+}
+},
+id: 266
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=f37b44c760f411e6bdbb",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "喜剧总动员 2016",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/050E000057BEAFE567BC3C2B3608A3D2"
+}
+},
+id: 266
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=8dba071f74a211e69c81",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "爸爸去哪儿 第四季",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E000057EDFB3267BC3C34F701C2A9"
+}
+},
+id: 266
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=7712090c9d5a11e5a080",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "Running Man 2016",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/050E000056FA666967BC3C567E06722B"
+}
+},
+id: 266
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=1b59f42adfa511e5a2a2",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "中国新歌声 2016",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E0000577F84EA67BC3C624D05AEBD"
+}
+},
+id: 266
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=7c77d0d248d311e69e2a",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "哔哔密探新歌声 2016",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E000057B6C2EF67BC3C02880C8B91"
+}
+},
+id: 266
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=957386fa2c8e11e6a080",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "偶像就该酱婶 2016",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E000057CFB99167BC3C0A4F06D41D"
+}
+},
+id: 266
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=a9791ad248cf11e69c81",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "挑战好声音 2016",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E000057B6C34767BC3C1B9603E579"
+}
+},
+id: 266
+}
+],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "showcategory:综艺|ob:4",
+id: 266
+}
+],
+id: 5,
+ad: {
+enable: false
+}
+},
+{
+src: "tv/v3/component/list?id=6",
+ui_type: {
+unitary: true,
+name: "block_list"
+},
+ver: 1476971250,
+target: {
+url: "",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "少儿",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+meta: {
+more: "/tv/v3/recommend?list_id=15"
+},
+images: {
+focused_icon: {
+url: "http://r4.ykimg.com/051000005801CB906714C076C30EC37E",
+md5: "0f3023f208d4abe49603fc4dc8acee90"
+},
+normal_icon: {
+url: "http://r4.ykimg.com/051000005801CB8A6714C076B506DE99",
+md5: "2903b0929699f2b61d069a2ae802634d"
+}
+},
+blocks: [
+{
+ui_type: {
+unitary: false,
+ratio: 0.67,
+name: "block_grid_classic",
+columns: 6
+},
+ver: 1476872177,
+ad: {
+enable: false
+},
+title: "",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 6,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=5dcaecd8f68b11e3b8b7",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FB78796714C030F50294F1",
+md5: "c5a318dbbf087fc3edba80351d6ccdbf"
+},
+fore: {
+url: "http://r3.ykimg.com/0510000057EE2D4C6714C03F070ECF2A",
+md5: "b424da741d7926504ee046e8a6e2ee7c"
+}
+},
+id: 102,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 101
+},
+{
+ui_type: {
+unitary: true,
+ratio: 1,
+name: "block_grid_classic",
+columns: 5
+},
+ver: 1476872177,
+ad: {
+enable: false
+},
+title: "",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=8c2b68b8b8d211e5b522",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057FB8B246714C03116029F5C",
+md5: "0948d0f9da50fe68dfc4e26a45c510ab"
+}
+},
+id: 128,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=31a15af0fdc611e4a080",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FB8B196714C030F9092898",
+md5: "3909bf1e038ae457571aca8a28fde712"
+}
+},
+id: 129,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=118dfd5e5ab911e5b522",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057FB8B2C6714C0312D0EC4B2",
+md5: "482d54d53eafa6bffc307f12e2c98d89"
+}
+},
+id: 130,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=32237eea9f8511e3b8b7",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FB8B396714C031450024FE",
+md5: "6d354c828ea1e7e76b80de82bbf5fa73"
+}
+},
+id: 131,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=2f9a63c4ca3411e5b522	",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057ECB6FE6714C0473802106B",
+md5: "15d48130eea24dc4e2006fcbddb0bcbb"
+}
+},
+id: 132,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 127
+},
+{
+ui_type: {
+unitary: true,
+ratio: 1.367,
+name: "block_grid_button",
+columns: 3
+},
+ver: 1476872177,
+ad: {
+enable: false
+},
+title: "",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=5cd944f6414011e38b3f",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057EDE20C6714C03E6600F00C",
+md5: "8410d99fac584972281069266eb7ec47"
+},
+fore: {
+url: "http://r2.ykimg.com/0510000057EDE31E6714C03F400653E3",
+md5: "8ee10d3f23f978fc2ce7a8b37ee10445"
+}
+},
+id: 110,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=5cd944f6414011e38b3f",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057FB788F6714C0311606BFF1",
+md5: "b4b8946b6318326235cb92e85d3cc55b"
+},
+fore: {
+url: "http://r1.ykimg.com/0510000057EDE3366714C03E3B0DC779",
+md5: "d78d40da843e8138cfb4fc716a515e47"
+}
+},
+id: 111,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+h: 1,
+w: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=a204f79c5bf211e3b8b7",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057FB789C6714C031410D74FA",
+md5: "6419d3e4968019df60bccf56d1edcbc1"
+},
+fore: {
+url: "http://r3.ykimg.com/0510000057EDE38B6714C03EE6074F14",
+md5: "f0ed6f9c339e8c1e2eae01ae259dcd2c"
+}
+},
+id: 141,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 109
+},
+{
+filter: "",
+ui_type: {
+unitary: true,
+ratio: 1.33,
+name: "block_grid",
+columns: 6
+},
+ver: 1476872177,
+ad: {
+enable: false
+},
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+data_source: "filter",
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=250",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "showcategory:动漫|anime_genre:亲子|ob:4",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057FDD3976714C0052108144A",
+md5: "c4f245f1f222271554aaddf906b0ccc9"
+}
+},
+id: 251,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+data_source: "filter",
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=252",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "showcategory:动漫|anime_genre:童话|ob:4",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FDD4186714C004DD05A099",
+md5: "bb6f1221f1822f8f2db5179ac4b90224"
+}
+},
+id: 253,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+data_source: "filter",
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=254",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "showcategory:动漫|anime_genre:教育|ob:4",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057FDD8216714C00577012F02",
+md5: "ab2c9bb3e94092fbdc1b764c1afd5d5c"
+}
+},
+id: 255,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+data_source: "filter",
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=256",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "showcategory:动漫|anime_genre:搞笑|ob:4",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057FDD8306714C005920E5D15",
+md5: "c9ea9e7fe9d19525f1d6045f2a10359e"
+}
+},
+id: 257,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+data_source: "filter",
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=258",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "showcategory:动漫|anime_genre:冒险|ob:4",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FDD83D6714C0059E0B897D",
+md5: "18a87ad4d5665c55e08fc58f25579b54"
+}
+},
+id: 259,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+data_source: "filter",
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=260",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "showcategory:动漫|ob:4",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057FDD8546714C004980390B2",
+md5: "dee2bdff9053d18d99ee443e24ac2730"
+}
+},
+id: 261,
+ad: {
+enable: false
+}
+}
+],
+id: 248
+},
+{
+ui_type: {
+unitary: true,
+ratio: 0.667,
+name: "block_grid",
+columns: 6
+},
+data_source: "filter",
+ver: 1476872177,
+ad: {
+enable: false
+},
+title: "",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=cc001f06962411de83b1",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "火影忍者",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/050E00005563E58467BC3C1E0C049028"
+}
+},
+id: 262
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=eb3e5b6e1ef111e69e2a",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "小老虎丹尼尔",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E00005743CE5367BC3C25F90EB5D8"
+}
+},
+id: 262
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=60db2a18fba811e0a046",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "小猪佩奇",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E00005616079567BC3C78A20CFD41"
+}
+},
+id: 262
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=33ec6ce8dea611e58bfb",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "镇魂街",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E0000572068AA67BC3C683D0BF888"
+}
+},
+id: 262
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=9a8e9ba0605611e2a19e",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "秦时明月之君临天下",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E000051D280816758394C8A0163A9"
+}
+},
+id: 262
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=96b97d801ef111e6bdbb",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "佩格和小猫",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E00005743D80D67BC3C247D09D94F"
+}
+},
+id: 262
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=fb675d9461ad11e0bea1",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "爱探险的朵拉",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E000052131FA06758393EED006F6A"
+}
+},
+id: 262
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=8c0bb5a40c5611e6b32f",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "汉字系列类",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E00005739686367BC3C2F1704BE65"
+}
+},
+id: 262
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=cc0026e0962411de83b1",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "银魂",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E0000551E31C667379F1C5901B455"
+}
+},
+id: 262
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=e12722ef69bc11e69e06",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "猪猪侠之光明守卫者 下部",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/050E000057BD35C567BC3C2CF2000A2F"
+}
+},
+id: 262
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=7bf0abae549311e69b6d",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "星学院II月灵手环",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E00005799BAE767BC3C559F030FCE"
+}
+},
+id: 262
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=3f15aeb6face11e4b5ce",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "我的汤姆猫短片",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E0000575FA4DE67BC3C08A206ADF2"
+}
+},
+id: 262
+}
+],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "showcategory:动漫|ob:4|anime_agegroup:0到3岁",
+id: 262
+},
+{
+ui_type: {
+unitary: true,
+ratio: 0.667,
+name: "block_grid",
+columns: 6
+},
+data_source: "filter",
+ver: 1476872177,
+ad: {
+enable: false
+},
+title: "",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=348ce86068a711e4a080",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "巧虎来啦",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E000054B5FD1367379F6E880383FB"
+}
+},
+id: 263
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=52f60e3e421111e38b3f",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "兔小贝系列儿歌",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E000052761D9367583966D80BFEF1"
+}
+},
+id: 263
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=0d8abd568d1f11e296da",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "可可小爱",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E000051B6FB29675839096909A65D"
+}
+},
+id: 263
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=c8db591294bf11e0a046",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "大头儿子小头爸爸2",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E00005201AD7A675839055C084AB6"
+}
+},
+id: 263
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=bc8505d6e28211e4a080",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "咕力儿歌",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E0000554ADA2D67BC3C17C70204DF"
+}
+},
+id: 263
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=73257a16f85211e4b522",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "优宝儿歌",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E00005551719267BC3C7CB60D8CB6"
+}
+},
+id: 263
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=a72f7e776f1d11e69c81",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "超级飞侠大百科 第一季",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E000057C643D567BC3C5CCE0D4CB6"
+}
+},
+id: 263
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=9e3e7132b29111e49e2a",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "巴塔木儿歌",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E000054DC795C67379F6DC20E32DC"
+}
+},
+id: 263
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=1e07031c949511e0a046",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "蓝猫淘气3000问 恐龙时代",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E00005192ED77670C4A1ADB06A6E9"
+}
+},
+id: 263
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=4d7296f2e7a811de97c0",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "花园宝宝",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E000051B6F61E675839074B06BE75"
+}
+},
+id: 263
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=34f693eea21a11e4a080",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "咕力咕力丫米果",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E00005798155267BC3C55F80BCD24"
+}
+},
+id: 263
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=b45e1da6449511e4b522",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "消防员山姆 第八季",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E00005434D78167379F1899093BC7"
+}
+},
+id: 263
+}
+],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "showcategory:动漫|anime_genre:教育|ob:4|anime_agegroup:4到6岁",
+id: 263
+},
+{
+ui_type: {
+unitary: true,
+ratio: 0.667,
+name: "block_grid",
+columns: 6
+},
+data_source: "filter",
+ver: 1476872177,
+ad: {
+enable: false
+},
+title: "",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=18f183a791dc11e69e06",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "RWBY 第四季",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/050E00005805CF9C67BC3C520A08404F"
+}
+},
+id: 387
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=487d40868f6011e6b9bb",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "迈罗·墨菲定律",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/050E00005805D12F67BC3C5E6002D009"
+}
+},
+id: 387
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=af0b77917e2911e6b16e",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "彩虹小马 小马国女孩4:森林传奇",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E000057E24AF667BC3C36420DE51D"
+}
+},
+id: 387
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=16139406966411e6bdbb",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "鼠小弟亚瑟",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E00005729A660000000195504CDFC"
+}
+},
+id: 387
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=64d0502f8f6411e6b16e",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "辛普森一家 第二十八季",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E00005805D21067BC3C5B320F3D07"
+}
+},
+id: 387
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=4ecaf61c8f5d11e6bdbb",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "南方公园 第二十季",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/050E00005805D09567BC3C5CBC0A9848"
+}
+},
+id: 387
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=6b36274f8f5e11e69c81",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "佐恩之子",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E00005805D0C667BC3C5A630D1780"
+}
+},
+id: 387
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=7ac93f9e585311e692a0",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "马男波杰克 第三季",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E000057A4525E67BC3C0A7B0689DA"
+}
+},
+id: 387
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=b9f028528f5e11e6b32f",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "艾莲娜公主",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/050E00005805CFF467BC3C59D10612BF"
+}
+},
+id: 387
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=cc7b2cda762e11e6b9bb",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "星蝶公主 第二季",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E000057D750D867BC3C0567051AED"
+}
+},
+id: 387
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=111fbbe68f6011e6b9bb",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "布拉德·尼利神经秀 第一季",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E00005805D02C67BC3C4E8001FDA4"
+}
+},
+id: 387
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=97be034e8f5f11e69c81",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "新战神金刚",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E00005805D0FB67BC3C5D760B6135"
+}
+},
+id: 387
+}
+],
+sub_title: "",
+filter: "showcategory:动漫|area:美国|ob:1",
+id: 387
+},
+{
+ui_type: {
+unitary: false,
+ratio: 0.667,
+name: "block_grid",
+columns: 6
+},
+data_source: "manual",
+ver: 1476872177,
+ad: {
+enable: false
+},
+title: "",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=cc006aec962411de83b1",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "夏目友人帐 第一季",
+hint: {
+right: "共13集",
+center: "",
+left: "校园 / 神魔 / 剧情"
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E000051C3AF1A670C4A55070A3756",
+md5: "b2cca2bccbee4059007f3355289ddce1"
+}
+},
+id: 389,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=cc006b96962411de83b1",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "夏目友人帐 第二季",
+hint: {
+right: "共13集",
+center: "",
+left: "校园 / 神魔 / 剧情"
+},
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E000051C3B469670C4A5504000B04"
+}
+},
+id: 390,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=d81f9174a60111e0a046",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "夏目友人帐 第三季",
+hint: {
+right: "共13集",
+left: "校园 / 神魔 / 剧情"
+},
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E00005192F513670C4A1AD808C6DA"
+}
+},
+id: 391,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=156d1c7a7b1611e69e06",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "夏目友人帐 第五季",
+hint: {
+right: "更新至3",
+left: "校园 / 神魔 / 剧情"
+},
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E000057DE4F4E67BC3C0CB9021DA5"
+}
+},
+id: 392,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=fb5dc676368711e1b318",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "夏目友人帐 第四季",
+hint: {
+right: "共13集",
+left: "校园 / 神魔 / 剧情"
+},
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/050E000051D294646758397AD0075035"
+}
+},
+id: 393,
+ad: {
+enable: false
+}
+}
+],
+filter: "",
+id: 388
+}
+],
+id: 6,
+ad: {
+enable: false
+}
+},
+{
+src: "tv/v3/component/list?id=159",
+ui_type: {
+unitary: false,
+name: "block_list"
+},
+ver: 1476882061,
+target: {
+url: "",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "更多",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+focused_icon: {
+url: "http://r1.ykimg.com/051000005801CBA56714C076ED062773",
+md5: "d7492e7f14e6cbdb0a108628382c41ca"
+},
+normal_icon: {
+url: "http://r1.ykimg.com/051000005801CB9E6714C076DC06225E",
+md5: "e2ae714a4adacba99d5771e9d0d57b78"
+}
+},
+blocks: [
+{
+ui_type: {
+unitary: true,
+ratio: 0.667,
+name: "block_grid",
+columns: 6
+},
+data_source: "filter",
+ver: 1476872177,
+ad: {
+enable: false
+},
+title: "古装电视剧",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=2d69eb28441011e69b6d",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "医馆笑传2",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E0000577E661C67BC3C0664052EC7"
+}
+},
+id: 374
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=e46186b0f71711e5a080",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "青云志 TV版",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E0000576B75F667BC3C136B06E4E7"
+}
+},
+id: 374
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=67d68692e98711e5b522",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "步步惊心:丽",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E000057C4F09567BC3C1069007419"
+}
+},
+id: 374
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=cbffda14962411de83b1",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "三国",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E00004FB1D9D20000012504046B14"
+}
+},
+id: 374
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=cbffd26c962411de83b1",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "三国演义",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E000052DC88DC6758395339098124"
+}
+},
+id: 374
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=7f6d49d122ee11e69c81",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "识汝不识丁",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/050E000057F30C0B67BC3C34AF00A121"
+}
+},
+id: 374
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=a3675f96e05a11e5b432",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "欢喜密探",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E000056D6B5FA67BC3C2A0A0B9262"
+}
+},
+id: 374
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=cbfb7d48962411de83b1",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "天龙八部",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E000051BEC1CC67583913D70331FE"
+}
+},
+id: 374
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=097c0660555811e6bdbb",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "青云志 未删减版",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/050E0000579B051A67BC3C55F601A5E2"
+}
+},
+id: 374
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=cbfb80fe962411de83b1",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "鹿鼎记",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E000051BEC23B6758390E7B0E2186"
+}
+},
+id: 374
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=70902150919c11e0a046",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "楚汉传奇",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/050E000051B6F2FA67583905D3081E0A"
+}
+},
+id: 374
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=d56886dc86fc11e3a705",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "琅琊榜",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E000055C1D53667BC3C5B85088413"
+}
+},
+id: 374
+}
+],
+sub_title: "",
+filter: "showcategory:电视剧|tv_genre:古装|ob:4",
+id: 374
+},
+{
+filter: "",
+ui_type: {
+unitary: true,
+ratio: 2.067,
+name: "block_grid_classic",
+columns: 2
+},
+ver: 1476872177,
+ad: {
+enable: false
+},
+title: "轮播",
+items: [
+{
+filter: "",
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "launcher/rotate/channels",
+schema: "yktv",
+entity: "rotate"
+},
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FB77536714C031280A9CE1",
+md5: "98b9fe3e9191ed555848dcf622e07ec3"
+}
+},
+id: 378,
+ad: {
+enable: false
+}
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "launcher/rotate/videos?channel_id=042",
+schema: "yktv",
+entity: "rotate"
+},
+images: {
+poster: {
+url: "http://r1.ykimg.com/051000005806DE1B6714C00DE005E50C",
+md5: "f13c782e7f6a7d651db49d23a353851e"
+}
+},
+id: 379,
+ad: {
+enable: false
+}
+}
+],
+id: 377
+},
+{
+ui_type: {
+unitary: true,
+ratio: 2.067,
+name: "block_grid_classic",
+columns: 2
+},
+ver: 1476872177,
+ad: {
+enable: false
+},
+title: "欢乐同享",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=df558696b5ed11e5a080",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057FB78396714C030780587CF",
+md5: "2569811d403ee8f1ab90b6bb526852a7"
+}
+},
+id: 113,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+data_source: "manual",
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=f37b44c760f411e6bdbb",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057FB78406714C0307E034C73",
+md5: "4ee2993b18d61f3195fbb17cc5a73835"
+}
+},
+id: 114,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 112
+},
+{
+ui_type: {
+unitary: true,
+ratio: 0.67,
+name: "block_grid_classic",
+columns: 6
+},
+ver: 1476872177,
+ad: {
+enable: false
+},
+title: "",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=234",
+schema: "yktv",
+entity: "channel"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057FF41906714C07604023210",
+md5: "aac2eeea60e9b64a91ebd28516e53a8e"
+}
+},
+id: 268,
+ad: {
+enable: false
+}
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=372",
+schema: "yktv",
+entity: "channel"
+},
+title: "综艺二级列表",
+id: 373,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=169",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057F8B9E26714C0191706AFB9",
+md5: "4010e6eb0090a0e37e71d622f6670428"
+}
+},
+id: 161,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=196",
+schema: "yktv",
+entity: "channel"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FF40746714C075DB00AEC2",
+md5: "59c0b604f8a5d9e6513ee2c38a100d21"
+}
+},
+id: 207,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+data_source: "manual",
+ver: 1476872177,
+target: {
+url: "tv/v3/component/list?id=244",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057FF40A76714C0763F0CE835",
+md5: "51eb9efe3210d4274c423d19dde7c75b"
+}
+},
+id: 208,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 160
+},
+{
+ui_type: {
+unitary: true,
+ratio: 0.677,
+name: "block_grid",
+columns: 6
+},
+data_source: "filter",
+ver: 1476872177,
+ad: {
+enable: false
+},
+title: "精彩探险",
+items: [
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=6cf410b8950e11e69e06",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "小鹏奇啪行",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E00005805F25E67BC3C58600CE889"
+}
+},
+id: 371
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=dcaad3f878ae11e6b9bb",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "逆行者",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/050E000057D6509B67BC3C0CC80CD408"
+}
+},
+id: 371
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=4d98f60070ec11e69c81",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "你我皆行者",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/050E000057CD356F67BC3C54E10B6308"
+}
+},
+id: 371
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=571d3762391211e6b432",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "行疆",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E0000576B9D0A67BC3C518C01C8AA"
+}
+},
+id: 371
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=4ad84fec305b11e6b32f",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "我要去旅行 第二季",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E0000575CF25C67BC3C07E50B0592"
+}
+},
+id: 371
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=f8b7e8e638e111e6b522",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "西蒙·里夫圣河之旅",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E00005770EE1C67BC3C56DC0A45E3"
+}
+},
+id: 371
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=0210153a217c11e6b522",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "白令海大吸金第3季",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E0000574D23BF67BC3C26200DD54F"
+}
+},
+id: 371
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=76760858217c11e6b32f",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "美国机车2",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/050E0000574D244467BC3C3B9E0E2BBC"
+}
+},
+id: 371
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=d3612f3e217c11e6b2ad",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "阿拉斯加金矿的赌注第5季",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/050E0000574D24BD67BC3C36FB072E2A"
+}
+},
+id: 371
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=6446c888217d11e69e2a",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "求生一加一5",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E0000574D253C67BC3C28430C4E2F"
+}
+},
+id: 371
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=19da1cea217e11e6b522",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "幽浮搜索线",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E0000574D49EC67BC3C3833028301"
+}
+},
+id: 371
+},
+{
+ui_type: {
+unitary: true,
+name: "display_item",
+pos: {
+y: 0,
+x: 0
+}
+},
+ver: 1476872177,
+target: {
+url: "tv/v3/show/detail?id=8a9cf85b217e11e6bdbb",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+ad: {
+enable: false
+},
+entity: "detail:show"
+},
+title: "阿富汗除爆先锋",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E0000574D4A3467BC3C261E031355"
+}
+},
+id: 371
+}
+],
+filter: "showcategory:纪录片|doc_genre:探险|ob:1",
+id: 371
+}
+],
+id: 159,
+ad: {
+enable: false
+}
+},
+{
+src: "tv/v3/component/list?id=446",
+ui_type: {
+unitary: false,
+name: "block_list"
+},
+data_source: "manual",
+ver: 1477037530,
+target: {
+schema: "yktv",
+entity: "channel"
+},
+title: "电影（NEW）",
+filter: "",
+images: {
+focused_icon: {
+url: "http://r2.ykimg.com/0510000058083EFD6714C006A101F821",
+md5: "4901a9f4ad76818c59aeec1accdab0d0"
+},
+normal_icon: {
+url: "http://r3.ykimg.com/05100000580839DC6714C0060A0A2F8C",
+md5: "7863eba327101b829f945ad0399e8426"
+}
+},
+blocks: [
+{
+filter: "",
+ui_type: {
+unitary: false,
+ratio: 4.6895,
+name: "block_grid",
+columns: 1
+},
+ver: 1477033037,
+ad: {
+enable: false
+},
+title: "",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476944020,
+target: {
+url: "tv/v3/show/detail?id=127771b40e0711df97c0",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+hint: {
+right: "",
+left: ""
+},
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/05100000580842CD6714C0060A03C6C0",
+md5: "be999c4119b7c72a9b4aea92b8844a8d"
+}
+},
+id: 448,
+ad: {
+enable: false
+}
+}
+],
+id: 447
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+ratio: 0.667,
+name: "block_grid",
+columns: 6
+},
+ver: 1477033047,
+ad: {
+enable: false
+},
+title: "院线同步",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 3,
+h: 1
+}
+},
+ver: 1476952875,
+target: {
+url: "tv/v3/show/detail?id=65173c402b8f11e6b522",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/05100000580883286714C007060C36AF",
+md5: "69beae64d504ac447f49b5a7b8476f4f"
+}
+},
+id: 450,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 1,
+h: 1
+}
+},
+ver: 1476945556,
+target: {
+url: "tv/v3/show/detail?id=fe84c15c53a511e69b6d",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E000057984B3B67BC3C510E0CEE43"
+}
+},
+id: 451,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 1,
+h: 1
+}
+},
+ver: 1476945560,
+target: {
+url: "tv/v3/show/detail?id=25cee9a2c63111e5b2ad",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E00005805B42467BC3C4E4C02CBAB"
+}
+},
+id: 452,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 5,
+w: 1,
+h: 1
+}
+},
+ver: 1476945564,
+target: {
+url: "tv/v3/show/detail?id=a602553a78dd11e3a705",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E000057BFB12367BC3C0E8B003801"
+}
+},
+id: 458,
+ad: {
+enable: false
+}
+}
+],
+id: 449
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+ratio: 3.63,
+name: "block_grid",
+columns: 6
+},
+ver: 1477033519,
+ad: {
+enable: false
+},
+title: "强档大片",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 4,
+h: 7
+}
+},
+ver: 1477033257,
+target: {
+url: "tv/v3/show/detail?id=322b3518986411e38b3f",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/05100000580879AD6714C006760BEC52",
+md5: "6597895fa3feaeffe960bb5b87af22b6"
+}
+},
+id: 618,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 2,
+h: 3
+}
+},
+ver: 1477033333,
+target: {
+url: "tv/v3/show/detail?id=39eab6a27cc611e38b3f",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000058087AA86714C0063100ED07",
+md5: "c0f970f9b0a911ee659af50fe1b3c1b7"
+}
+},
+id: 619,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 3,
+x: 4,
+w: 1,
+h: 4
+}
+},
+ver: 1477033423,
+target: {
+url: "tv/v3/show/detail?id=94c723e4768111e3a705",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000058087B146714C007260EA704",
+md5: "5e0bdcbd97bca01d3b081f4412c6aab0"
+}
+},
+id: 620,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 3,
+x: 5,
+w: 1,
+h: 4
+}
+},
+ver: 1477033487,
+target: {
+url: "tv/v3/show/detail?id=cb4582f4f72011e5a080",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000058087B546714C0066F069086",
+md5: "7c3c7ef0191be818f9770dcec0137b12"
+}
+},
+id: 621,
+ad: {
+enable: false
+}
+}
+],
+id: 617
+},
+{
+filter: "",
+ui_type: {
+unitary: true,
+ratio: 1.33,
+name: "block_grid",
+columns: 6
+},
+ver: 1477037237,
+ad: {
+enable: false
+},
+items: [
+{
+filter: "",
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+h: 1,
+w: 1
+}
+},
+ver: 1476954450,
+target: {
+schema: "yktv"
+},
+images: {
+poster: {
+url: "http://r1.ykimg.com/05100000580889516714C006C204E88C",
+md5: "89c333ef5062a3b476bf21083d9abf43"
+}
+},
+id: 483,
+ad: {
+enable: false
+}
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+h: 1,
+w: 1
+}
+},
+ver: 1476954477,
+target: {
+schema: "yktv"
+},
+images: {
+poster: {
+url: "http://r2.ykimg.com/051000005808896C6714C0070100F12A",
+md5: "6f62933f8fae02c05cc958aa801bae8f"
+}
+},
+id: 484,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+h: 1,
+w: 1
+}
+},
+ver: 1477037237,
+target: {
+url: "tv/v3/component/list?id=635",
+schema: "yktv",
+entity: "channel"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/05100000580889826714C006000E63BA",
+md5: "8a10a0e78c5613806173730dd9f2c712"
+}
+},
+id: 485,
+ad: {
+enable: false
+}
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+ver: 1476954537,
+target: {
+schema: "yktv"
+},
+images: {
+poster: {
+url: "http://r4.ykimg.com/05100000580889A76714C0067E089152",
+md5: "3b590c878f43eea3af725ffd5aaa056d"
+}
+},
+id: 486,
+ad: {
+enable: false
+}
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+h: 1,
+w: 1
+}
+},
+ver: 1476954563,
+target: {
+schema: "yktv"
+},
+images: {
+poster: {
+url: "http://r1.ykimg.com/05100000580889C36714C006C5022515",
+md5: "6588e5195d615b4eea4926b0ade4a337"
+}
+},
+id: 487,
+ad: {
+enable: false
+}
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+ver: 1476954585,
+target: {
+schema: "yktv"
+},
+images: {
+poster: {
+url: "http://r1.ykimg.com/05100000580889D76714C006E80AE300",
+md5: "2a715e54e205f9561d5265bac914c148"
+}
+},
+id: 488,
+ad: {
+enable: false
+}
+}
+],
+id: 482
+},
+{
+ui_type: {
+unitary: true,
+ratio: 1.5,
+name: "block_grid",
+columns: 3
+},
+data_source: "manual",
+ver: 1477037530,
+ad: {
+enable: false
+},
+title: "轮播台",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1477037474,
+target: {
+url: "launcher/rotate/videos?channel_id=030",
+schema: "yktv",
+entity: "rotate"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/051000005808984E6714C006150755C2",
+md5: "7611f8c5baca1e286f02b22fb259bf47"
+}
+},
+id: 494,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 1
+}
+},
+ver: 1477037507,
+target: {
+url: "launcher/rotate/videos?channel_id=032",
+schema: "yktv",
+entity: "rotate"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/05100000580898876714C006A30CBF9D",
+md5: "aad04a31c359f46352caecd6cfb3c448"
+}
+},
+id: 496,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 1,
+h: 1
+}
+},
+ver: 1477037530,
+target: {
+url: "launcher/rotate/videos?channel_id=031",
+schema: "yktv",
+entity: "rotate"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/05100000580898A16714C006D008F760",
+md5: "132e60d411a3331ccd80b1262c4bbd29"
+}
+},
+id: 497,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 491
+},
+{
+ui_type: {
+unitary: false,
+ratio: 0.667,
+name: "block_grid",
+columns: 6
+},
+data_source: "manual",
+ver: 1477037085,
+ad: {
+enable: false
+},
+title: "资讯·预告",
+items: [
+{
+filter: "",
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 3,
+h: 1
+}
+},
+ver: 1476949025,
+target: {
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r1.ykimg.com/051000005808741B6714C006E2019C04",
+md5: "2b5ed6d81ac1cf040215c14e178f4efa"
+}
+},
+id: 507,
+ad: {
+enable: false
+}
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 1,
+h: 1
+}
+},
+ver: 1476949189,
+target: {
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r4.ykimg.com/05100000580874C46714C006FA079F54",
+md5: "db44bb289b55722db02ad38af83ac217"
+}
+},
+id: 509,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 1,
+h: 1
+}
+},
+ver: 1477037085,
+target: {
+url: "",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:video"
+},
+title: "",
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/05100000580874E36714C0072504DE40",
+md5: "e9b5dd8ca10744295e1415212d130805"
+}
+},
+id: 511,
+ad: {
+enable: false
+}
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 5,
+w: 1,
+h: 1
+}
+},
+ver: 1476949248,
+target: {
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r4.ykimg.com/05100000580874FF6714C006240902DD",
+md5: "b2e23c1044e51bf93de9fa08a05ca6ef"
+}
+},
+id: 512,
+ad: {
+enable: false
+}
+}
+],
+filter: "",
+id: 506
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+ratio: 0.667,
+name: "block_grid",
+columns: 6
+},
+ver: 1477033076,
+ad: {
+enable: false
+},
+title: "",
+items: [
+{
+filter: "",
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 3,
+h: 1
+}
+},
+ver: 1476957635,
+target: {
+schema: "yktv",
+entity: "subject:play"
+},
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000058087FC96714C0067C038F0E",
+md5: "63de2f72d563fc5222686b6cf910ae62"
+}
+},
+id: 532,
+ad: {
+enable: false
+}
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 3,
+h: 1
+}
+},
+ver: 1476957674,
+target: {
+schema: "yktv",
+entity: "subject:play"
+},
+images: {
+poster: {
+url: "http://r2.ykimg.com/05100000580880096714C0070A09E8F0",
+md5: "c913c34ce620d89d67c4b360983b21d4"
+}
+},
+id: 533,
+ad: {
+enable: false
+}
+}
+],
+id: 528
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+ratio: 0.666666,
+name: "block_grid",
+columns: 6
+},
+ver: 1477033084,
+ad: {
+enable: false
+},
+title: "热门影人",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476953662,
+target: {
+url: "tv/v3/star/detail?id=12068",
+schema: "yktv",
+entity: "detail:star"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/05140000574CFD8E67BC3C274A0D730F"
+}
+},
+id: 539,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+ver: 1476953895,
+target: {
+schema: "yktv",
+entity: "detail:video"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/05100000580874E36714C0072504DE40",
+md5: "e9b5dd8ca10744295e1415212d130805"
+}
+},
+id: 540,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 1
+}
+},
+ver: 1476954973,
+target: {
+url: "tv/v3/show/detail?id=2968bae6044611e5a080",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000058088A826714C0071F05A12A",
+md5: "2a29a941c6a4b543b0f5a5afba75bab2"
+}
+},
+id: 548,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 1,
+h: 1
+}
+},
+ver: 1476954926,
+target: {
+url: "tv/v3/star/detail?id=11353",
+schema: "yktv",
+entity: "detail:star"
+},
+title: "周星驰",
+hint: {
+left: ""
+},
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/051400004E9F968697927334AC024BFD"
+}
+},
+id: 552,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 1,
+h: 1
+}
+},
+ver: 1476954977,
+target: {
+url: "tv/v3/show/detail?id=dd0decc2044811e5b5ce",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E000056AEBBF867BC3C2A310ACDA8"
+}
+},
+id: 554,
+ad: {
+enable: false
+}
+}
+],
+id: 537
+}
+],
+id: 446,
+ad: {
+enable: false
+}
+},
+{
+src: "tv/v3/component/list?id=493",
+ui_type: {
+unitary: false,
+name: "block_list"
+},
+data_source: "manual",
+ver: 1476957515,
+target: {
+schema: "yktv",
+entity: "detail:show"
+},
+title: "精选(NEW)",
+filter: "",
+images: {
+focused_icon: {
+url: "http://r4.ykimg.com/0510000058086F666714C006AB0A6C43",
+md5: "a2a2395a2eaaf4aba3aa49b98f69c86c"
+},
+normal_icon: {
+url: "http://r1.ykimg.com/0510000058086F5B6714C00695049AF8",
+md5: "b7d1a5ea6f08e95aef59acb167ebd3df"
+}
+},
+blocks: [
+{
+filter: "",
+ui_type: {
+unitary: false,
+ratio: 1,
+name: "block_grid",
+columns: 3
+},
+data_source: "manual",
+ver: 1476957515,
+ad: {
+enable: false
+},
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 2,
+h: 1
+}
+},
+ver: 1476957446,
+target: {
+url: "tv/v3/show/detail?id=a3675f96e05a11e5b432",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FCBA426714C06BDC07D2A4",
+md5: "9ee3d721c9de5aff3d9f92ea6982ea35"
+}
+},
+id: 570,
+ad: {
+enable: false
+}
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 1
+}
+},
+ver: 1476957515,
+target: {
+schema: "yktv",
+entity: "detail:show"
+},
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FCBA426714C06BDC07D2A4",
+md5: "9ee3d721c9de5aff3d9f92ea6982ea35"
+},
+background: {
+url: "http://r4.ykimg.com/0510000057FCBA426714C06BDC07D2A4",
+md5: "9ee3d721c9de5aff3d9f92ea6982ea35"
+}
+},
+id: 571,
+ad: {
+enable: false
+}
+}
+],
+id: 569
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+ratio: 0.667,
+name: "block_grid",
+columns: 6
+},
+data_source: "manual",
+ver: 1476957223,
+ad: {
+enable: false
+},
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 3,
+h: 1
+}
+},
+ver: 1476956986,
+target: {
+url: "tv/v3/show/detail?id=a3675f96e05a11e5b432",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "欢喜密探",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057FB6D926714C0303807ED29",
+md5: "c1ab9c0b9e2bafd25e1c8cec31eb1b78"
+}
+},
+id: 564,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 2,
+h: 1
+}
+},
+ver: 1476957223,
+target: {
+url: "tv/v3/show/detail?id=a3675f96e05a11e5b432",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "欢喜密探",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000058074AD96714C00CCD023AE6",
+md5: "663b1a76e3fe80d54916037803dcfd98"
+}
+},
+id: 565,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 5,
+w: 1,
+h: 1
+}
+},
+ver: 1476957020,
+target: {
+url: "tv/v3/show/detail?id=a3675f96e05a11e5b432",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "欢喜密探",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E000056D6B5FA67BC3C2A0A0B9262"
+}
+},
+id: 566,
+ad: {
+enable: false
+}
+}
+],
+id: 562
+},
+{
+ui_type: {
+unitary: true,
+ratio: 1.7778,
+name: "block_grid",
+columns: 3
+},
+data_source: "manual",
+ver: 1476955996,
+ad: {
+enable: false
+},
+title: "强档热播",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476955097,
+target: {
+url: "tv/v3/show/detail?id=a3675f96e05a11e5b432",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "欢喜密探",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057FCBA426714C06BDC07D2A4",
+md5: "9ee3d721c9de5aff3d9f92ea6982ea35"
+}
+},
+id: 547,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+ver: 1476954965,
+target: {
+url: "tv/v3/show/detail?id=a3675f96e05a11e5b432",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "欢喜密探",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057FCBA426714C06BDC07D2A4",
+md5: "9ee3d721c9de5aff3d9f92ea6982ea35"
+}
+},
+id: 549,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 1
+}
+},
+ver: 1476954983,
+target: {
+url: "tv/v3/show/detail?id=a3675f96e05a11e5b432",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "欢喜密探",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FCBA426714C06BDC07D2A4",
+md5: "9ee3d721c9de5aff3d9f92ea6982ea35"
+}
+},
+id: 550,
+ad: {
+enable: false
+}
+}
+],
+filter: "",
+id: 546
+},
+{
+ui_type: {
+unitary: false,
+ratio: 0.667,
+name: "block_grid",
+columns: 6
+},
+data_source: "manual",
+ver: 1476955970,
+ad: {
+enable: false
+},
+title: "今日推荐",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 3,
+h: 1
+}
+},
+ver: 1476954395,
+target: {
+url: "tv/v3/show/detail?id=8dba071f74a211e69c81",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057FB6D926714C0303807ED29",
+md5: "c1ab9c0b9e2bafd25e1c8cec31eb1b78"
+}
+},
+id: 499,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 1,
+h: 1
+}
+},
+ver: 1476954546,
+target: {
+url: "tv/v3/show/detail?id=8dba071f74a211e69c81",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "爸爸去哪儿 第四季",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E000057EDFB3267BC3C34F701C2A9"
+}
+},
+id: 501,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 5,
+w: 1,
+h: 1
+}
+},
+ver: 1476954555,
+target: {
+url: "tv/v3/show/detail?id=a3675f96e05a11e5b432",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "欢喜密探",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E000056D6B5FA67BC3C2A0A0B9262"
+}
+},
+id: 541,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 1,
+h: 1
+}
+},
+ver: 1476954569,
+target: {
+url: "tv/v3/show/detail?id=a3675f96e05a11e5b432",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "欢喜密探",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/050E000056D6B5FA67BC3C2A0A0B9262"
+}
+},
+id: 542,
+ad: {
+enable: false
+}
+}
+],
+filter: "",
+id: 498
+}
+],
+id: 493,
+ad: {
+enable: false
+}
+},
+{
+src: "tv/v3/component/list?id=622",
+ui_type: {
+unitary: false,
+name: "block_list"
+},
+data_source: "manual",
+ver: 1477039772,
+target: {
+schema: "yktv",
+entity: "channel"
+},
+title: "少儿NEW",
+filter: "",
+images: {
+focused_icon: {
+url: "http://r4.ykimg.com/051000005809C1706714C078DB0A707F",
+md5: "07dc01ca1365f8b92612cd9fdaa91d84"
+},
+normal_icon: {
+url: "http://r2.ykimg.com/051000005809C1706714C078DB0A707F",
+md5: "07dc01ca1365f8b92612cd9fdaa91d84"
+}
+},
+blocks: [
+{
+ui_type: {
+unitary: true,
+ratio: 2.5,
+name: "block_grid",
+columns: 3
+},
+data_source: "manual",
+ver: 1477036907,
+ad: {
+enable: false
+},
+title: "",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+h: 1,
+w: 1
+}
+},
+ver: 1477036907,
+target: {
+url: "tv/v3/component/list?id=634",
+schema: "yktv",
+entity: "channel"
+},
+title: "0-3岁",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/051000005809C47B6714C078FF08E911",
+md5: "d84df3f74f4751e706fa85aa7b25d252"
+}
+},
+id: 624,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+h: 1,
+w: 1
+}
+},
+ver: 1477035774,
+target: {
+schema: "yktv",
+entity: "detail:show"
+},
+title: "4-6岁",
+hint: {
+left: ""
+},
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/051000005809C6FC6714C0799B0EEA27",
+md5: "db82fa234078be132e6220500a510de0"
+}
+},
+id: 625,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+h: 1,
+w: 1
+}
+},
+ver: 1477035939,
+target: {
+schema: "yktv",
+entity: "detail:show"
+},
+title: "7-10岁",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/051000005809C7A16714C079D804E4E8",
+md5: "174c0b8042871366e467cc80b7f77e1a"
+}
+},
+id: 626,
+ad: {
+enable: false
+}
+}
+],
+filter: "",
+id: 623
+},
+{
+filter: "",
+ui_type: {
+unitary: true,
+ratio: 1,
+name: "block_grid",
+columns: 6
+},
+ver: 1477037082,
+ad: {
+enable: false
+},
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+ver: 1477036603,
+target: {
+url: "tv/v3/show/detail?id=17545d929fb511e4abda",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FB8B246714C03116029F5C",
+md5: "0948d0f9da50fe68dfc4e26a45c510ab"
+}
+},
+id: 633,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+h: 1,
+w: 1
+}
+},
+ver: 1477036352,
+target: {
+url: "tv/v3/show/detail?id=440609eae5f311e1a19e",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057ECB6FE6714C0473802106B",
+md5: "15d48130eea24dc4e2006fcbddb0bcbb"
+}
+},
+id: 628,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+ver: 1477036515,
+target: {
+url: "tv/v3/show/detail?id=8c2b68b8b8d211e5b522",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FB8B246714C03116029F5C",
+md5: "0948d0f9da50fe68dfc4e26a45c510ab"
+}
+},
+id: 631,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+h: 1,
+w: 1
+}
+},
+ver: 1477036459,
+target: {
+url: "tv/v3/show/detail?id=00612e5829fd11e5b692",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057FB8B396714C031450024FE",
+md5: "6d354c828ea1e7e76b80de82bbf5fa73"
+}
+},
+id: 630,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+h: 1,
+w: 1
+}
+},
+ver: 1477036521,
+target: {
+url: "tv/v3/show/detail?id=cc008edc962411de83b1",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/0510000057FB8B2C6714C0312D0EC4B2",
+md5: "482d54d53eafa6bffc307f12e2c98d89"
+}
+},
+id: 629,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+ver: 1477036583,
+target: {
+url: "tv/v3/show/detail?id=17545d929fb511e4abda",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0510000057FB8B196714C030F9092898",
+md5: "3909bf1e038ae457571aca8a28fde712"
+}
+},
+id: 632,
+ad: {
+enable: false
+}
+}
+],
+id: 627
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+ratio: 0.667,
+name: "block_grid_star",
+columns: 6
+},
+ver: 1477038608,
+ad: {
+enable: false
+},
+items: [
+{
+filter: "",
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+ver: 1477038599,
+ad: {
+enable: false
+},
+id: 663,
+target: {
+schema: "yktv"
+}
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+ver: 1477038599,
+ad: {
+enable: false
+},
+id: 664,
+target: {
+schema: "yktv"
+}
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+ver: 1477038599,
+ad: {
+enable: false
+},
+id: 665,
+target: {
+schema: "yktv"
+}
+}
+],
+id: 662
+}
+],
+id: 622,
+ad: {
+enable: false
+}
+},
+{
+src: "tv/v3/component/list?id=395",
+ui_type: {
+unitary: false,
+name: "block_list"
+},
+data_source: "manual",
+ver: 1476965973,
+target: {
+url: "",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "channel"
+},
+title: "生活（NEW）",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+focused_icon: {
+url: "http://r3.ykimg.com/0510000058076F926714C00D7B0A8DA0",
+md5: "291f4a38c55a92b57de12ab37c127a51"
+},
+normal_icon: {
+url: "http://r1.ykimg.com/05100000580766EE6714C00CF0045E81",
+md5: "e1ce4136d03a36cc97cc1a52ac67a6e0"
+}
+},
+blocks: [
+{
+filter: "",
+ui_type: {
+unitary: true,
+ratio: 1,
+name: "block_grid_classic",
+columns: 3
+},
+ver: 1476951121,
+ad: {
+enable: false
+},
+title: "",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+h: 1,
+w: 1
+}
+},
+ver: 1476951121,
+target: {
+url: "tv/v3/show/detail?id=5cd51fc28e9411e5b2ad",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+hint: {
+left: "最近一期标题"
+},
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E0000564D833767BC3C2F010124B7"
+}
+},
+id: 397,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+ver: 1476951113,
+target: {
+url: "tv/v3/show/detail?id=db11d6dcfce411e59e2a",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+hint: {
+left: "最近一期标题"
+},
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/050E000057A1864767BC3C0B400BF545"
+}
+},
+id: 398,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+ver: 1476951118,
+target: {
+url: "tv/v3/show/detail?id=178534f558a111e6bdbb",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+hint: {
+left: "最近一期标题"
+},
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E000057BE59B467BC3C26A200BF16"
+}
+},
+id: 399,
+ad: {
+enable: false
+}
+}
+],
+id: 396
+},
+{
+filter: "",
+ui_type: {
+unitary: true,
+ratio: 1.5,
+name: "block_grid",
+columns: 6
+},
+ver: 1476958780,
+ad: {
+enable: false
+},
+items: [
+{
+filter: "",
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+h: 1,
+w: 1
+}
+},
+ver: 1476958372,
+target: {
+schema: "yktv"
+},
+title: "吃",
+id: 575,
+ad: {
+enable: false
+}
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+h: 1,
+w: 1
+}
+},
+ver: 1476958392,
+target: {
+url: "",
+schema: "yktv"
+},
+title: "玩",
+id: 576,
+ad: {
+enable: false
+}
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+h: 1,
+w: 1
+}
+},
+ver: 1476958407,
+target: {
+schema: "yktv"
+},
+title: "读",
+id: 577,
+ad: {
+enable: false
+}
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+ver: 1476958455,
+target: {
+schema: "yktv"
+},
+title: "招",
+id: 578,
+ad: {
+enable: false
+}
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+h: 1,
+w: 1
+}
+},
+ver: 1476958463,
+target: {
+schema: "yktv"
+},
+title: "聊",
+id: 579,
+ad: {
+enable: false
+}
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+ver: 1476958471,
+target: {
+schema: "yktv"
+},
+title: "车",
+id: 580,
+ad: {
+enable: false
+}
+}
+],
+id: 574
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+ratio: 0.66666,
+name: "block_grid",
+columns: 5
+},
+ver: 1476958792,
+ad: {
+enable: false
+},
+title: "食神争霸",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 2,
+h: 2
+}
+},
+ver: 1476930945,
+target: {
+url: "tv/v3/show/detail?id=8163b836008511e6a080",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "曼食慢语 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E0000570CACCB67BC3C7DDB019316"
+}
+},
+id: 413,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 1,
+h: 1
+}
+},
+ver: 1476931149,
+target: {
+url: "tv/v3/show/detail?id=a646cdfafc7511e583e8",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "美食台 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E00005718608C67BC3C4B140644A5"
+}
+},
+id: 414,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 1,
+h: 1
+}
+},
+ver: 1476933011,
+target: {
+url: "tv/v3/show/detail?id=deb7f558df9f11e5b432",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "i烘焙美食实验室 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E000056F90F3C67BC3C4A960E22C9"
+}
+},
+id: 415,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 1
+}
+},
+ver: 1476931025,
+target: {
+url: "tv/v3/show/detail?id=46b11ce1594a11e6b16e",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "味库美食视频 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/050E000057A1A5C967BC3C0A8605685E"
+}
+},
+id: 416,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 1,
+x: 2,
+w: 1,
+h: 1
+}
+},
+ver: 1476931607,
+target: {
+url: "tv/v3/show/detail?id=c8c31074e6c611e59e2a",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "心煮艺 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E000056E2232467BC3C6D160AF77C"
+}
+},
+id: 417,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 1,
+x: 4,
+w: 1,
+h: 1
+}
+},
+ver: 1476933084,
+target: {
+url: "tv/v3/show/detail?id=2e76dfa48ecb11e69c81",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "厨王争霸 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E000057FB6C9667BC3C5CC406A73C"
+}
+},
+id: 418,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 1,
+x: 3,
+w: 1,
+h: 1
+}
+},
+ver: 1476933450,
+target: {
+url: "tv/v3/show/detail?id=44681bd293ea11e5b692",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "微体兔 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E0000570B3B1467BC3C7ED103FC47"
+}
+},
+id: 419,
+ad: {
+enable: false
+}
+}
+],
+id: 412
+},
+{
+ui_type: {
+unitary: true,
+ratio: 0.667,
+name: "block_grid",
+columns: 6
+},
+ver: 1476958801,
+ad: {
+enable: false
+},
+title: "洋食儿",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 6,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476934468,
+target: {
+url: "tv/v3/show/detail?id=c18dfeb293de11e5a080",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "Tinrry下午茶 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E00005656636D67BC3C585E0DD4A7"
+}
+},
+id: 430,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476881359,
+target: {
+url: "tv/v3/show/detail?id=205b02142d5411e6b522",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "Fiona's Kitchen 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E0000575D364267BC3C5C600954B8"
+}
+},
+id: 426,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 2,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476934491,
+target: {
+url: "tv/v3/show/detail?id=af4d5da6a86011e5a080",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "白宗元的三大天王 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E00005678E17A67BC3C065F02F2FF"
+}
+},
+id: 427,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 3,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476934460,
+target: {
+url: "tv/v3/show/detail?id=bf0e63b53efd11e69c81",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "真味法国 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E000057766B6B67BC3C585D007093"
+}
+},
+id: 428,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 4,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476934503,
+target: {
+url: "tv/v3/show/detail?id=341b70f88f5311e5b432",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "yanyanfoodtube 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E00005654175B67BC3C6CB4077B34"
+}
+},
+id: 429,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 1,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476934508,
+target: {
+url: "tv/v3/show/detail?id=b059b8949d5b11e59e2a",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "生活的达人 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E00005729B24767BC3C0D320430F3"
+}
+},
+id: 431,
+ad: {
+enable: false
+}
+}
+],
+sub_title: "",
+filter: "",
+id: 425
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+ratio: 1,
+name: "block_grid",
+columns: 3
+},
+ver: 1476958809,
+ad: {
+enable: false
+},
+title: "暖心手作",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476951146,
+target: {
+url: "tv/v3/show/detail?id=a526429e941e11e5b432",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+hint: {
+left: "最近一期标题"
+},
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E00005656CEB767BC3C57C50B8EC2"
+}
+},
+id: 433,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+ver: 1476951150,
+target: {
+url: "tv/v3/show/detail?id=9abc39ae6dd911e6b32f",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+hint: {
+left: "最近一期标题"
+},
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E000057C4EEBF67BC3C16BE03D805"
+}
+},
+id: 434,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 1
+}
+},
+ver: 1476951154,
+target: {
+url: "tv/v3/show/detail?id=65a4f574ffe011e5b2ad",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+hint: {
+left: "最近一期标题"
+},
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E000057343CE367BC3C01DB05A71A"
+}
+},
+id: 436,
+ad: {
+enable: false
+}
+}
+],
+id: 432
+},
+{
+filter: "",
+ui_type: {
+unitary: true,
+ratio: 1,
+name: "block_grid_star",
+columns: 6
+},
+ver: 1476958818,
+ad: {
+enable: false
+},
+title: "时尚达人",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+h: 0,
+w: 1
+}
+},
+ver: 1476949999,
+target: {
+url: "tv/v3/star/detail?id=372640",
+schema: "yktv",
+entity: "detail:star"
+},
+title: "唐毅",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/051400004EB1F38B979273480F0E8BE8"
+}
+},
+id: 404,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+ver: 1476950208,
+target: {
+url: "tv/v3/star/detail?id=364974",
+schema: "yktv",
+entity: "detail:star"
+},
+title: "李斯羽",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/05140000522E91FD6758394C6000A294"
+}
+},
+id: 405,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+ver: 1476950330,
+target: {
+url: "tv/v3/star/detail?id=350067",
+schema: "yktv",
+entity: "detail:star"
+},
+title: "徐孝琳",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0514000052CCC8BF67583974E10BB0AD"
+}
+},
+id: 406,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+ver: 1476929554,
+target: {
+url: "tv/v3/star/detail?id=14525",
+schema: "yktv",
+entity: "detail:star"
+},
+title: "吕思颖",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/051400004E27E04C979273022207F69E"
+}
+},
+id: 407,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+ver: 1476950673,
+target: {
+url: "tv/v3/star/detail?id=369730",
+schema: "yktv",
+entity: "detail:star"
+},
+title: "陈正飞",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/0514000057A404F267BC3C443900CDB5"
+}
+},
+id: 408,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item"
+},
+ver: 1476950383,
+target: {
+url: "tv/v3/star/detail?id=16430",
+schema: "yktv",
+entity: "detail:star"
+},
+title: "韩彩英",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0514000050274CD29792735F8C066B8E"
+}
+},
+id: 409,
+ad: {
+enable: false
+}
+}
+],
+id: 403
+},
+{
+ui_type: {
+unitary: false,
+ratio: 2,
+name: "block_grid",
+columns: 2
+},
+ver: 1476958823,
+ad: {
+enable: false
+},
+title: "专题-时尚驿站",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476957207,
+target: {
+url: "tv/v3/subject/detail?id=2",
+schema: "yktv",
+entity: "subject:play"
+},
+title: "播放专题",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/0510000057E225316714C06BD80C3B8C"
+}
+},
+id: 495,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+ver: 1476957217,
+target: {
+url: "tv/v3/subject/detail?id=1",
+schema: "yktv",
+entity: "subject:poster"
+},
+title: "海报专题",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/0510000057E224CE6714C06AEF0EF528"
+}
+},
+id: 500,
+ad: {
+enable: false
+}
+}
+],
+sub_title: "",
+filter: "",
+id: 440
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+ratio: 0.66666,
+name: "block_grid",
+columns: 6
+},
+ver: 1476958830,
+ad: {
+enable: false
+},
+title: "汽车大百科",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 6,
+h: 1
+}
+},
+ver: 1476952464,
+target: {
+url: "tv/v3/show/detail?id=24a9ddeeb9d811e5b432",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/050E0000579EE4DD67BC3C0B050C4275"
+}
+},
+id: 421,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 1,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476948597,
+target: {
+url: "tv/v3/show/detail?id=d8e88ec68f5911e5b522",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "38号车评中心 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E0000564ECE6A67BC3C2CB6088DB9"
+}
+},
+id: 502,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 1,
+x: 2,
+w: 1,
+h: 1
+}
+},
+ver: 1476957673,
+target: {
+url: "tv/v3/show/detail?id=cea4e14093fe11e5b432",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "夏东评车 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/050E000056569BAC67BC3C4A93014A2D"
+}
+},
+id: 503,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 1,
+x: 5,
+w: 1,
+h: 1
+}
+},
+ver: 1476957665,
+target: {
+url: "tv/v3/show/detail?id=a5378c16450d11e6b432",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "威sir测试场 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E00005780B27167BC3C04A30EA6FD"
+}
+},
+id: 504,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 1,
+x: 3,
+w: 1,
+h: 1
+}
+},
+ver: 1476948864,
+target: {
+url: "tv/v3/show/detail?id=15adc824fcfd11e5b32f",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "MOTO 小峰 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/050E00005707570367BC3C0F160DFB69"
+}
+},
+id: 505,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 1,
+x: 4,
+w: 1,
+h: 1
+}
+},
+ver: 1476949128,
+target: {
+url: "tv/v3/show/detail?id=a8b3b77e36a411e6a080",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "胖哥体验视频 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E00005768C3F367BC3C137A016024"
+}
+},
+id: 508,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 1,
+x: 1,
+w: 1,
+h: 1
+}
+},
+ver: 1476957680,
+target: {
+url: "tv/v3/show/detail?id=17e1ce5e8f4511e5b522",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "萝卜报告 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E0000564EABF167BC3C39AF099B2B"
+}
+},
+id: 510,
+ad: {
+enable: false
+}
+}
+],
+id: 420
+},
+{
+ui_type: {
+unitary: false,
+ratio: 0.6666,
+name: "block_grid",
+columns: 6
+},
+data_source: "manual",
+ver: 1476965738,
+ad: {
+enable: false
+},
+title: "旅行是一种生活态度",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 1,
+x: 2,
+w: 1,
+h: 1
+}
+},
+ver: 1476951922,
+target: {
+url: "tv/v3/show/detail?id=f579780828b111e6bdbb",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "最夯游记 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E0000575151BB67BC3C393204FA07"
+}
+},
+id: 515,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 1,
+x: 1,
+w: 1,
+h: 1
+}
+},
+data_source: "manual",
+ver: 1476965689,
+target: {
+url: "tv/v3/show/detail?id=b597052e443511e6b522",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "世界旅人 2016",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/050E0000577F4AF467BC3C0C3D0E699B",
+md5: ""
+}
+},
+id: 516,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 1,
+x: 0,
+w: 1,
+h: 1
+}
+},
+data_source: "manual",
+ver: 1476965669,
+target: {
+url: "tv/v3/show/detail?id=18dabbf4280111e6abda",
+schema: "yktv",
+params: {
+android_intent: ""
+},
+entity: "detail:show"
+},
+title: "环球梦游记 2016",
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/050E000057500C0567BC3C2E3D00BA05",
+md5: ""
+}
+},
+id: 517,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 1,
+x: 3,
+w: 1,
+h: 1
+}
+},
+ver: 1476951928,
+target: {
+url: "tv/v3/show/detail?id=c20e5f52c42211e59e2a",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "我住在这里的理由 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E000056A763F467BC3C746E092469"
+}
+},
+id: 518,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 1,
+x: 4,
+w: 1,
+h: 1
+}
+},
+ver: 1476951933,
+target: {
+url: "tv/v3/show/detail?id=ded5a624fd0011e5b2ad",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "野心 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E0000570C9BC067BC3C192E0D4DCF"
+}
+},
+id: 519,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 3,
+h: 1
+}
+},
+ver: 1476956631,
+target: {
+url: "tv/v3/show/detail?id=de75b39addd011e4abda",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E00005525079E67379F6C4E091BA5"
+}
+},
+id: 531,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 1,
+x: 5,
+w: 1,
+h: 1
+}
+},
+ver: 1476952147,
+target: {
+url: "tv/v3/show/detail?id=80097952167a11e6b432",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "旅行智造 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E00005731977467BC3C01E203FEFC"
+}
+},
+id: 534,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 3,
+h: 1
+}
+},
+ver: 1476956636,
+target: {
+url: "tv/v3/show/detail?id=402545ab540111e69c81",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E000057D7B15C67BC3C04B90C2DB2"
+}
+},
+id: 535,
+ad: {
+enable: false
+}
+}
+],
+hint: {
+right: "",
+center: "",
+left: ""
+},
+sub_title: "",
+filter: "",
+id: 513
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+ratio: 4,
+name: "block_grid",
+columns: 1
+},
+ver: 1476958843,
+ad: {
+enable: false
+},
+title: "家庭娱乐",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476956584,
+target: {
+url: "tv/v3/show/detail?id=09374e2ed48711e5b522",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E000056C2DDB667BC3C571106008A"
+}
+},
+id: 538,
+ad: {
+enable: false
+}
+}
+],
+id: 536
+},
+{
+ui_type: {
+unitary: false,
+ratio: 1,
+name: "block_grid",
+columns: 6
+},
+data_source: "manual",
+ver: 1476958860,
+ad: {
+enable: false
+},
+title: "健身教室",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 1
+}
+},
+ver: 1476951365,
+target: {
+url: "tv/v3/show/detail?id=95c751028f2411e5b522",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "家庭健身 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/050E0000564E787B67BC3C7CA60DC7BA"
+}
+},
+id: 523,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 2,
+h: 1
+}
+},
+ver: 1476958512,
+target: {
+url: "tv/v3/show/detail?id=d432f9ec588711e6b9bb",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "拜拜啦肉肉 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E000057DF9C8167BC3C43700A5E7F"
+}
+},
+id: 524,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 1,
+h: 1
+}
+},
+ver: 1476951457,
+target: {
+url: "tv/v3/show/detail?id=033f23c0270211e69e2a",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "和潇洒姐塑身100天 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E0000574D429067BC3C3B5408886A"
+}
+},
+id: 525,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 1,
+h: 1
+}
+},
+ver: 1476954656,
+target: {
+url: "tv/v3/show/detail?id=2d614fce369911e6b432",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "超模25健身课 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E00005768C2DD67BC3C11BA085F2E"
+}
+},
+id: 545,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 5,
+w: 1,
+h: 1
+}
+},
+ver: 1476958091,
+target: {
+url: "tv/v3/show/detail?id=677383aafce511e59e2a",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "天下钓鱼技巧 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E0000570757EF67BC3C7DE30656E9"
+}
+},
+id: 572,
+ad: {
+enable: false
+}
+}
+],
+filter: "",
+id: 520
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+ratio: 1.5,
+name: "block_grid",
+columns: 3
+},
+ver: 1476958866,
+ad: {
+enable: false
+},
+title: "完美生活空间",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476952565,
+target: {
+url: "tv/v3/show/detail?id=dffdc4e6741611e6b16e",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+hint: {
+left: "最近更新一期标题"
+},
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E000057CE954867BC3C040F05127E"
+}
+},
+id: 527,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 1
+}
+},
+ver: 1476957292,
+target: {
+url: "tv/v3/show/detail?id=b059b8949d5b11e59e2a",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E00005729B24767BC3C0D320430F3"
+}
+},
+id: 563,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+ver: 1476957285,
+target: {
+url: "tv/v3/show/detail?id=0be8264ac48c11e4b432",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E000054FD456867379F1DAA079B4F"
+}
+},
+id: 568,
+ad: {
+enable: false
+}
+}
+],
+id: 526
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+ratio: 0.6666,
+name: "block_grid",
+columns: 6
+},
+ver: 1476958874,
+ad: {
+enable: false
+},
+title: "家长里短",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476951716,
+target: {
+url: "tv/v3/show/detail?id=026b0b2e9d4d11e5a080",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "爱情保卫战 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E00005666369C67BC3C4CA603360F"
+}
+},
+id: 530,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+ver: 1476954880,
+target: {
+url: "tv/v3/show/detail?id=e61a3f0a6f2d11e59e2a",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "女婿上门了 第一季",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E0000565FCA3867BC3C59650A56B0"
+}
+},
+id: 551,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 1
+}
+},
+ver: 1476954969,
+target: {
+url: "tv/v3/show/detail?id=1777da9c910c11e69e06",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "四大名助 第四季",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E000057FF28D267BC3C5DFA052BAC"
+}
+},
+id: 553,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 1,
+h: 1
+}
+},
+ver: 1476955053,
+target: {
+url: "tv/v3/show/detail?id=e5de800a8db411e5b2ad",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "金牌调解 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/050E0000564C0E1C67BC3C2BE5062493"
+}
+},
+id: 555,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 1,
+h: 1
+}
+},
+ver: 1476955138,
+target: {
+url: "tv/v3/show/detail?id=a6482a3cf4ce11e5a080",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "门当户对 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E000056FA3D2467BC3C58D50E8257"
+}
+},
+id: 556,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 5,
+w: 1,
+h: 1
+}
+},
+ver: 1476955191,
+target: {
+url: "tv/v3/show/detail?id=76d220dab16911e5b2ad",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "幸福来敲门 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r1.ykimg.com/050E00005687F40067BC3C39130CC6F4"
+}
+},
+id: 557,
+ad: {
+enable: false
+}
+}
+],
+id: 529
+},
+{
+filter: "",
+ui_type: {
+unitary: false,
+ratio: 0.667,
+name: "block_grid",
+columns: 6
+},
+ver: 1476958881,
+ad: {
+enable: false
+},
+title: "关爱健康",
+items: [
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 4,
+w: 1,
+h: 1
+}
+},
+ver: 1476955840,
+target: {
+url: "tv/v3/show/detail?id=46eb12e17e9111e6b9bb",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "视知医学说 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E000057E0E4AF67BC3C407B0DAD50"
+}
+},
+id: 567,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 5,
+w: 1,
+h: 1
+}
+},
+ver: 1476958161,
+target: {
+url: "tv/v3/show/detail?id=31ed1868df8f11e5a2a2",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "微在不懂爱 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E000056D6476B67BC3C040A0E8D4C"
+}
+},
+id: 573,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 0,
+w: 1,
+h: 1
+}
+},
+ver: 1476955568,
+target: {
+url: "tv/v3/show/detail?id=0a3a7744875011e5b692",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "养生堂 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r4.ykimg.com/050E00005641A66267BC3C2E08031D95"
+}
+},
+id: 558,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 2,
+w: 1,
+h: 1
+}
+},
+ver: 1476955623,
+target: {
+url: "tv/v3/show/detail?id=5e31ffda9d7f11e5b432",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "健康北京 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E000056668C6F67BC3C74C90CBD63"
+}
+},
+id: 561,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 3,
+w: 1,
+h: 1
+}
+},
+ver: 1476955632,
+target: {
+url: "tv/v3/show/detail?id=023b10ec8f5911e5b522",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "医学微视 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r3.ykimg.com/050E0000564ECD0967BC3C7B2E07332B"
+}
+},
+id: 559,
+ad: {
+enable: false
+}
+},
+{
+ui_type: {
+unitary: false,
+name: "display_item",
+pos: {
+y: 0,
+x: 1,
+w: 1,
+h: 1
+}
+},
+ver: 1476955615,
+target: {
+url: "tv/v3/show/detail?id=4a16dbc09d6a11e5b432",
+schema: "yktv",
+entity: "detail:show"
+},
+title: "我是大医生 2016",
+filter: "",
+images: {
+poster: {
+url: "http://r2.ykimg.com/050E00005666672967BC3C4A660DF0C8"
+}
+},
+id: 560,
+ad: {
+enable: false
+}
+}
+],
+id: 543
+}
+],
+id: 395,
+ad: {
+enable: false
+}
+}
+],
+id: 1
+}

@@ -26,7 +26,7 @@
             "data_source":"filter",
             "ver":1476872177,
             "target":{
-                "url":"tv/v3/component/list?id=394",
+                "url":"",
                 "schema":"yktv",
                 "params":{
                     "android_intent":""
