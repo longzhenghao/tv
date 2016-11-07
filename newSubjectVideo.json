@@ -27,7 +27,7 @@
                             },
                             "title":"泳池小鲜肉",
                             "ui_type":{
-                                "name":"subject_play_item",
+                                "name":"display_item",
                                 "pos":{
                                     "y":0,
                                     "x":0,
@@ -51,7 +51,7 @@
                     "ui_type":{
                         "unitary":true,
                         "ratio":1.778,
-                        "name":"block_grid_classic"
+                        "name":"block_grid_subject_play"
                     }
                 },
                 {
@@ -71,7 +71,7 @@
                             },
                             "title":"骑行小鲜肉",
                             "ui_type":{
-                                "name":"subject_play_item",
+                                "name":"display_item",
                                 "pos":{
                                     "y":0,
                                     "x":0,
@@ -95,7 +95,7 @@
                     "ui_type":{
                         "unitary":true,
                         "ratio":1.778,
-                        "name":"block_grid_classic"
+                        "name":"block_grid_subject_play"
                     }
                 },
                 {
@@ -115,7 +115,7 @@
                             },
                             "title":"越野跑小鲜肉",
                             "ui_type":{
-                                "name":"subject_play_item",
+                                "name":"display_item",
                                 "pos":{
                                     "y":0,
                                     "x":0,
@@ -139,7 +139,7 @@
                     "ui_type":{
                         "unitary":true,
                         "ratio":1.778,
-                        "name":"block_grid_classic"
+                        "name":"block_grid_subject_play"
                     }
                 }
             ]
