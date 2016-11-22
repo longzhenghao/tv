@@ -5969,6 +5969,6 @@
     "title":"用户信息",
     "ui_type":{
         "unitary":true,
-        "name":"left_nav_user"
+        "name":"top_nav_user"
     }
 }
