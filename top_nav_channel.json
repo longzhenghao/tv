@@ -28,9 +28,6 @@
                 name: "block_list"
             },
             blocks: [
-                {
-                    
-                }
             ],
             ad: {
                 enable: false
