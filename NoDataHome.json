@@ -1,0 +1,144 @@
+{
+    status: 0,
+    ui_type: {
+        name: "left_nav"
+    },
+    data_source: "manual",
+    ver: 1488175349,
+    ad: {
+        enable: false
+    },
+    block_index: 1,
+    sub_title: "",
+    stat: {
+        from: "0:简洁版首页导航",
+        name: "简洁版首页导航",
+        pagenum: 1,
+        position: 0,
+        navigation: "简洁版首页导航",
+        type: "频道"
+    },
+    filter: "",
+    alias: "lite_home",
+    is_template: false,
+    blocks: [
+        {
+            ui_type: {
+                name: "block_list"
+            },
+            ver: 1487682121,
+            target: {
+                url: "tv/v3/user/info",
+                entity: "usercenter:account",
+                schema: "yktv"
+            },
+            title: "我的",
+            sub_title: "",
+            stat: {
+                header_position: "0",
+                pagenum: 1,
+                name: "我的",
+                from: "0:简洁版首页导航_0:我的",
+                type: "个人中心:账户",
+                position: 0,
+                navigation: "简洁版首页导航",
+                header_name: "我的"
+            },
+            filter: "",
+            alias: "",
+            is_template: false,
+            images: {
+                focused_icon: {
+                    url: "http://r4.cp31.ott.cibntv.net/0510000058520D376714C048CC09438A",
+                    md5: "1b1869cfdbfc9482e4c16b61e78b1416"
+                },
+                normal_icon: {
+                    url: "http://r4.cp31.ott.cibntv.net/0510000058520D306714C048BC01F467",
+                    md5: "247847cbe29aed1c35a8557728c20b80"
+                }
+            },
+            blocks: [],
+            id: 3485,
+            ad: {
+                enable: false
+            }
+        },
+        {
+            stat: {
+                header_position: "1",
+                pagenum: 1,
+                name: "精选",
+                from: "0:简洁版首页导航_1:精选",
+                type: "节目详情页",
+                position: 1,
+                navigation: "简洁版首页导航",
+                header_name: "精选"
+            },
+            ver: 1488175349,
+            target: {
+                entity: "detail:show",
+                schema: "yktv"
+            },
+            title: "精选",
+            ui_type: {
+                name: "block_list"
+            },
+            filter: "",
+            is_template: false,
+            images: {
+                focused_icon: {
+                    url: "http://r4.cp31.ott.cibntv.net/0510000058520D0B6714C049A106D2B0",
+                    md5: "ff3619e549a83808371c88e33c8ce84c"
+                },
+                normal_icon: {
+                    url: "http://r2.cp31.ott.cibntv.net/0510000058520D006714C049800AE4E0",
+                    md5: "aabf2b399d50ee9e5fd35199294434db"
+                }
+            },
+            blocks: [],
+            id: 3486,
+            ad: {
+                enable: false
+            }
+        },
+        {
+            stat: {
+                header_position: "2",
+                pagenum: 1,
+                name: "分类",
+                from: "0:简洁版首页导航_2:分类",
+                type: "节目详情页",
+                position: 2,
+                navigation: "简洁版首页导航",
+                header_name: "分类"
+            },
+            ver: 1486633504,
+            target: {
+                entity: "detail:show",
+                schema: "yktv"
+            },
+            title: "分类",
+            ui_type: {
+                name: "block_list"
+            },
+            filter: "",
+            is_template: false,
+            images: {
+                focused_icon: {
+                    url: "http://r2.cp31.ott.cibntv.net/0510000058520D216714C049E4045F7C",
+                    md5: "3a43803c0c39e5209bc9b810cbc25ee3"
+                },
+                normal_icon: {
+                    url: "http://r2.cp31.ott.cibntv.net/0510000058520D1B6714C049D2022284",
+                    md5: "62f61eff7da3627439b61f77a7fc1212"
+                }
+            },
+            blocks: [],
+            id: 3488,
+            ad: {
+                enable: false
+            }
+        }
+    ],
+    id: 3484
+}
