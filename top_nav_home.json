@@ -474,6 +474,244 @@
             "images":{
             },
             "blocks":[
+	    {
+                    "ui_type": {
+                        "unitary": true,
+                        "ratio": 1,
+                        "name": "block_grid_coverflow_h",
+                        "columns": 6
+                    },
+                    "ver": 1488440065,
+                    "target": {
+                        "schema": "yktv",
+                        "entity": "detail:show"
+                    },
+                    "title": "真的是coverflow",
+                    "items": [
+                        {
+                            "ui_type": {
+                                "name": "display_item"
+                            },
+                            "ver": 1488437905,
+                            "stat_name": "节目详情页",
+                            "title": "1",
+                            "stat": {
+                                "from": "0:首页导航_1:精选_0:真的是coverflow_0:1",
+                                "pagenum": 1,
+                                "name": "1",
+                                "spma": "a2h1w",
+                                "navigation": "首页导航",
+                                "type": "节目详情页",
+                                "position": 0,
+                                "spmb": "8271240",
+                                "header_position": "1",
+                                "header_name": "精选"
+                            },
+                            "filter": "",
+                            "is_template": false,
+                            "target": {
+                                "schema": "yktv",
+                                "entity": "detail:show"
+                            },
+                            "images": {
+                                "poster": {
+                                    "url": "http://r1.cp31.ott.cibntv.net/0510000058B7C235A43525DDDD070961",
+                                    "md5": "f4e597630e2267dd9d3fd9cc2eea9807"
+                                }
+                            },
+                            "id": 3974,
+                            "ad": {
+                                "enable": false
+                            }
+                        },
+                        {
+                            "ui_type": {
+                                "name": "display_item"
+                            },
+                            "ver": 1488437912,
+                            "stat_name": "节目详情页",
+                            "title": "2",
+                            "stat": {
+                                "from": "0:首页导航_1:精选_0:真的是coverflow_1:2",
+                                "pagenum": 1,
+                                "name": "2",
+                                "spma": "a2h1w",
+                                "navigation": "首页导航",
+                                "type": "节目详情页",
+                                "position": 1,
+                                "spmb": "8271240",
+                                "header_position": "1",
+                                "header_name": "精选"
+                            },
+                            "filter": "",
+                            "is_template": false,
+                            "target": {
+                                "schema": "yktv",
+                                "entity": "detail:show"
+                            },
+                            "images": {
+                                "poster": {
+                                    "url": "http://r3.cp31.ott.cibntv.net/0510000058B7C247A43525DDDE00D3BF",
+                                    "md5": "64d326a787c066170a7d23688a966791"
+                                }
+                            },
+                            "id": 3975,
+                            "ad": {
+                                "enable": false
+                            }
+                        },
+                        {
+                            "ui_type": {
+                                "name": "display_item"
+                            },
+                            "ver": 1488437919,
+                            "stat_name": "节目详情页",
+                            "title": "3",
+                            "stat": {
+                                "from": "0:首页导航_1:精选_0:真的是coverflow_2:3",
+                                "pagenum": 1,
+                                "name": "3",
+                                "spma": "a2h1w",
+                                "navigation": "首页导航",
+                                "type": "节目详情页",
+                                "position": 2,
+                                "spmb": "8271240",
+                                "header_position": "1",
+                                "header_name": "精选"
+                            },
+                            "filter": "",
+                            "is_template": false,
+                            "target": {
+                                "schema": "yktv",
+                                "entity": "detail:show"
+                            },
+                            "images": {
+                                "poster": {
+                                    "url": "http://r1.cp31.ott.cibntv.net/0510000058B7C258A43525DDE004E721",
+                                    "md5": "48ffe824c5052f75438eed8293467605"
+                                }
+                            },
+                            "id": 3976,
+                            "ad": {
+                                "enable": false
+                            }
+                        },
+                        {
+                            "ui_type": {
+                                "name": "display_item"
+                            },
+                            "ver": 1488437928,
+                            "stat_name": "节目详情页",
+                            "title": "4",
+                            "stat": {
+                                "from": "0:首页导航_1:精选_0:真的是coverflow_3:4",
+                                "pagenum": 1,
+                                "name": "4",
+                                "spma": "a2h1w",
+                                "navigation": "首页导航",
+                                "type": "节目详情页",
+                                "position": 3,
+                                "spmb": "8271240",
+                                "header_position": "1",
+                                "header_name": "精选"
+                            },
+                            "filter": "",
+                            "is_template": false,
+                            "target": {
+                                "schema": "yktv",
+                                "entity": "detail:show"
+                            },
+                            "images": {
+                                "poster": {
+                                    "url": "http://r3.cp31.ott.cibntv.net/0510000058B7C269A43525DDE300F357",
+                                    "md5": "fdd860ba26abff5dfed5990f6816115e"
+                                }
+                            },
+                            "id": 3977,
+                            "ad": {
+                                "enable": false
+                            }
+                        },
+                        {
+                            "ui_type": {
+                                "name": "display_item"
+                            },
+                            "ver": 1488437934,
+                            "stat_name": "节目详情页",
+                            "title": "5",
+                            "stat": {
+                                "from": "0:首页导航_1:精选_0:真的是coverflow_4:5",
+                                "pagenum": 1,
+                                "name": "5",
+                                "spma": "a2h1w",
+                                "navigation": "首页导航",
+                                "type": "节目详情页",
+                                "position": 4,
+                                "spmb": "8271240",
+                                "header_position": "1",
+                                "header_name": "精选"
+                            },
+                            "filter": "",
+                            "is_template": false,
+                            "target": {
+                                "schema": "yktv",
+                                "entity": "detail:show"
+                            },
+                            "id": 3978,
+                            "ad": {
+                                "enable": false
+                            }
+                        },
+                        {
+                            "ui_type": {
+                                "name": "display_item"
+                            },
+                            "ver": 1488439518,
+                            "stat_name": "节目详情页",
+                            "title": "6",
+                            "stat": {
+                                "from": "0:首页导航_1:精选_0:真的是coverflow_5:6",
+                                "pagenum": 1,
+                                "name": "6",
+                                "spma": "a2h1w",
+                                "navigation": "首页导航",
+                                "type": "节目详情页",
+                                "position": 5,
+                                "spmb": "8271240",
+                                "header_position": "1",
+                                "header_name": "精选"
+                            },
+                            "filter": "",
+                            "is_template": false,
+                            "target": {
+                                "schema": "yktv",
+                                "entity": "detail:show"
+                            },
+                            "id": 3982,
+                            "ad": {
+                                "enable": false
+                            }
+                        }
+                    ],
+                    "stat": {
+                        "from": "0:首页导航_1:精选_0:真的是coverflow",
+                        "pagenum": 1,
+                        "name": "真的是coverflow",
+                        "spma": "a2h1w",
+                        "navigation": "首页导航",
+                        "type": "节目详情页",
+                        "position": 0,
+                        "spmb": "8271240",
+                        "header_position": "1",
+                        "header_name": "精选"
+                    },
+                    "filter": "",
+                    "is_template": false,
+                    "id": 3960,
+                    "ad": {
+                        "enable": false
+                    }
+                },
                 {
                     "ui_type":{
                         "unitary":false,
