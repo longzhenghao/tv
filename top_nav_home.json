@@ -657,6 +657,16 @@
                                 "schema": "yktv",
                                 "entity": "detail:show"
                             },
+			                              "images":{
+                                "poster":{
+                                    "url":"http://r2.cp31.ott.cibntv.net/0510000058338D006714C07537009C0A",
+                                    "md5":"0754e425b872de11aa6befee4b6285e9"
+                                },
+                                "fore":{
+                                    "url":"http://r2.cp31.ott.cibntv.net/0510000058323B546714C024E80A6410",
+                                    "md5":"407453e4b7d636383ffa2e9aee58bf6b"
+                                }
+                            },
                             "id": 3978,
                             "ad": {
                                 "enable": false
@@ -686,6 +696,16 @@
                             "target": {
                                 "schema": "yktv",
                                 "entity": "detail:show"
+                            },
+			                               "images":{
+                                "poster":{
+                                    "url":"http://r3.cp31.ott.cibntv.net/05100000583390F36714C0751607AB33",
+                                    "md5":"4b1c2afa9f0920de9d3d1938d0cc6636"
+                                },
+                                "fore":{
+                                    "url":"http://r4.cp31.ott.cibntv.net/051000005833A5036714C075430145D8",
+                                    "md5":"fef46df3b8f189512b2980271665487c"
+                                }
                             },
                             "id": 3982,
                             "ad": {
